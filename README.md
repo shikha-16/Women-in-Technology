@@ -5,15 +5,59 @@ I'm hoping this will help all the young girls across India, and encourage them t
 
 ## Different Fields in Computer Science
 
-## Amazing Sites
-
 ## Mentors and Blogs
 
 ## Organizations to Promote Women in Tech
 
+### GirlScript
+[GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
+
+### Women Who Code
+When you become a part of [Women Who Code](https://www.womenwhocode.com/) you gain access to programs and services that are designed to help you step up your tech career. We have over 200,000 members who are career-aged tech professionals operating at each level of the industry.
+
+### LearnITGirl
+[LearnIT Girl!](https://www.learnitgirl.com/): Their aim is to help women learn a programming language while doing an awesome project! But don't worry, you're not alone in this journey, each scholar has a mentor that guides them on their path. There are many roads you can take and we will make sure you go on the one that is best for you - without missing out on the important features of the chosen language.
+
+### Girls Who Code
+[Girls Who Code](https://girlswhocode.com/) is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.
+
+### Girls Teaching Girls Who Code
+At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org/), we empower college girls pursuing Computer Science and Engineering to connect with local high school girls and inspire them through mentorship and applied projects.
+
+### PyLadies
+[PyLadies](https://pyladies.com/)aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
+
+### Girls In Tech
+[Girls in Tech](https://girlsintech.org/) is a nonprofit organization dedicated to eliminating the gender gap in tech. 
+
+### Built By Girls
+[BUILT BY GIRLS](https://www.builtbygirls.com/) prepares female and non-binary students to step boldly into careers powered by technology. 
+
+### Girl Develop It
+[Girl Devleop It](https://www.girldevelopit.com/) is a nonprofit organization that provides affordable programs for adult women and non-binary individuals to learn web and software development in a judgement free environment.
+
+
 ## Scholarships
+[Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
+
+[Adobe Research Women in Technology Scholarship](https://research.adobe.com/scholarship/)
+
+[Adobe India Research Women in Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)
+
+[Palantir Global Impact Scholarship](https://www.palantir.com/students/scholarship/global-impact/)
+
+[Nutanix .heart Women in Technology Scholarship](https://www.nutanix.com/scholarships)
+
+[Grace Hopper Celebration Scholarships](https://ghc.anitab.org/scholarships-2/)
 
 ## Other Helpful Repositories
+[Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
+
+[Awesome Lists](https://github.com/sindresorhus/awesome)
+
+[Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+[Open Source](https://github.com/shainakrumme/open-source-handbook)
 
 ### Want to Contribute?
 Thank you for wanting to contribute and be a part of this wonderful community! All suggestions and contributions are welcome. Please go through the basic community guidelines on CONTRIBUTING.md before creating a new issue or pull request. 
