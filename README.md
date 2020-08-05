@@ -5,7 +5,7 @@ I'm hoping this will help all the young girls across India, and encourage them t
 
 ## Different Fields in Computer Science
 
-1. **Computer Science Theory**
+### 1. Computer Science Theory
   * Algorithms and Data Structures : Studying different algorithms and data structures used in programming.
     * Algorithms
     * Data structures
@@ -32,7 +32,7 @@ I'm hoping this will help all the young girls across India, and encourage them t
    * Formal Methods: Deals with formal specifications required for hardware and software
    
    
-2. **Systems Theory**
+### 2. Systems Theory
 
   * Computer Architecture and engineering: Principles behind organizing and building a computer
     * Digital logic: performing operations with 0s and 1s on hardware
@@ -52,7 +52,7 @@ I'm hoping this will help all the young girls across India, and encourage them t
   * Databases: Study involving developing databases which are entities responsible for storing, managing and processing data.
   
   
-3. **Computer Applications**
+### 3. Computer Applications
 
   * Computer graphics: Generate images, videos and animations ( visual content) for games, movies etc
   
@@ -72,7 +72,7 @@ I'm hoping this will help all the young girls across India, and encourage them t
     * Robotics
     
     
- 4. **Software Engineering**
+ ### 4. Software Engineering
  
   * Study of designing, implementing, and modifying software in order to ensure it is of high quality, affordable, maintainable, and fast to build.
   * Also study about organizing and analyzing software
