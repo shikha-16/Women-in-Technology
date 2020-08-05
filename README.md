@@ -3,6 +3,8 @@
 Hey there! This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. 
 
+ ![Women-in-tech](https://anitab.org/wp-content/uploads/2017/08/indian-women-tech-700x467.jpg)
+
 ## Different Fields in Computer Science
 
 ### 1. Computer Science Theory
@@ -40,7 +42,7 @@ I'm hoping this will help all the young girls across India, and encourage them t
     * Multi Processing (Pipelines, Multi core systems)
     * Ubiquitous Computing ( Simplify the idea of computing and make it available in all devices like cell phone, palmtops notebooks etc.)
     * Systems Architecture ( Principle behind designing computer systems using systems engineering approaches)
-    * Operating Systems (Study of operating systems which are like a bridge between hardware and software)
+    * Operating Systems (Study of operating systems which are like a bridge between hardware and software
     
   * Performance analysis: Study involving analysing performance of computer systems and come up with solutions to improve it.
   
@@ -122,6 +124,8 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 [Nutanix .heart Women in Technology Scholarship](https://www.nutanix.com/scholarships)
 
 [Grace Hopper Celebration Scholarships](https://ghc.anitab.org/scholarships-2/)
+
+## Women in Technology Role Models
 
 ## Other Helpful Repositories
 [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
