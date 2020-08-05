@@ -16,10 +16,10 @@ I'm hoping this will help all the young girls across India, and encourage them t
 ## Other Helpful Repositories
 
 ### Want to Contribute?
-Thank you for wanting to contribute! All suggestions and contributions are welcome. Please go through the basic community guidelines on CONTRIBUTING.md before creating a new issue or pull request. 
+Thank you for wanting to contribute and be a part of this wonderful community! All suggestions and contributions are welcome. Please go through the basic community guidelines on CONTRIBUTING.md before creating a new issue or pull request. 
 
 ### License
 MIT License
 
-#### Maintained by Shikha Bhat
+#### Created and maintained by Shikha Bhat
 
