@@ -4,6 +4,19 @@ Hey there! This repository is for storing everything any girl would look for or 
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. 
 
  ![Women-in-tech](https://anitab.org/wp-content/uploads/2017/08/indian-women-tech-700x467.jpg)
+ 
+If you want to explore the world of Computer Science, this is the place to be! 
+
+To know more about the different fields in CS and access their resources, see [here].
+## Learn by Doing
+
+### 1. Competitive Programming
+### 2. Open Source Projects
+### 3. Development Projects
+### 4. Machine Learning and AI
+### 5. Data Science/ Big Data/ IoT/ Statistics
+### 6. Cybersecurity
+
 ## Different Fields in Computer Science 
 ### 1. Computer Science Theory
   * Algorithms and Data Structures : Studying different algorithms and data structures used in programming.
