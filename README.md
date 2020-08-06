@@ -76,11 +76,5 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 ## Want to Contribute?
 Thank you for wanting to contribute and be a part of this wonderful community! All suggestions and contributions are welcome. Please go through the basic community guidelines on CONTRIBUTING.md before creating a new issue or pull request. 
 
-## License
-shikha-16/Women-in-Tech-India is licensed under the
-
-MIT License
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-
 ## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
 
