@@ -75,8 +75,29 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 
 [Open Source](https://github.com/shainakrumme/open-source-handbook)
 
-## Want to Contribute?
-Thank you for wanting to contribute and be a part of this wonderful community! All suggestions and contributions are welcome. Please go through the basic community guidelines on CONTRIBUTING.md before creating a new issue or pull request. 
+## Community
+
+- Tweeting via [@storybookjs](https://twitter.com/storybookjs)
+- Blogging at [Medium](https://medium.com/storybookjs)
+- Chatting on [Slack](https://now-examples-slackin-rrirkqohko.now.sh/)
+- Discussions on [Discord](https://discord.gg/sMFvFsG)
+- Streaming saved at [Youtube](https://www.youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg)
+
+## Contributing
+
+We welcome contributions to Women in Tech!
+
+- 📥 Pull requests and 🌟 Stars are always welcome.
+- Read our [contributing guide](CONTRIBUTING.md) to get started,
+  or find us on [Discord](https://discord.gg/sMFvFsG), we will take the time to guide you
+
+Looking for a first issue to tackle?
+
+- We tag issues with [![Good First Issue](https://img.shields.io/github/issues/storybookjs/storybook/good%20first%20issue.svg)](https://github.com/storybookjs/storybook/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) when we think they are well suited for people who are new to the codebase or OSS in general.
+- [Talk to us](https://discord.gg/sMFvFsG), we'll find something to suits your skills and learning interest.
+
+## License
+[MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
 
 ## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
 
