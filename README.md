@@ -1,3 +1,5 @@
+<p align="center">
+ 
 # Women in Tech (India) :woman:
 
 Hey there! This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
@@ -112,3 +114,4 @@ Looking for a first issue to tackle?
 
 ## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
 
+</p>
