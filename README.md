@@ -1,15 +1,26 @@
-# Women in Tech (India)
+# Women in Tech (India) :woman:
 
 Hey there! This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. 
 
  ![Women-in-tech](https://anitab.org/wp-content/uploads/2017/08/indian-women-tech-700x467.jpg)
  
-If you want to explore the world of Computer Science, this is the place to be! 
+If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
 ## Table of Contents
-- 
-To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Tech-India/blob/master/Different%20Fields%20in%20CS.md).
+- :earth_asia: [The World of CS](#The-World-of-Computer-Science)
+- :computer: Learn by Doing
+- :woman: Mentors and Blogs
+- :muscle: Organizations to Promote Women in Tech
+- :book: Scholarships
+- :ok_woman: Women in Tech Role Models
+- :heartbeat: Community
+- :+1: Other Helpful Repositories
+- :handshake: Contributing
+- :key: License
+
+## The World of Computer Science
+To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Tech-India/blob/master/Different%20Fields%20in%20CS.md). :eyes:
 ## Learn by Doing
 
 ### 1. Competitive Programming
