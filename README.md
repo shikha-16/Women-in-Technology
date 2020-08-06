@@ -9,15 +9,15 @@ If you want to explore the world of Computer Science, this is the place to be! E
 
 ## Table of Contents
 - :earth_asia: [The World of CS](#The-World-of-Computer-Science)
-- :computer: Learn by Doing
-- :woman: Mentors and Blogs
-- :muscle: Organizations to Promote Women in Tech
-- :book: Scholarships
-- :ok_woman: Women in Tech Role Models
-- :heartbeat: Community
-- :+1: Other Helpful Repositories
-- :handshake: Contributing
-- :key: License
+- :computer: [Learn by Doing](#Learn-by-Doing)
+- :woman: [Mentors and Blogs](#Mentors-and-Blogs)
+- :muscle: [Organizations to Promote Women in Tech](#Organizations-to-Promote-Women-in-Tech)
+- :book: [Scholarships](#Scholarships)
+- :ok_woman: [Women in Tech Role Models](#Women-in-Tech-Role-Models)
+- :heartbeat: [Community](#Community)
+- :+1: [Other Helpful Repositories](#Other-Helpful-Repositories)
+- :handshake: [Contributing](#Contributing)
+- :key: [License](#License)
 
 ## The World of Computer Science
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Tech-India/blob/master/Different%20Fields%20in%20CS.md). :eyes:
@@ -50,7 +50,7 @@ When you become a part of [Women Who Code](https://www.womenwhocode.com/) you ga
 At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org/), we empower college girls pursuing Computer Science and Engineering to connect with local high school girls and inspire them through mentorship and applied projects.
 
 ### PyLadies
-[PyLadies](https://pyladies.com/)aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
+[PyLadies](https://pyladies.com/) aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
 ### Girls In Tech
 [Girls in Tech](https://girlsintech.org/) is a nonprofit organization dedicated to eliminating the gender gap in tech. 
