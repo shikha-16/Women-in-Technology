@@ -103,7 +103,7 @@ We welcome contributions to Women in Tech!
 - 📥 Pull requests and 🌟 Stars are always welcome.
 - Read our [contributing guide](CONTRIBUTING.md) to get started,
   or find us on [Discord](https://discord.gg/sMFvFsG), we will take the time to guide you
-
+- Be sure to go through our [Code of Conduct](Code-of-Conduct.md) before contributing! :)
 Looking for a first issue to tackle?
 
 - We tag issues with [![Good First Issue](https://img.shields.io/github/issues/storybookjs/storybook/good%20first%20issue.svg)](https://github.com/storybookjs/storybook/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) when we think they are well suited for people who are new to the codebase or OSS in general.
