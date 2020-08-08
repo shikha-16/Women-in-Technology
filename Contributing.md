@@ -2,11 +2,6 @@
 Thank you for wanting to contribute!
 Please note that this project is released with a [Contributor Code of Conduct](Code-of-Conduct.md). By participating in this project you agree to abide by its terms.
 
-## Adding a new topic
-Please ensure your pull request adheres to the [PR guidelines](pull_request_template.md).
-
-## Adding something to a pre-existing topic
-
 If you have something awesome to contribute, this is how you do it.
 
 You'll need a [GitHub account](https://github.com/join)!
@@ -16,7 +11,8 @@ You'll need a [GitHub account](https://github.com/join)!
 3. Now click on the edit icon. 
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 5. **Say why you're proposing the changes**, and then click on "Propose file change". 
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+6. Please ensure your pull request adheres to the [PR guidelines](pull_request_template.md).
+7. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Updating your Pull Request
 
