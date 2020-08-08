@@ -101,7 +101,7 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 We welcome contributions to Women in Tech!
 
 - 📥 Pull requests and 🌟 Stars are always welcome.
-- Read our [contributing guide](CONTRIBUTING.md) to get started,
+- Read our [contributing guide](Contributing.md) to get started,
   or find us on [Discord](https://discord.gg/sMFvFsG), we will take the time to guide you
 - Be sure to go through our [Code of Conduct](Code-of-Conduct.md) before contributing! :)
 
