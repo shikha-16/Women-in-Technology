@@ -2,9 +2,10 @@
 Thank you for wanting to contribute!
 Please note that this project is released with a [Contributor Code of Conduct](Code-of-Conduct.md). By participating in this project you agree to abide by its terms.
 
-If you have something awesome to contribute, this is how you do it.
-
 You'll need a [GitHub account](https://github.com/join)!
+
+## Pull Requests
+If you have something awesome to contribute, this is how you do it.
 
 1. Access the Women in Tech GitHub page. For example: https://github.com/shikha-16/Women-in-Tech-India
 2. Click on the `readme.md` file: 
@@ -19,4 +20,10 @@ You'll need a [GitHub account](https://github.com/join)!
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the contributing guidelines.
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+
+
+## Creating and Addressing Issues
+If you have an issue, please go through the existing issues/PRs and see if it has already been/is being addressed. If not, you may [create a new issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue). Please make sure to describe your issue properly. 
+
+You can also contribute by addressing and commenting on issues, providing your suggestions and opinions on them. This will help the community grow! :smile:
 
