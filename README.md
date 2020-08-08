@@ -107,7 +107,7 @@ We welcome contributions to Women in Tech!
 
 ##### Looking for a first issue to tackle?
 
-- We tag issues with [![Good First Issue](https://img.shields.io/github/issues/storybookjs/storybook/good%20first%20issue.svg)](https://github.com/storybookjs/storybook/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) when we think they are well suited for people who are new to the codebase or OSS in general.
+- We tag issues with `Good First Issue` when we think they are well suited for people who are new to the codebase or OSS in general.
 
 ## License
 [MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
