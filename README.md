@@ -20,7 +20,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :woman: [Mentors and Blogs](#Mentors-and-Blogs)
 - :muscle: [Organizations to Promote Women in Tech](#Organizations-to-Promote-Women-in-Tech)
 - :book: [Scholarships](#Scholarships)
-- :ok_woman: [Women in Tech Role Models](#Women-in-Tech-Role-Models)
+- :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
 - :heartbeat: [Community](#Community)
 - :+1: [Other Helpful Repositories](#Other-Helpful-Repositories)
 - :handshake: [Contributing](#Contributing)
