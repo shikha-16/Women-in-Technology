@@ -99,7 +99,7 @@ Look, basically, if you’re using a computer - you’re using Grace Hopper’s 
 Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing
 [Read more](https://anitab.org/about-us/about-anita-borg/)
 
-[Let's take a look at some Indian names!]((https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/))
+[Let's take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 
 #### Reshma Saujani, New York
 _Lawyer, politician and founder/CEO, Girls Who Code_
