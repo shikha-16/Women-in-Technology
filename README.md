@@ -9,6 +9,11 @@ I'm hoping this will help all the young girls across India, and encourage them t
  
 If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
+
+A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
+> “There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself
+> and accept and appreciate that in others, you can make magic.”
+
 ## Table of Contents
 - :earth_asia: [The World of CS](#The-World-of-Computer-Science)
 - :computer: [Learn by Doing](#Learn-by-Doing)
@@ -23,6 +28,7 @@ If you want to explore the world of Computer Science, this is the place to be! E
 
 ## The World of Computer Science
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Tech-India/blob/master/Different%20Fields%20in%20CS.md). :eyes:
+
 ## Learn by Doing
 
 ### 1. Competitive Programming
@@ -79,6 +85,47 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 
 ## Women in Technology Role Models
 
+These have to be the first names on the list. Truly inspirational.
+#### Grace Hopper
+_She was a central figure in developing the first commercial computer, the UNIVAC I  , which changed the course of computers in society_
+
+Look, basically, if you’re using a computer - you’re using Grace Hopper’s work. Oh, and if you've ever had a 'computer bug' - you can go ahead and thank Hopper for coining that phrase too!
+
+#### Anita Borg
+
+Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing
+
+Let's take a look at some Indian names!
+#### Reshma Saujani, New York
+_Lawyer, politician and founder/CEO, Girls Who Code_
+
+Life hack: “Teach girls bravery, not perfection.”
+
+#### Debjani Ghosh, Delhi
+_President, NASSCOM_
+
+Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. If you don’t, no one else will believe it.”
+
+#### Geetha Kannan, Bengaluru
+_Managing director, Anitab.org India_
+
+Life hack: “Stay focused on the goal, and the opposition will melt away.”
+ 
+#### Ashni Dwarkadas, Mumbai
+_Co-founder, Hackberry_
+Life hack: “The conversation has to start when girls are young and have no inhibitions about speaking up and asserting themselves.”
+
+#### Deepa Madhavan, Chennai
+_Director, Enterprise Data Services, Paypal_
+
+Life hack: “Speak up and lean in!”
+
+#### Ashwini Asokan, Chennai
+_Founder and CEO, Mad Street Den_
+
+Life hack: “Re-skill yourself—learn and intern!”
+
+
 ## Other Helpful Repositories
 [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
 
@@ -108,6 +155,13 @@ We welcome contributions to Women in Tech!
 ##### Looking for a first issue to tackle?
 
 - We tag issues with `Good First Issue` when we think they are well suited for people who are new to the codebase or OSS in general.
+
+
+Amber Gordon, _Founder of Femsplain_:
+> “Trust in yourself, believe that your voice matters, and know that your words are good enough.”
+
+## Sources
+[6 women in tech whose stories will inspire young girls everywhere](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 
 ## License
 [MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
