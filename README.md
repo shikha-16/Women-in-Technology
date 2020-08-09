@@ -88,26 +88,26 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 These have to be the first names on the list. Truly inspirational.
 
 
-#### Grace Hopper
+### 1. Grace Hopper
 _She was a central figure in developing the first commercial computer, the UNIVAC I  , which changed the course of computers in society_
 
 Look, basically, if you’re using a computer - you’re using Grace Hopper’s work. Oh, and if you've ever had a 'computer bug' - you can go ahead and thank Hopper for coining that phrase too!
 [Read more](https://www.biography.com/scientist/grace-hopper)
 
-#### Anita Borg
+### 2. Anita Borg
 
-Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing
+Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing.
 [Read more](https://anitab.org/about-us/about-anita-borg/)
 
 [Let's take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 
-#### Reshma Saujani, New York
+#### 1. Reshma Saujani, New York
 _Lawyer, politician and founder/CEO, Girls Who Code_
 > Life hack: “Teach girls bravery, not perfection.”
 
 [Read more](https://reshmasaujani.com/about/)
 
-#### Debjani Ghosh, Delhi
+#### 2. Debjani Ghosh, Delhi
 _President, NASSCOM_
 
 > Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. 
@@ -115,19 +115,19 @@ _President, NASSCOM_
 
 [Read more](https://leanin.org/stories/debjani-ghosh)
 
-#### Geetha Kannan, Bengaluru
+#### 3. Geetha Kannan, Bengaluru
 _Managing director, Anitab.org India_
 > Life hack: “Stay focused on the goal, and the opposition will melt away.”
 
 [Read More](https://yourstory.com/2018/11/women-equal-crucial-building-tech-world-needs-says-geetha-kannan-md-anitab-org)
 
-#### Ashni Dwarkadas, Mumbai
+#### 4. Ashni Dwarkadas, Mumbai
 _Co-founder, Hackberry_
 > Life hack: “The conversation has to start when girls are young and have no inhibitions about speaking up and asserting themselves.”
 
 [Read more](https://yourstory.com/2016/06/koffeeplace)
 
-#### Ashwini Asokan, Chennai
+#### 5. Ashwini Asokan, Chennai
 _Founder and CEO, Mad Street Den_
 > Life hack: “Re-skill yourself—learn and intern!”
 
