@@ -86,45 +86,55 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 ## Women in Technology Role Models
 
 These have to be the first names on the list. Truly inspirational.
+
+
 #### Grace Hopper
 _She was a central figure in developing the first commercial computer, the UNIVAC I  , which changed the course of computers in society_
 
 Look, basically, if you’re using a computer - you’re using Grace Hopper’s work. Oh, and if you've ever had a 'computer bug' - you can go ahead and thank Hopper for coining that phrase too!
+[Read more](https://www.biography.com/scientist/grace-hopper)
 
 #### Anita Borg
 
 Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing
+[Read more](https://anitab.org/about-us/about-anita-borg/)
+
 
 Let's take a look at some Indian names!
+
+
+
 #### Reshma Saujani, New York
 _Lawyer, politician and founder/CEO, Girls Who Code_
+> Life hack: “Teach girls bravery, not perfection.”
 
-Life hack: “Teach girls bravery, not perfection.”
+[Read more](https://reshmasaujani.com/about/)
 
 #### Debjani Ghosh, Delhi
 _President, NASSCOM_
 
-Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. If you don’t, no one else will believe it.”
+> Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. 
+> If you don’t, no one else will believe it.”
+
+[Read more](https://leanin.org/stories/debjani-ghosh)
 
 #### Geetha Kannan, Bengaluru
 _Managing director, Anitab.org India_
+> Life hack: “Stay focused on the goal, and the opposition will melt away.”
 
-Life hack: “Stay focused on the goal, and the opposition will melt away.”
- 
+[Read More](https://yourstory.com/2018/11/women-equal-crucial-building-tech-world-needs-says-geetha-kannan-md-anitab-org)
+
 #### Ashni Dwarkadas, Mumbai
 _Co-founder, Hackberry_
-Life hack: “The conversation has to start when girls are young and have no inhibitions about speaking up and asserting themselves.”
+> Life hack: “The conversation has to start when girls are young and have no inhibitions about speaking up and asserting themselves.”
 
-#### Deepa Madhavan, Chennai
-_Director, Enterprise Data Services, Paypal_
-
-Life hack: “Speak up and lean in!”
+[Read more](https://yourstory.com/2016/06/koffeeplace)
 
 #### Ashwini Asokan, Chennai
 _Founder and CEO, Mad Street Den_
+> Life hack: “Re-skill yourself—learn and intern!”
 
-Life hack: “Re-skill yourself—learn and intern!”
-
+[Read more](http://shenomics.com/ashwini-ashokan/)
 
 ## Other Helpful Repositories
 [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
