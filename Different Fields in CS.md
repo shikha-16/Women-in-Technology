@@ -75,9 +75,9 @@
     * Systems Architecture ( Principle behind designing computer systems using systems engineering approaches)
     * Operating Systems (Study of operating systems which are like a bridge between hardware and software
     
-   #### # List of Resources
-   - [GitHub repository](https://github.com/rajesh-s/computer-engineering-resources)
-   - [Information](https://www.ece.ncsu.edu/research/cas/)
+   ##### List of Resources
+   1. [GitHub repository](https://github.com/rajesh-s/computer-engineering-resources)
+   2. [Information](https://www.ece.ncsu.edu/research/cas/)
     
   * Performance analysis: Study involving analysing performance of computer systems and come up with solutions to improve it. Performance Analysis is a specialist discipline involving systematic observations to enhance performance and improve decision making, primarily delivered through the provision of objective statistical (Data Analysis) and visual feedback (Video Analysis).
  
@@ -89,8 +89,8 @@
   
   [Description](https://en.wikipedia.org/wiki/Distributed_computing#Parallel_and_distributed_computing)
   ##### List of Resources
-  - [Introduction](http://www.cs.nuim.ie/~dkelly/CS402-06/Introduction.htm)
-  - [Useful Resource](https://www.computer.org/csdl/magazine/ds/2005/04/o4004/13rRUxBJhze) (literally :wink:)
+  1. [Introduction](http://www.cs.nuim.ie/~dkelly/CS402-06/Introduction.htm)
+  2. [Useful Resource](https://www.computer.org/csdl/magazine/ds/2005/04/o4004/13rRUxBJhze) (literally :wink:)
   
   * Computer Networks: Study of organizing computers into networks and communication within a network and between networks.
   
@@ -111,7 +111,7 @@
   
   [Description](https://en.wikipedia.org/wiki/Database)
   
-  ###### List of Resources
+  ##### List of Resources
   1. [Introduction](https://www.bmc.com/blogs/dbms-database-management-systems/)
   
 ### 3. Computer Applications
