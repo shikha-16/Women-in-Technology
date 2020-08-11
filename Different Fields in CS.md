@@ -66,6 +66,8 @@
 ### 2. Systems Theory
 
   * Computer Architecture and engineering: Principles behind organizing and building a computer
+  
+  Description: Computer architecture is a specification describing how hardware and software technologies interact to create a computer platform or system. When we think of the word architecture, we think of building a house or a building. Keeping that same principle in mind, computer architecture involves building a computer and all that goes into a computer system. 
     * Digital logic: performing operations with 0s and 1s on hardware
     * Micro Architecture (Processors, FPGAs)
     * Multi Processing (Pipelines, Multi core systems)
@@ -73,19 +75,48 @@
     * Systems Architecture ( Principle behind designing computer systems using systems engineering approaches)
     * Operating Systems (Study of operating systems which are like a bridge between hardware and software
     
-  * Performance analysis: Study involving analysing performance of computer systems and come up with solutions to improve it.
-  
+   #### # List of Resources
+   - [GitHub repository](https://github.com/rajesh-s/computer-engineering-resources)
+   - [Information](https://www.ece.ncsu.edu/research/cas/)
+    
+  * Performance analysis: Study involving analysing performance of computer systems and come up with solutions to improve it. Performance Analysis is a specialist discipline involving systematic observations to enhance performance and improve decision making, primarily delivered through the provision of objective statistical (Data Analysis) and visual feedback (Video Analysis).
+ 
+    Description: [What is Performance Analysis](https://medium.com/@konnks666/what-do-you-mean-by-performance-analysis-3fa6ef2cc9bb)
+    
+    ##### [A Guide to Performance Analysis](https://kimbleapps.zendesk.com/hc/en-us/articles/360008399893-Guide-to-Performance-Analysis)
+    
   * Parallel and distributed systems: Study involving how to parallelise and distribute the computing using a large number of resources instead of a single computer.
+  
+  [Description](https://en.wikipedia.org/wiki/Distributed_computing#Parallel_and_distributed_computing)
+  ##### List of Resources
+  - [Introduction](http://www.cs.nuim.ie/~dkelly/CS402-06/Introduction.htm)
+  - [Useful Resource](https://www.computer.org/csdl/magazine/ds/2005/04/o4004/13rRUxBJhze) (literally :wink:)
+  
   * Computer Networks: Study of organizing computers into networks and communication within a network and between networks.
   
+  Description: A computer network is a group of computers that use a set of common communication protocols over digital interconnections for the purpose of sharing resources located on or provided by the network nodes. The interconnections between nodes are formed from a broad spectrum of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.
+  
+  ##### List of Resources
+  1. [Basics](https://www.geeksforgeeks.org/basics-computer-networking/)
+  2. [Web Resources](https://www.cs.vu.nl/~ast/CN5/)
+  
   * Computer Security: Study of principles behind giving various securities to computer users and their information.
+  [Description](https://www.edureka.co/blog/what-is-computer-security/)
+  
+  ##### List of Resources
+  1. [Top 10 resources](https://www.hitachi-systems-security.com/blog/top-7-cyber-security-resources-you-need-to-bookmark/)
+  2. [Blogs, Podcasts and Education](https://computersciencems.com/resources/cyber-security/cyber-security-blogs-podcasts-education/)
   
   * Databases: Study involving developing databases which are entities responsible for storing, managing and processing data.
   
+  [Description](https://en.wikipedia.org/wiki/Database)
+  
+  ###### List of Resources
+  1. [Introduction](https://www.bmc.com/blogs/dbms-database-management-systems/)
   
 ### 3. Computer Applications
 
-  * Computer graphics: Generate images, videos and animations ( visual content) for games, movies etc
+  * Computer graphics: Generate images, videos and animations ( visual content) for games, movies etc.
   
   * HCI: Study involving principles and techniques employed in Human computer interaction.
   
