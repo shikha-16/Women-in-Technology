@@ -7,6 +7,11 @@
     * Computational Geometry
     * Combinatorial Optimization
     
+    [Description](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm#:~:text=Algorithm%20is%20a%20step%2Dby,more%20than%20one%20programming%20language.)
+    ##### List of Resources
+    - [GitHub repository](https://github.com/jwasham/coding-interview-university)
+    - [Codechef DSA](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+    
   * Theory of Computation : Deals with how to compute things on a computer
     * Automata theory
     * Computability theory
@@ -14,16 +19,40 @@
     * Quantum Computation
     * Cryptography
     
+    [Description](https://www.seas.upenn.edu/~cit596/notes/intro.pdf)
+    ##### List of Resources
+    -[Geeks for Geeks](https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/)
+    -[MIT Open CourseWare](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/)
+ 
   * Information science
     * Information theory (representing information, quantifying it)
     * Coding theory (compression, correction, error detection etc)
+    
+    [Description](https://www.asist.org/about/what-is-information-science/)
+    ##### List of Resources
+    - [Quick Resources](https://www.quickbase.com/articles/library-and-information-science-resources)
+    - [A Guide to Online Resources](https://www.loc.gov/rr/program/bib/libsci/fulltext.html)
+    
     
   * Programming Language theory : Deals with how to develop a programming language
     * Type theory (How to represent “types” of data)
     * Compiler design (How to design compilers and interpreters which help computer understand the language)
     * Programming languages
     
+    Description: A branch of ComputerScience which deals with the design, implementation, analysis, characterization, and classification of ProgrammingLanguages and programming language features. It is a multi-disciplinary field, both depending on (and in some cases affecting) mathematics, software engineering, linguistics, and even the cognitive sciences. It is a well-recognized branch of computer science, and an active research area.
+    ##### List of Resources
+    - [GitHub repository](https://github.com/steshaw/plt)
+    - [Book](https://www.classes.cs.uchicago.edu/archive/2010/fall/22100-1/book/Harper2005.pdf)
+    
    * Formal Methods: Deals with formal specifications required for hardware and software
+   
+   [Description](https://en.wikipedia.org/wiki/Formal_methods)
+   Formal methods are techniques used to model complex systems as mathematical entities. By building a mathematically rigorous model of a complex system, it is possible to verify the system's properties in a more thorough fashion than empirical testing.
+   
+   ##### List of Resources
+   - [Information](https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/)
+   - [Resources](http://www.rspa.com/spi/formal-methods.html#resources)
+   
    
    
 ### 2. Systems Theory
