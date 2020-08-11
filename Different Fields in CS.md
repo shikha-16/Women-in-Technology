@@ -10,7 +10,7 @@
     * Combinatorial Optimization
     
     
-    ##### List of Resources
+    ##### *List of Resources*
     1. [GitHub repository](https://github.com/jwasham/coding-interview-university)
     2. [Codechef DSA](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
     
@@ -23,7 +23,7 @@
     * Quantum Computation
     * Cryptography
     
-    ##### List of Resources
+    ##### *List of Resources*
     1. [Geeks for Geeks](https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/)
     2. [MIT Open CourseWare](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/)
  
@@ -34,7 +34,7 @@
     * Coding theory (compression, correction, error detection etc)
     
     
-    ##### List of Resources
+    ##### *List of Resources*
     1. [Quick Resources](https://www.quickbase.com/articles/library-and-information-science-resources)
     2. [A Guide to Online Resources](https://www.loc.gov/rr/program/bib/libsci/fulltext.html)
     
@@ -47,7 +47,7 @@
     * Programming languages
     
     
-    ##### List of Resources
+    ##### *List of Resources*
     1. [GitHub repository](https://github.com/steshaw/plt)
     2. [Book](https://www.classes.cs.uchicago.edu/archive/2010/fall/22100-1/book/Harper2005.pdf)
     
@@ -57,7 +57,7 @@
     
      Formal methods are techniques used to model complex systems as mathematical entities. By building a mathematically rigorous model of a complex system, it is      possible to verify the system's properties in a more thorough fashion than empirical testing.
    
-     ##### List of Resources
+     ##### *List of Resources*
      1. [Information](https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/)
      2. [Resources](http://www.rspa.com/spi/formal-methods.html#resources)
    
@@ -75,7 +75,7 @@
     * Systems Architecture ( Principle behind designing computer systems using systems engineering approaches)
     * Operating Systems (Study of operating systems which are like a bridge between hardware and software
     
-     ##### List of Resources
+     ##### *List of Resources*
      1. [GitHub repository](https://github.com/rajesh-s/computer-engineering-resources)
      2. [Information](https://www.ece.ncsu.edu/research/cas/)
     
@@ -88,7 +88,7 @@
   * **Parallel and distributed systems**: Study involving how to parallelise and distribute the computing using a large number of resources instead of a single computer.
   
     [Description](https://en.wikipedia.org/wiki/Distributed_computing#Parallel_and_distributed_computing)
-    ##### List of Resources
+    ##### *List of Resources*
     1. [Introduction](http://www.cs.nuim.ie/~dkelly/CS402-06/Introduction.htm)
     2. [Useful Resource](https://www.computer.org/csdl/magazine/ds/2005/04/o4004/13rRUxBJhze) (literally :wink:)
 
@@ -96,14 +96,14 @@
   
     Description: A computer network is a group of computers that use a set of common communication protocols over digital interconnections for the purpose of sharing resources located on or provided by the network nodes. The interconnections between nodes are formed from a broad spectrum of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.
   
-    ##### List of Resources
+    ##### *List of Resources*
     1. [Basics](https://www.geeksforgeeks.org/basics-computer-networking/)
     2. [Web Resources](https://www.cs.vu.nl/~ast/CN5/)
 
-  * Computer Security: Study of principles behind giving various securities to computer users and their information.
+  * **Computer Security**: Study of principles behind giving various securities to computer users and their information.
     [Description](https://www.edureka.co/blog/what-is-computer-security/)
   
-    ##### List of Resources
+    ##### *List of Resources*
     1. [Top 10 resources](https://www.hitachi-systems-security.com/blog/top-7-cyber-security-resources-you-need-to-bookmark/)
     2. [Blogs, Podcasts and Education](https://computersciencems.com/resources/cyber-security/cyber-security-blogs-podcasts-education/)
 
@@ -111,7 +111,7 @@
   
     [Description](https://en.wikipedia.org/wiki/Database)
   
-    ##### List of Resources
+    ##### *List of Resources*
     1. [Introduction](https://www.bmc.com/blogs/dbms-database-management-systems/)
   
 ### 3. Computer Applications
