@@ -76,8 +76,8 @@
     * Operating Systems (Study of operating systems which are like a bridge between hardware and software
     
      ##### List of Resources
-   1. [GitHub repository](https://github.com/rajesh-s/computer-engineering-resources)
-   2. [Information](https://www.ece.ncsu.edu/research/cas/)
+     1. [GitHub repository](https://github.com/rajesh-s/computer-engineering-resources)
+     2. [Information](https://www.ece.ncsu.edu/research/cas/)
     
   * Performance analysis: Study involving analysing performance of computer systems and come up with solutions to improve it. Performance Analysis is a specialist discipline involving systematic observations to enhance performance and improve decision making, primarily delivered through the provision of objective statistical (Data Analysis) and visual feedback (Video Analysis).
  
@@ -89,30 +89,30 @@
   
     [Description](https://en.wikipedia.org/wiki/Distributed_computing#Parallel_and_distributed_computing)
     ##### List of Resources
-  1. [Introduction](http://www.cs.nuim.ie/~dkelly/CS402-06/Introduction.htm)
-  2. [Useful Resource](https://www.computer.org/csdl/magazine/ds/2005/04/o4004/13rRUxBJhze) (literally :wink:)
-  
+    1. [Introduction](http://www.cs.nuim.ie/~dkelly/CS402-06/Introduction.htm)
+    2. [Useful Resource](https://www.computer.org/csdl/magazine/ds/2005/04/o4004/13rRUxBJhze) (literally :wink:)
+
   * Computer Networks: Study of organizing computers into networks and communication within a network and between networks.
   
     Description: A computer network is a group of computers that use a set of common communication protocols over digital interconnections for the purpose of sharing resources located on or provided by the network nodes. The interconnections between nodes are formed from a broad spectrum of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.
   
     ##### List of Resources
-  1. [Basics](https://www.geeksforgeeks.org/basics-computer-networking/)
-  2. [Web Resources](https://www.cs.vu.nl/~ast/CN5/)
-  
+    1. [Basics](https://www.geeksforgeeks.org/basics-computer-networking/)
+    2. [Web Resources](https://www.cs.vu.nl/~ast/CN5/)
+
   * Computer Security: Study of principles behind giving various securities to computer users and their information.
     [Description](https://www.edureka.co/blog/what-is-computer-security/)
   
     ##### List of Resources
-  1. [Top 10 resources](https://www.hitachi-systems-security.com/blog/top-7-cyber-security-resources-you-need-to-bookmark/)
-  2. [Blogs, Podcasts and Education](https://computersciencems.com/resources/cyber-security/cyber-security-blogs-podcasts-education/)
-  
+    1. [Top 10 resources](https://www.hitachi-systems-security.com/blog/top-7-cyber-security-resources-you-need-to-bookmark/)
+    2. [Blogs, Podcasts and Education](https://computersciencems.com/resources/cyber-security/cyber-security-blogs-podcasts-education/)
+
   * Databases: Study involving developing databases which are entities responsible for storing, managing and processing data.
   
     [Description](https://en.wikipedia.org/wiki/Database)
   
     ##### List of Resources
-  1. [Introduction](https://www.bmc.com/blogs/dbms-database-management-systems/)
+    1. [Introduction](https://www.bmc.com/blogs/dbms-database-management-systems/)
   
 ### 3. Computer Applications
 
