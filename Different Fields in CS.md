@@ -1,6 +1,7 @@
 ## Different Fields in Computer Science 
 ### 1. Computer Science Theory
   * Algorithms and Data Structures : Studying different algorithms and data structures used in programming.
+    
     [Description](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm#:~:text=Algorithm%20is%20a%20step%2Dby,more%20than%20one%20programming%20language.)
     * Algorithms
     * Data structures
@@ -27,6 +28,7 @@
     2. [MIT Open CourseWare](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/)
  
   * Information science
+    
     [Description](https://www.asist.org/about/what-is-information-science/)
     * Information theory (representing information, quantifying it)
     * Coding theory (compression, correction, error detection etc)
@@ -38,6 +40,7 @@
     
     
   * Programming Language theory : Deals with how to develop a programming language
+    
     Description: A branch of ComputerScience which deals with the design, implementation, analysis, characterization, and classification of ProgrammingLanguages and programming language features. It is a multi-disciplinary field, both depending on (and in some cases affecting) mathematics, software engineering, linguistics, and even the cognitive sciences. It is a well-recognized branch of computer science, and an active research area.
     * Type theory (How to represent “types” of data)
     * Compiler design (How to design compilers and interpreters which help computer understand the language)
@@ -51,6 +54,7 @@
    * Formal Methods: Deals with formal specifications required for hardware and software
    
      [Description](https://en.wikipedia.org/wiki/Formal_methods)
+    
      Formal methods are techniques used to model complex systems as mathematical entities. By building a mathematically rigorous model of a complex system, it is      possible to verify the system's properties in a more thorough fashion than empirical testing.
    
      ##### List of Resources
