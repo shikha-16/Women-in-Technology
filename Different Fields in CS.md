@@ -118,18 +118,18 @@
 
   * **Computer graphics**: Generate images, videos and animations ( visual content) for games, movies etc.
   
-  [Description](https://www.explainthatstuff.com/computer-graphics.html)
-  ##### *List of Resources*
-  1. [edX course](https://www.edx.org/course/computer-graphics-2)
-  2. [Geeks for Geeks](https://www.geeksforgeeks.org/computer-graphics-2/)
-  3. [Medium article for resources](https://medium.com/vrtigo/resources-for-beginning-graphics-programming-c0da724381bc)
+    [Description](https://www.explainthatstuff.com/computer-graphics.html)
+    ##### *List of Resources*
+    1. [edX course](https://www.edx.org/course/computer-graphics-2)
+    2. [Geeks for Geeks](https://www.geeksforgeeks.org/computer-graphics-2/)
+    3. [Medium article for resources](https://medium.com/vrtigo/resources-for-beginning-graphics-programming-c0da724381bc)
   
   * **HCI**: Study involving principles and techniques employed in *Human computer interaction.*
   
-  [Description](https://www.interaction-design.org/literature/topics/human-computer-interaction)
-  ##### *List of Resources*
-  1. [Reading list](https://pages.cpsc.ucalgary.ca/~saul/hci_resources/literature.html)
-  2. [Quick guide](https://www.tutorialspoint.com/human_computer_interface/quick_guide.htm)
+    [Description](https://www.interaction-design.org/literature/topics/human-computer-interaction)
+    ##### *List of Resources*
+    1. [Reading list](https://pages.cpsc.ucalgary.ca/~saul/hci_resources/literature.html)
+    2. [Quick guide](https://www.tutorialspoint.com/human_computer_interface/quick_guide.htm)
   
   
   * **Scientific computing**: Utilising computers to analyze and simulate scientific problems
