@@ -116,16 +116,39 @@
   
 ### 3. Computer Applications
 
-  * Computer graphics: Generate images, videos and animations ( visual content) for games, movies etc.
+  * **Computer graphics**: Generate images, videos and animations ( visual content) for games, movies etc.
   
-  * HCI: Study involving principles and techniques employed in Human computer interaction.
+  [Description](https://www.explainthatstuff.com/computer-graphics.html)
+  ##### *List of Resources*
+  1. [edX course](https://www.edx.org/course/computer-graphics-2)
+  2. [Geeks for Geeks](https://www.geeksforgeeks.org/computer-graphics-2/)
+  3. [Medium article for resources](https://medium.com/vrtigo/resources-for-beginning-graphics-programming-c0da724381bc)
   
-  * Scientific computing: Utilising computers to analyze and simulate scientific problems
+  * **HCI**: Study involving principles and techniques employed in *Human computer interaction.*
+  
+  [Description](https://www.interaction-design.org/literature/topics/human-computer-interaction)
+  ##### *List of Resources*
+  1. [Reading list](https://pages.cpsc.ucalgary.ca/~saul/hci_resources/literature.html)
+  2. [Quick guide](https://www.tutorialspoint.com/human_computer_interface/quick_guide.htm)
+  
+  
+  * **Scientific computing**: Utilising computers to analyze and simulate scientific problems
+  
+    [Computational Science](https://en.wikipedia.org/wiki/Computational_science#:~:text=Computational%20science%2C%20also%20known%20as,understand%20and%20solve%20complex%20problems.)
     * Numeric analysis
     * Bioinformatics
     * Computational Physical sciences ( Physics and Chemistry)
+    ##### *List of Resources*
+    1. [Bioinformatics course](https://www.coursera.org/specializations/bioinformatics)
+    2. [Great website for bioinformatics](https://www.bioinformatics.org/)
+    3. [MIT Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
+    4. [More about Computational Physics](https://en.wikipedia.org/wiki/Computational_physics#:~:text=Computational%20physics%20is%20the%20study,a%20subset%20of%20computational%20science.)
+    
   
-  * Artificial Intelligence: Study involving making computers intelligent like humans ( probably most popular of all the fields)
+  * **Artificial Intelligence**: Study involving making computers intelligent like humans ( probably most popular of all the fields)
+  
+    Description:Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+    
     * Pattern recognition
     * Machine learning
     * Data mining
@@ -133,6 +156,12 @@
     * Knowledge representation ( how to represent and quantify knowledge) and reasoning
     * Robotics
     
+    ##### *List of Resources*
+    1. [Artifical Intelligence: Everything](https://builtin.com/artificial-intelligence)
+    2. [Benefits and Risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/)
+    3. [Google AI](https://ai.google/education/)
+    4. [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
+    5. [Curated List of Resources](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
     
  ### 4. Software Engineering
  
