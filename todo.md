@@ -6,3 +6,4 @@
 4. Find at least two resources for all
 5. Create community
 6. Mentors and Blogs
+7. Open some issues
