@@ -34,13 +34,13 @@ Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgo
 ### 1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/Competitive%20Programming%20(1).pdf)
 ### 2. [Open Source Projects](https://opensource.guide/how-to-contribute/)
 ### 3. Development Projects
- 1. [App Development](https://www.intuz.com/mobile-app-development-guide)
-  - [Android AppD](https://developer.android.com/guide)
-  - iOS
- 2. [Web Development](https://www.educative.io/blog/beginner-guide-to-web-dev)
- 3. [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
- 4. [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
- 5. [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
+  1. [App Development](https://www.intuz.com/mobile-app-development-guide)
+    - [Android AppD](https://developer.android.com/guide)
+    - iOS
+  2. [Web Development](https://www.educative.io/blog/beginner-guide-to-web-dev)
+  3. [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
+  4. [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
+  5. [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
 
 ### 4. Machine Learning and AI
 ### 5. Data Science/ Big Data/ IoT/ Statistics
