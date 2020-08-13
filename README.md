@@ -48,6 +48,8 @@ Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgo
 
 ## Mentors and Blogs
 
+1. [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+
 ## Organizations to Promote Women in Tech
 
 ### GirlScript
