@@ -42,9 +42,9 @@ Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgo
  4. [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
  5. [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
 
-### 4. Machine Learning and AI
-### 5. Data Science/ Big Data/ IoT/ Statistics
-### 6. Cybersecurity
+4. Machine Learning and AI
+5. Data Science/ Big Data/ IoT/ Statistics
+6. Cybersecurity
 
 ## Mentors and Blogs
 
