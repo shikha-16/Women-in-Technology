@@ -30,7 +30,7 @@ To know more about the different fields in CS and access their resources, see [h
 ## Learn by Doing
 
 ### 1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/Competitive%20Programming%20(1).pdf)
-### 2. Open Source Projects
+### 2. [Open Source Projects](https://opensource.guide/how-to-contribute/)
 ### 3. Development Projects
 ### 4. Machine Learning and AI
 ### 5. Data Science/ Big Data/ IoT/ Statistics
