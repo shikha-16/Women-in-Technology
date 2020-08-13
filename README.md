@@ -29,7 +29,7 @@ To know more about the different fields in CS and access their resources, see [h
 
 ## Learn by Doing
 
-### 1. [Competitive Programming](Competitive Programming(1).pdf)
+### 1. [Competitive Programming](#Competitive Programming(1).pdf)
 ### 2. Open Source Projects
 ### 3. Development Projects
 ### 4. Machine Learning and AI
