@@ -25,7 +25,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :key: [License](#License)
 
 ## The World of Computer Science
-Check this out: [The 10 Domains in Computer Science](#The 10 Domains in Computer Science)
+Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf)
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Tech-India/blob/master/Different%20Fields%20in%20CS.md). :eyes:
 
 Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
