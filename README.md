@@ -41,8 +41,9 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 3. [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
 4. [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
 5. [Machine Learning and AI](https://atozofai.withgoogle.com/intl/en-GB/)
-6. [Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)/ [Big Data](https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3)/ [IoT](https://builtin.com/internet-things)
-7. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
+6. [Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)/ [Big Data](https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3)
+7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/IoT-a-beginners-guide-v1-sept27-1.pdf)
+8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 
 ## Mentors and Blogs
 
