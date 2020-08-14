@@ -32,20 +32,17 @@ Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgo
 
 ## Learn by Doing
 
+If you want to start learning how to code, here is a great site for that! [Codecademy](https://www.codecademy.com/)
+
+After you know basic coding, get started! Dive into any one of these, and learn more as you progress.
+
 1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/documents/Competitive%20Programming%20(1).pdf)
 2. [Open Source Projects](https://opensource.guide/how-to-contribute/)
-3. Development Projects
-  * [App Development](https://www.intuz.com/mobile-app-development-guide)
-      - [Android AppD](https://developer.android.com/guide)
-      - iOS
-  * [Web Development](https://www.educative.io/blog/beginner-guide-to-web-dev)
-  * [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
-  * [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
-  * [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
-
-4. Machine Learning and AI
-5. Data Science/ Big Data/ IoT/ Statistics
-6. Cybersecurity
+3. [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
+4. [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
+5. [Machine Learning and AI](https://atozofai.withgoogle.com/intl/en-GB/)
+6. [Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)/ [Big Data](https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3)/ [IoT](https://builtin.com/internet-things)
+7. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 
 ## Mentors and Blogs
 
