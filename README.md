@@ -5,6 +5,7 @@
 Hey there! This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. 
 
+
 If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
 
@@ -45,19 +46,6 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/IoT-a-beginners-guide-v1-sept27-1.pdf)
 8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 
-## Articles and Blogs
-
-Click to open an all-inclusive picture from [Next Generation](/documents/women.jpg)
-##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
-##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
-##### 3. Women in tech statistics: The hard truths of an uphill battle [CIO India](https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html)
-##### 4. Against the Odds: Growing the Number of Women in Technology [Huffpost](https://www.huffpost.com/entry/against-the-odds-growing_b_11231486)
-##### 5. Women In Tech: Inconvenient Truths And Changing Perspectives [Forbes](https://www.forbes.com/sites/julianvigo/2019/02/23/women-in-tech/#75f4c11e45d7) 
-##### 6. The Importance of women in technology [Blog](https://blog.usejournal.com/the-importance-of-women-in-technology-15a653d12c)
-##### 7. How to attract more women in STEM Careers [ISA](https://www.isa.org/getmedia/9dedf8d9-3c6d-4eba-a7b7-2442441a5241/How-to-attract-more-women-into-STEM-careers.pdf)
-##### 8. Keeping Girls in STEM: 3 Barriers, 3 Solutions [edutopia](https://www.edutopia.org/article/keeping-girls-stem-3-barriers-3-solutions)
-##### 9. How to get young girls excited about STEM [Forbes](https://www.forbes.com/sites/biancabarratt/2019/01/25/how-to-get-young-girls-excited-about-a-career-in-stem/#cb87be956016)
-##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 
 ## Organizations to Promote Women in Tech
 
@@ -155,6 +143,21 @@ _Founder and CEO, Mad Street Den_
 > Life hack: “Re-skill yourself—learn and intern!”
 
 [Read more](http://shenomics.com/ashwini-ashokan/)
+
+## Articles and Blogs
+
+![Next Generation](/documents/women.jpg)
+##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
+##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
+##### 3. Women in tech statistics: The hard truths of an uphill battle [CIO India](https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html)
+##### 4. Against the Odds: Growing the Number of Women in Technology [Huffpost](https://www.huffpost.com/entry/against-the-odds-growing_b_11231486)
+##### 5. Women In Tech: Inconvenient Truths And Changing Perspectives [Forbes](https://www.forbes.com/sites/julianvigo/2019/02/23/women-in-tech/#75f4c11e45d7) 
+##### 6. The Importance of women in technology [Blog](https://blog.usejournal.com/the-importance-of-women-in-technology-15a653d12c)
+##### 7. How to attract more women in STEM Careers [ISA](https://www.isa.org/getmedia/9dedf8d9-3c6d-4eba-a7b7-2442441a5241/How-to-attract-more-women-into-STEM-careers.pdf)
+##### 8. Keeping Girls in STEM: 3 Barriers, 3 Solutions [edutopia](https://www.edutopia.org/article/keeping-girls-stem-3-barriers-3-solutions)
+##### 9. How to get young girls excited about STEM [Forbes](https://www.forbes.com/sites/biancabarratt/2019/01/25/how-to-get-young-girls-excited-about-a-career-in-stem/#cb87be956016)
+##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
+
 
 ## Other Helpful Repositories
 [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
