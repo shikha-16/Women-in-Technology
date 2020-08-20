@@ -47,7 +47,7 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 
 ## Articles and Blogs
 
-Click to open an all-inclusive picture from [Next Generation](
+Click to open an all-inclusive picture from [Next Generation](/documents/women.jpg)
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 ##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
 ##### 3. Women in tech statistics: The hard truths of an uphill battle [CIO India](https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html)
