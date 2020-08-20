@@ -16,10 +16,10 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 ## Table of Contents
 - :earth_asia: [The World of CS](#The-World-of-Computer-Science)
 - :computer: [Learn by Doing](#Learn-by-Doing)
-- :woman: [Mentors and Blogs](#Mentors-and-Blogs)
 - :muscle: [Organizations to Promote Women in Tech](#Organizations-to-Promote-Women-in-Tech)
 - :book: [Scholarships](#Scholarships)
 - :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
+- :woman: [Articles and Blogs](#Articles-and-Blogs)
 - :heartbeat: [Community](#Community)
 - :+1: [Other Helpful Repositories](#Other-Helpful-Repositories)
 - :handshake: [Contributing](#Contributing)
@@ -159,6 +159,17 @@ _Founder and CEO, Mad Street Den_
 ##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 
 
+
+
+## Community
+
+- Tweeting via [@storybookjs](https://twitter.com/storybookjs)
+- Blogging at [Medium](https://medium.com/storybookjs)
+- Chatting on [Slack](https://now-examples-slackin-rrirkqohko.now.sh/)
+- Discussions on [Discord](https://discord.gg/sMFvFsG)
+- Streaming saved at [Youtube](https://www.youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg)
+
+
 ## Other Helpful Repositories
 [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
 
@@ -169,15 +180,6 @@ _Founder and CEO, Mad Street Den_
 [Open Source](https://github.com/shainakrumme/open-source-handbook)
 
 [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
-
-
-## Community
-
-- Tweeting via [@storybookjs](https://twitter.com/storybookjs)
-- Blogging at [Medium](https://medium.com/storybookjs)
-- Chatting on [Slack](https://now-examples-slackin-rrirkqohko.now.sh/)
-- Discussions on [Discord](https://discord.gg/sMFvFsG)
-- Streaming saved at [Youtube](https://www.youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg)
 
 ## Contributing
 
