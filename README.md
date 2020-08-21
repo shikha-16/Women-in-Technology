@@ -25,13 +25,13 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :handshake: [Contributing](#Contributing)
 - :key: [License](#License)
 
-## The World of Computer Science
+## :earth_asia: The World of Computer Science
 Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf)
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/fields.md). :eyes:
 
 Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
 
-## Learn by Doing
+## :computer: Learn by Doing
 
 If you want to start learning how to code, here is a great site for that! [Codecademy](https://www.codecademy.com/)
 
@@ -47,7 +47,7 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 
 
-## Organizations to Promote Women in Tech
+## :muscle: Organizations to Promote Women in Tech
 
 ### WIT Community
 Women In Technology [WIT](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
@@ -79,7 +79,7 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 [Girl Devleop It](https://www.girldevelopit.com/) is a nonprofit organization that provides affordable programs for adult women and non-binary individuals to learn web and software development in a judgement free environment.
 
 
-## Scholarships
+## :book: Scholarships
 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
   - [Women Techmakers Scholar Program](https://www.womentechmakers.com/scholars) : Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field.
   
@@ -104,7 +104,7 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 6. [WIT Scholarship](https://mywit.org/programs/scholarships-wit-campus/) : WIT believes in supporting you for all your hard work and we do this by offering scholarships that will help you in your college journey. That is why participants of the WIT Campus program will be eligible to apply for a student scholarship.
 
 
-## Women in Technology Role Models
+## :ok_woman: Women in Technology Role Models
 
 These have to be the first names on the list. Truly inspirational.
 
@@ -154,7 +154,7 @@ _Founder and CEO, Mad Street Den_
 
 [Read more](http://shenomics.com/ashwini-ashokan/)
 
-## Articles and Blogs
+## :woman: Articles and Blogs
 
 ![Next Generation](/documents/women.jpg)
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
@@ -171,7 +171,7 @@ _Founder and CEO, Mad Street Den_
 
 
 
-## Community
+## :heartbeat: Community
 
 - Tweeting via [@storybookjs](https://twitter.com/storybookjs)
 - Blogging at [Medium](https://medium.com/storybookjs)
@@ -180,7 +180,7 @@ _Founder and CEO, Mad Street Den_
 - Streaming saved at [Youtube](https://www.youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg)
 
 
-## Other Helpful Repositories
+## :+1: Other Helpful Repositories
 [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
 
 [Awesome Lists](https://github.com/sindresorhus/awesome)
@@ -191,7 +191,7 @@ _Founder and CEO, Mad Street Den_
 
 [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 
-## Contributing
+## :handshake: Contributing
 
 We welcome contributions to Women in Tech!
 
@@ -208,7 +208,7 @@ We welcome contributions to Women in Tech!
 Amber Gordon, _Founder of Femsplain_:
 > “Trust in yourself, believe that your voice matters, and know that your words are good enough.”
 
-## License
+## :key: License
 [MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
 
 ## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
