@@ -14,7 +14,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 > and accept and appreciate that in others, you can make magic.”
 
 ## Table of Contents
-- :earth_asia: [The World of CS](#The-World-of-Computer-Science)
+- :earth_asia: [The World of CS](#:earth_asia:-The-World-of-Computer-Science)
 - :computer: [Learn by Doing](#Learn-by-Doing)
 - :muscle: [Organizations to Promote Women in Tech](#Organizations-to-Promote-Women-in-Tech)
 - :book: [Scholarships](#Scholarships)
