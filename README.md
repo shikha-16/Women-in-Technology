@@ -80,19 +80,29 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 
 
 ## Scholarships
-[Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
+1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
+  - [Women Techmakers Scholar Program](https://www.womentechmakers.com/scholars) : Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field.
+  
+  - [Venkat Panchapakesan Memorial Scholarship](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/): This is a scholarship that will support university students in making the world a more sustainable place using technology and are passionate about the field of computer science and engineering. Students who are already using computer science to develop solutions for some of the challenges, or opportunities, that they see around them are invited to apply for the Venkat Panchapakesan Memorial Scholarship. *exclusive to India*
+  
+  - [Google Conference and Travel Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/) At Google, we believe a diversity of attributes, experiences, and perspectives are needed to build tools that can change the world. Everyone deserves an opportunity to pursue connections in the industry, networking with peers, and a career path in technology. To help break down the barriers that prevent underrepresented groups in technology and business from attending leading conferences, we're excited to offer Google Conference and Travel Scholarships for selected conferences in the tech industry and related fields.
 
-[Adobe Research Women in Technology Scholarship](https://research.adobe.com/scholarship/)
+2. Adobe Scholarships
+  - [Adobe Research Women in Technology Scholarship](https://research.adobe.com/scholarship/) :  To bring more gender diversity to the technology industry, we are pleased to invite applications to the Adobe Research Women-in-Technology Scholarship. The Adobe Research Women-in-Technology Scholarship recognizes outstanding undergraduate and masters female students anywhere in the world who are studying computer science.
 
-[Adobe India Research Women in Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)
+  - [Adobe India Research Women in Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) : Through the Adobe India    Women-in-Technology Scholarship, we are striving towards creating gender equality in science, technology and engineering domains by encouraging women to showcase their excellence in computing and technology and become future leaders and role models in the field.
+  
+  *Students in India are eligible for the US Program, but must choose to apply to either the US or India Program Adobe India Women-In-Technology Scholarship.
+  Duplicate applications in both programs will be discarded.*
 
-[Palantir Global Impact Scholarship](https://www.palantir.com/students/scholarship/global-impact/)
+3. [Palantir Global Impact Scholarship](https://www.palantir.com/students/scholarship/global-impact/) : Palantir has launched the Global Impact Scholarship to celebrate and support students from across the globe who are beginning careers in technology. We hope to encourage these students in their computer science, engineering, and technical studies, and celebrate their potential to become leaders in these fields. We especially encourage students from communities that are historically underrepresented in the field of technology to apply.
 
-[Nutanix .heart Women in Technology Scholarship](https://www.nutanix.com/scholarships)
+4. [Nutanix .heart Women in Technology Scholarship](https://www.nutanix.com/scholarships): Nutanix strongly believes in the power of diversity and we want to increase the ratio of women on our engineering teams. So, we’re creating scholarships to help young women develop the skills they need to pursue their passion of computer science. We are offering up to ten scholarships to female students in the United States, India, UK and Serbia who want to apply their love of technology to make a positive impact on the industry and the planet.
 
-[Grace Hopper Celebration Scholarships](https://ghc.anitab.org/scholarships-2/)
+5. [Grace Hopper Celebration Scholarships](https://ghc.anitab.org/scholarships-2/): The GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime.
 
-[WIT Scholarship](https://mywit.org/programs/scholarships-wit-campus/)
+6. [WIT Scholarship](https://mywit.org/programs/scholarships-wit-campus/) : WIT believes in supporting you for all your hard work and we do this by offering scholarships that will help you in your college journey. That is why participants of the WIT Campus program will be eligible to apply for a student scholarship.
+
 
 ## Women in Technology Role Models
 
