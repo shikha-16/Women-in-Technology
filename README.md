@@ -50,51 +50,51 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 
 ## Organizations to Promote Women in Tech
 
-### WIT Community
+#### 1. WIT Community
 Women In Technology [WIT](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
 ### GirlScript
 [GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 
-### Women Who Code
+#### 2. Women Who Code
 When you become a part of [Women Who Code](https://www.womenwhocode.com/) you gain access to programs and services that are designed to help you step up your tech career. We have over 200,000 members who are career-aged tech professionals operating at each level of the industry.
 
-### LearnITGirl
+#### 3. LearnITGirl
 [LearnIT Girl!](https://www.learnitgirl.com/): Their aim is to help women learn a programming language while doing an awesome project! But don't worry, you're not alone in this journey, each scholar has a mentor that guides them on their path. There are many roads you can take and we will make sure you go on the one that is best for you - without missing out on the important features of the chosen language.
 
-### Girls Who Code
+#### 4. Girls Who Code
 [Girls Who Code](https://girlswhocode.com/) is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.
 
-### Girls Teaching Girls Who Code
+#### 5. Girls Teaching Girls Who Code
 At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org/), we empower college girls pursuing Computer Science and Engineering to connect with local high school girls and inspire them through mentorship and applied projects.
 
-### PyLadies
+#### 6. PyLadies
 [PyLadies](https://pyladies.com/) aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
-### Girls In Tech
+#### 7. Girls In Tech
 [Girls in Tech](https://girlsintech.org/) is a nonprofit organization dedicated to eliminating the gender gap in tech. 
 
-### Built By Girls
+#### 8. Built By Girls
 [BUILT BY GIRLS](https://www.builtbygirls.com/) prepares female and non-binary students to step boldly into careers powered by technology. 
 
-### Girl Develop It
+#### 9. Girl Develop It
 [Girl Devleop It](https://www.girldevelopit.com/) is a nonprofit organization that provides affordable programs for adult women and non-binary individuals to learn web and software development in a judgement free environment.
 
-### Techgirlz
+#### 10. Techgirlz
 [TechGirlz](https://www.techgirlz.org/about/) inspires middle school girls to explore the possibilities of technology to empower their future careers. TechGirlz is accomplishing its mission through the creation of free, fun, interactive “TechShopz” led by industry professionals, community leaders, and students. 
 
-### Codess
+#### 11. Codess
 [Codess](https://www.codess.net/) is a community for female coders initiated by Microsoft.  Codess was established to explore ways to promote gender diversity in the engineering field.
 
-### Code with Google
+#### 12. Code with Google
 Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures. Click (here)[https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject]
 
-### she++
+#### 13. she++
 [she++](http://www.sheplusplus.com/) works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.  We aim to dispel the misconception that computer science is not a career for women and minorities by rebranding what it means to be a technologist.
 
-### ACM W
+#### 14. ACM W
 [ACM-W](https://women.acm.org/) supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
 
-### stem4girls
+#### 15. stem4girls
 [STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
 
 ## Scholarships
