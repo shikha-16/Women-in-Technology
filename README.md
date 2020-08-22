@@ -52,8 +52,6 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 
 #### 1. WIT Community
 Women In Technology [WIT](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
-### GirlScript
-[GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 
 #### 2. Women Who Code
 When you become a part of [Women Who Code](https://www.womenwhocode.com/) you gain access to programs and services that are designed to help you step up your tech career. We have over 200,000 members who are career-aged tech professionals operating at each level of the industry.
@@ -97,6 +95,8 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 15. stem4girls
 [STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
 
+#### 16. GirlScript
+[GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 ## Scholarships
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
   - [Women Techmakers Scholar Program](https://www.womentechmakers.com/scholars) : Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field.
