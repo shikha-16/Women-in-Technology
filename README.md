@@ -199,6 +199,7 @@ _Founder and CEO, Mad Street Den_
 
 ## Community
 
+![Women](https://github.com/shikha-16/private/blob/master/documents/women-technology-02-1.png)
 - Tweeting via [@storybookjs](https://twitter.com/storybookjs)
 - Blogging at [Medium](https://medium.com/storybookjs)
 - Chatting on [Slack](https://now-examples-slackin-rrirkqohko.now.sh/)
