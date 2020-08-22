@@ -5,6 +5,7 @@
 Hey there! This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. 
 
+![Women in tech](https://raw.githubusercontent.com/shikha-16/private/master/documents/women-in-tech-discussion-highlights.webp?token=AQH6EWMTEXZ5TIPD6XFB44C7IEFBW)
 
 If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
