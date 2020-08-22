@@ -189,6 +189,7 @@ _Founder and CEO, Mad Street Den_
 ##### 8. Keeping Girls in STEM: 3 Barriers, 3 Solutions [edutopia](https://www.edutopia.org/article/keeping-girls-stem-3-barriers-3-solutions)
 ##### 9. How to get young girls excited about STEM [Forbes](https://www.forbes.com/sites/biancabarratt/2019/01/25/how-to-get-young-girls-excited-about-a-career-in-stem/#cb87be956016)
 ##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
+##### 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
 
 
 
