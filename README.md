@@ -45,6 +45,7 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 6. [Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)/ [Big Data](https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3)
 7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/IoT-a-beginners-guide-v1-sept27-1.pdf)
 8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
+9. [Hackathons](https://github.com/nishapant/Women-in-Tech-Resources#all-women-hackathons)
 
 
 ## Organizations to Promote Women in Tech
@@ -78,6 +79,23 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 ### Girl Develop It
 [Girl Devleop It](https://www.girldevelopit.com/) is a nonprofit organization that provides affordable programs for adult women and non-binary individuals to learn web and software development in a judgement free environment.
 
+### Techgirlz
+[TechGirlz](https://www.techgirlz.org/about/) inspires middle school girls to explore the possibilities of technology to empower their future careers. TechGirlz is accomplishing its mission through the creation of free, fun, interactive “TechShopz” led by industry professionals, community leaders, and students. 
+
+### Codess
+[Codess](https://www.codess.net/) is a community for female coders initiated by Microsoft.  Codess was established to explore ways to promote gender diversity in the engineering field.
+
+### Code with Google
+Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures. Click (here)[https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject]
+
+### she++
+[she++](http://www.sheplusplus.com/) works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.  We aim to dispel the misconception that computer science is not a career for women and minorities by rebranding what it means to be a technologist.
+
+### ACM W
+[ACM-W](https://women.acm.org/) supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
+
+### stem4girls
+[STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
 
 ## Scholarships
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
@@ -184,16 +202,14 @@ _Founder and CEO, Mad Street Den_
 - Streaming saved at [Youtube](https://www.youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg)
 
 
-## Other Helpful Repositories
-[Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
-
-[Awesome Lists](https://github.com/sindresorhus/awesome)
-
-[Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-[Open Source](https://github.com/shainakrumme/open-source-handbook)
-
-[University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+## Other Helpful GitHub Repositories
+1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
+2. [Awesome Lists](https://github.com/sindresorhus/awesome)
+3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+4. [Open Source](https://github.com/shainakrumme/open-source-handbook)
+5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+6. [Python Algorithms](https://github.com/TheAlgorithms/Python)
+7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions)
 
 ## Contributing
 
