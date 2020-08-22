@@ -7,8 +7,8 @@ I'm hoping this will help all the young girls across India, and encourage them t
 
 ![Women in tech](https://raw.githubusercontent.com/shikha-16/private/master/documents/women-in-tech-discussion-highlights.webp?token=AQH6EWMTEXZ5TIPD6XFB44C7IEFBW)
 
+Here are some comprehensive reports on Women in Technology: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by pwc UK so that you know the facts and statistics.
 
-A comprehensive report on [Women in Technology](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) by pwc UK
 If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
 
