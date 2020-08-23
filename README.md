@@ -213,6 +213,7 @@ _Founder and CEO, Mad Street Den_
 5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 6. [Python Algorithms](https://github.com/TheAlgorithms/Python)
 7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions)
+8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session)
 
 ## Contributing
 
