@@ -200,11 +200,9 @@ _Founder and CEO, Mad Street Den_
 ## Community
 
 ![Women](https://github.com/shikha-16/private/blob/master/documents/women-technology-02-1.png)
-- Tweeting via [@storybookjs](https://twitter.com/storybookjs)
-- Blogging at [Medium](https://medium.com/storybookjs)
-- Chatting on [Slack](https://now-examples-slackin-rrirkqohko.now.sh/)
-- Discussions on [Discord](https://discord.gg/sMFvFsG)
-- Streaming saved at [Youtube](https://www.youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg)
+- Blogging at [Blooplex](https://medium.com/storybookjs)
+- Chatting/Discussions on [Slack](https://join.slack.com/t/newworkspace-utv4657/shared_invite/zt-gta7b1xf-e77oL~30RZdxUKUX1S7sAg)
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8)
 
 
 ## Other Helpful GitHub Repositories
