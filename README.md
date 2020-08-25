@@ -34,6 +34,8 @@ To know more about the different fields in CS and access their resources, see [h
 
 Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
 
+For opportunities/programs at Google, visit: https://careersonair.withgoogle.com/
+
 ## Learn by Doing
 
 If you want to start learning how to code, here is a great site for that! [Codecademy](https://www.codecademy.com/)
