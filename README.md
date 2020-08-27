@@ -212,7 +212,7 @@ _CEO and Executive Director of HCL Corporation_
 
 ![Women](https://github.com/shikha-16/private/blob/master/documents/women-technology-02-1.png)
 - Blogging at [Blooplex](https://medium.com/storybookjs)
-- Chatting/Discussions on [Slack](https://join.slack.com/t/newworkspace-utv4657/shared_invite/zt-gta7b1xf-e77oL~30RZdxUKUX1S7sAg)
+- Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk)
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8)
 
 
