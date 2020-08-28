@@ -190,6 +190,7 @@ _CEO and Executive Director of HCL Corporation_
 ## Articles and Blogs
 
 ![Next Generation](/documents/women.jpg)
+Image by The Next Generation. Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 ##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
 ##### 3. Women in tech statistics: The hard truths of an uphill battle [CIO India](https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html)
