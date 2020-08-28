@@ -105,9 +105,13 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 16. GirlScript
 [GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 
-## Scholarships
+#### 17. DevelopHER
+[DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
+
+## Scholarships and Progranms for Women
 ![books](https://github.com/shikha-16/private/blob/master/documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
+## Scholarships
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
   - [Women Techmakers Scholar Program](https://www.womentechmakers.com/scholars) : Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field.
   
@@ -134,6 +138,17 @@ The GHC Scholars Program provides funds for women who are either undergraduate s
 
 #### 6. [WIT Scholarship](https://mywit.org/programs/scholarships-wit-campus/)
 WIT believes in supporting you for all your hard work and we do this by offering scholarships that will help you in your college journey. That is why participants of the WIT Campus program will be eligible to apply for a student scholarship.
+
+#### 7. [Society of Women Engineers Scholarship](https://scholarships.swe.org/applications/login.asp)
+The SWE Scholarship Program provides financial assistance to those who identify as a female/woman and are studying community college, baccalaureate, or graduate programs in preparation for careers in engineering, engineering technology and computer science.
+
+
+### Events/Programs
+
+1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
+2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
+
+
 
 
 ## Women in Technology Role Models
