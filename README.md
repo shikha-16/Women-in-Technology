@@ -3,16 +3,13 @@
 # Women in Tech (India) :woman:
 
 Hey there! This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
-I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. 
+I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
 ![Women in tech](https://github.com/shikha-16/private/blob/master/documents/Screenshot%20from%202020-08-23%2011-41-30.png)
 
-Here are some comprehensive reports on Women in Technology: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by pwc UK so that you know the facts and statistics.\
+Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by pwc UK so that you know the facts and statistics.
 
 [Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/WTM_PDF_V06_A.pdf)
-
-If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
-
 
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 > “There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself
@@ -104,6 +101,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 
 #### 16. GirlScript
 [GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
+
 ## Scholarships
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
   - [Women Techmakers Scholar Program](https://www.womentechmakers.com/scholars) : Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field.
@@ -134,7 +132,7 @@ WIT believes in supporting you for all your hard work and we do this by offering
 
 
 ## Women in Technology Role Models
-Strong role models are leading the charge and the change. As you grow your career, it’s important that you have access to people you can identify with.
+Strong role models are leading the charge and the change. :raised-hands: As you grow in your career, it’s important that you have access to people you can identify with. Here are some studies to get you started!
 1. [A STUDY:Women in tech careers yearn for female role models and flexibility in the workplace](https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf)
 2. [The Untold History of Women in Science and Technology](https://obamawhitehouse.archives.gov/women-in-stem):Listen to women from across the Administration tell the stories of their personal heroes across the fields of science, technology, engineering, and math (STEM). Share them yourself. Add your own. And honor their legacy by committing to encourage a young woman to pursue a career in science.
 3. [The Women Who Changed The Tech World](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
@@ -152,8 +150,7 @@ Look, basically, if you’re using a computer - you’re using Grace Hopper’s 
 Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing.
 [Read more](https://anitab.org/about-us/about-anita-borg/)
 
-[Let's take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
-
+###[Let's now take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 #### 1. Reshma Saujani, New York
 _Lawyer, politician and founder/CEO, Girls Who Code_
 > Life hack: “Teach girls bravery, not perfection.”
@@ -211,20 +208,20 @@ _CEO and Executive Director of HCL Corporation_
 ## Community
 
 ![Women](https://github.com/shikha-16/private/blob/master/documents/women-technology-02-1.png)
-- Blogging at [Blooplex](https://medium.com/storybookjs)
-- Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk)
-- [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8)
+- Blogging at [Blooplex](https://medium.com/storybookjs) :book:
+- Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 
 
 ## Other Helpful GitHub Repositories
-1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/)
-2. [Awesome Lists](https://github.com/sindresorhus/awesome)
-3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-4. [Open Source](https://github.com/shainakrumme/open-source-handbook)
-5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
-6. [Python Algorithms](https://github.com/TheAlgorithms/Python)
-7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions)
-8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session)
+1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/) :unlock:
+2. [Awesome Lists](https://github.com/sindresorhus/awesome) :tada:
+3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  :busts_in_silhouette:
+4. [Open Source](https://github.com/shainakrumme/open-source-handbook) :book:
+5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme) :mortar-board:
+6. [Python Algorithms](https://github.com/TheAlgorithms/Python) :snake:
+7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
+8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
 
 ## Contributing
 
