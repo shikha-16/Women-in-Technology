@@ -5,9 +5,9 @@
 Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
-![Women in tech](https://github.com/shikha-16/private/blob/master/documents/Screenshot%20from%202020-08-23%2011-41-30.png)
+![Women in tech](https://github.com/shikha-16/private/blob/master/documents/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
-Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by pwc UK so that you know the facts and statistics.
+Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
 
 [Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/WTM_PDF_V06_A.pdf)
 
@@ -207,7 +207,7 @@ _CEO and Executive Director of HCL Corporation_
 
 ## Community
 
-![Women](https://github.com/shikha-16/private/blob/master/documents/women-technology-02-1.png)
+![Women](https://github.com/shikha-16/private/blob/master/documents/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 - Blogging at [Blooplex](https://www.blooplex.com/blog/categories/technology) :book:
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
