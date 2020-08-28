@@ -55,7 +55,7 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 
 ## Organizations to Promote Women in Tech
 
-![girl](https://github.com/shikha-16/private/blob/master/documents/nikhita-s-NsPDiPFTp4c-unsplash.jpg0)
+![girl](https://github.com/shikha-16/private/blob/master/documents/nikhita-s-NsPDiPFTp4c-unsplash.jpg)
 
 #### 1. WIT Community
 Women In Technology [WIT](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
@@ -106,7 +106,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 [GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 
 ## Scholarships
-[books](https://github.com/shikha-16/private/blob/master/documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
+![books](https://github.com/shikha-16/private/blob/master/documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
   - [Women Techmakers Scholar Program](https://www.womentechmakers.com/scholars) : Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field.
