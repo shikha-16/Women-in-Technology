@@ -28,7 +28,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :key: [License](#License)
 
 ## The World of Computer Science
-[Passion](https://github.com/shikha-16/private/blob/master/documents/ian-schneider-TamMbr4okv4-unsplash.jpg)
+![Passion](https://github.com/shikha-16/private/blob/master/documents/ian-schneider-TamMbr4okv4-unsplash.jpg)
 
 Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/fields.md). This has allll the resources you need, and even more! :eyes:
@@ -55,7 +55,7 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 
 ## Organizations to Promote Women in Tech
 
-[girl](https://github.com/shikha-16/private/blob/master/documents/nikhita-s-NsPDiPFTp4c-unsplash.jpg0
+![girl](https://github.com/shikha-16/private/blob/master/documents/nikhita-s-NsPDiPFTp4c-unsplash.jpg0)
 
 #### 1. WIT Community
 Women In Technology [WIT](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
@@ -194,9 +194,6 @@ _CEO and Executive Director of HCL Corporation_
 
 ## Articles and Blogs
 
-![Next Generation](/documents/women.jpg)
-
-Image by The Next Generation. Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 ##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
 ##### 3. Women in tech statistics: The hard truths of an uphill battle [CIO India](https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html)
@@ -209,7 +206,7 @@ Image by The Next Generation. Read their blog [here](https://www.nextgeneration.
 ##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 ##### 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
 
-
+Comprehensive image by [The Next Generation](/documents/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 
 
 ## Community
