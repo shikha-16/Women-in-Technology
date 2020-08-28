@@ -2,7 +2,7 @@
  
 # Women in Tech (India) :woman:
 
-Hey there! This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
+Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
 ![Women in tech](https://github.com/shikha-16/private/blob/master/documents/Screenshot%20from%202020-08-23%2011-41-30.png)
@@ -150,7 +150,7 @@ Look, basically, if you’re using a computer - you’re using Grace Hopper’s 
 Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing.
 [Read more](https://anitab.org/about-us/about-anita-borg/)
 
-###[Let's now take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
+### [Let's now take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 #### 1. Reshma Saujani, New York
 _Lawyer, politician and founder/CEO, Girls Who Code_
 > Life hack: “Teach girls bravery, not perfection.”
