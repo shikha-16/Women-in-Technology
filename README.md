@@ -28,8 +28,10 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :key: [License](#License)
 
 ## The World of Computer Science
-Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf)
-To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/fields.md). :eyes:
+[Passion](https://github.com/shikha-16/private/blob/master/documents/ian-schneider-TamMbr4okv4-unsplash.jpg)
+
+Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
+To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/fields.md). This has allll the resources you need, and even more! :eyes:
 
 Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
 
@@ -51,8 +53,9 @@ After you know basic coding, get started! Dive into any one of these, and learn 
 8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 9. [Hackathons](https://github.com/nishapant/Women-in-Tech-Resources#all-women-hackathons)
 
-
 ## Organizations to Promote Women in Tech
+
+[girl](https://github.com/shikha-16/private/blob/master/documents/nikhita-s-NsPDiPFTp4c-unsplash.jpg0
 
 #### 1. WIT Community
 Women In Technology [WIT](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
@@ -103,6 +106,8 @@ Through community-based programs and philanthropy, Google works to connect stude
 [GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 
 ## Scholarships
+[books](https://github.com/shikha-16/private/blob/master/documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
+
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
   - [Women Techmakers Scholar Program](https://www.womentechmakers.com/scholars) : Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field.
   
@@ -190,6 +195,7 @@ _CEO and Executive Director of HCL Corporation_
 ## Articles and Blogs
 
 ![Next Generation](/documents/women.jpg)
+
 Image by The Next Generation. Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 ##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
