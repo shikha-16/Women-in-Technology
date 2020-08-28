@@ -218,7 +218,7 @@ _CEO and Executive Director of HCL Corporation_
 2. [Awesome Lists](https://github.com/sindresorhus/awesome) :tada:
 3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  :busts_in_silhouette:
 4. [Open Source](https://github.com/shainakrumme/open-source-handbook) :book:
-5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme) :mortar-board:
+5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme) :mortar_board:
 6. [Python Algorithms](https://github.com/TheAlgorithms/Python) :snake:
 7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
 8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
