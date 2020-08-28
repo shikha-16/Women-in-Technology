@@ -1,6 +1,6 @@
 <p align="center">
  
-# Women in Tech (India) :woman:
+# India's Women in Technology :woman:
 
 Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
@@ -208,7 +208,7 @@ _CEO and Executive Director of HCL Corporation_
 ## Community
 
 ![Women](https://github.com/shikha-16/private/blob/master/documents/women-technology-02-1.png)
-- Blogging at [Blooplex](https://medium.com/storybookjs) :book:
+- Blogging at [Blooplex](https://www.blooplex.com/blog/categories/technology) :book:
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 
