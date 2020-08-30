@@ -1,4 +1,7 @@
 ## Different Fields in Computer Science 
+
+![library](https://github.com/shikha-16/private/blob/master/documents/janko-ferlic-sfL_QOnmy00-unsplash.jpg)
+
 ### 1. Computer Science Theory
   * **Algorithms and Data Structures** : Studying different algorithms and data structures used in programming.
     
