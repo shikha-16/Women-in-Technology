@@ -108,7 +108,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 17. DevelopHER
 [DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
 
-## Scholarships and Progranms for Women
+## Scholarships and Programs for Women
 ![books](https://github.com/shikha-16/private/blob/master/documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
 ## Scholarships
