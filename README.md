@@ -241,6 +241,7 @@ Comprehensive image by [The Next Generation](/documents/women.jpg). Read their b
 6. [Python Algorithms](https://github.com/TheAlgorithms/Python) :snake:
 7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
 8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
+9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
 ## Contributing
 
