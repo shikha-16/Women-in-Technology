@@ -280,6 +280,8 @@ Amber Gordon, _Founder of Femsplain_:
 [MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
 
 #### Disclaimer
+_No copyright infringement intended._
+
 _This is NOT an exhaustive list._
 
 ## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
