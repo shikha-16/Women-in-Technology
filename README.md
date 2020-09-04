@@ -1,9 +1,12 @@
 <p align="center">
  
-# India's Women in Technology :woman:
+# Women in Technology :woman:
+## India
 
 Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science.
 I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
+
+_Most of the content is curated for India, since I don't know much about programs/scholarships abroad. But there are plenty of resources that are global, and will help even if you reside abroad!_
 
 ![Women in tech](https://github.com/shikha-16/private/blob/master/documents/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
@@ -14,6 +17,7 @@ Here are some comprehensive reports on Women in Technology if you're interested:
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 > “There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself
 > and accept and appreciate that in others, you can make magic.”
+
 
 ## Table of Contents
 - :earth_asia: [The World of CS](#The-World-of-Computer-Science)
@@ -147,6 +151,19 @@ The SWE Scholarship Program provides financial assistance to those who identify 
 
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
+3. [Girlscript Summer of Code](https://www.gssoc.tech/)
+4. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
+5. [Outreachy](https://www.outreachy.org/)
+6. [Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html)
+7. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
+8. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
+9. [Society of Women Engineers India](https://india.swe.org/)
+10. [DevelopHER](https://developher.com/)
+11. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
+12. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
+13. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
+
+_These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated everyear or may have new names/websites. If so, a simple google search will yield updated results. I request you to kindly update it here as well, if you find such an issue. Let's all help the community grow!_
 
 
 
@@ -238,7 +255,6 @@ Comprehensive image by [The Next Generation](/documents/women.jpg). Read their b
 ## Community
 
 ![Women](https://github.com/shikha-16/private/blob/master/documents/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
-- Blogging at [Blooplex](https://www.blooplex.com/blog/categories/technology) :book:
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 
@@ -260,8 +276,11 @@ We welcome contributions to Women in Tech!
 Amber Gordon, _Founder of Femsplain_:
 > “Trust in yourself, believe that your voice matters, and know that your words are good enough.”
 
-## License
+#### License
 [MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
+
+#### Disclaimer
+_This is NOT an exhaustive list._
 
 ## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
 
