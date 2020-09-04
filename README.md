@@ -207,6 +207,17 @@ _Founder and CEO, Mad Street Den_
 _CEO and Executive Director of HCL Corporation_
 > To me, giving is much, much more than just charity or signing a cheque. We make long-term investments in people’s lives, through education and arts. I’m in this because I get to be a part of someone else’s life, someone else’s journey of becoming what they have the potential to become
 
+## Other Helpful GitHub Repositories
+1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/) :unlock:
+2. [Awesome Lists](https://github.com/sindresorhus/awesome) :tada:
+3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  :busts_in_silhouette:
+4. [Open Source](https://github.com/shainakrumme/open-source-handbook) :book:
+5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme) :mortar_board:
+6. [Python Algorithms](https://github.com/TheAlgorithms/Python) :snake:
+7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
+8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
+9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates)
+
 ## Articles and Blogs
 
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
@@ -231,17 +242,6 @@ Comprehensive image by [The Next Generation](/documents/women.jpg). Read their b
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 
-
-## Other Helpful GitHub Repositories
-1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/) :unlock:
-2. [Awesome Lists](https://github.com/sindresorhus/awesome) :tada:
-3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  :busts_in_silhouette:
-4. [Open Source](https://github.com/shainakrumme/open-source-handbook) :book:
-5. [University Courses](https://github.com/prakhar1989/awesome-courses#readme) :mortar_board:
-6. [Python Algorithms](https://github.com/TheAlgorithms/Python) :snake:
-7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
-8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
-9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
 ## Contributing
 
