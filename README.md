@@ -95,7 +95,7 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 [Codess](https://www.codess.net/) is a community for female coders initiated by Microsoft.  Codess was established to explore ways to promote gender diversity in the engineering field.
 
 #### 12. Code with Google
-Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures. Click (here)[https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject]
+Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures. Click [here](https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject)
 
 #### 13. she++
 [she++](http://www.sheplusplus.com/) works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.  We aim to dispel the misconception that computer science is not a career for women and minorities by rebranding what it means to be a technologist.
