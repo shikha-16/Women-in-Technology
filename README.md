@@ -103,7 +103,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 14. ACM W
 [ACM-W](https://women.acm.org/) supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
 
-#### 15. stem4girls
+#### 15. STEM 4 Girls
 [STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
 
 #### 16. GirlScript
@@ -233,7 +233,7 @@ _CEO and Executive Director of HCL Corporation_
 6. [Python Algorithms](https://github.com/TheAlgorithms/Python) :snake:
 7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
 8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
-9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates)
+9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates) :book:
 
 ## Articles and Blogs
 
