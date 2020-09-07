@@ -23,7 +23,7 @@ Sometimes, a maintainer of an awesome list will ask you to edit your Pull Reques
 
 
 ## Creating and Addressing Issues
-If you have an issue, please go through the existing issues/PRs and see if it has already been/is being addressed. If not, you may [create a new issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue). Please make sure to describe your issue properly. 
+If you have an issue, please go through the existing issues/PRs and see if it has already been/is being addressed. If not, you may [create a new issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue). Please make sure to describe your issue properly. Try to adhere to the [Issue Template](https://github.com/shikha-16/Women-in-Technology/tree/master/.github/ISSUE_TEMPLATE)
 
 You can also contribute by addressing and commenting on issues, providing your suggestions and opinions on them. This will help the community grow! :smile:
 
