@@ -158,16 +158,14 @@ The SWE Scholarship Program provides financial assistance to those who identify 
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
 3. [Girlscript Summer of Code](https://www.gssoc.tech/)
-4. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
-5. [Outreachy](https://www.outreachy.org/)
-6. [Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html)
-7. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
-8. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
-9. [Society of Women Engineers India](https://india.swe.org/)
-10. [DevelopHER](https://developher.com/)
-11. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
-12. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
-13. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
+4. [Outreachy](https://www.outreachy.org/)
+5. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
+6. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
+7. [Society of Women Engineers India](https://india.swe.org/)
+8. [DevelopHER](https://developher.com/)
+9. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
+10. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
+11. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
 
 _These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated everyear or may have new names/websites. If so, a simple google search will yield updated results. I request you to kindly update it here as well, if you find such an issue. Let's all help the community grow!_
 
@@ -243,6 +241,7 @@ _CEO and Executive Director of HCL Corporation_
 7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
 8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
 9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates) :book:
+10. [Complete Guide to Computer Science] (https://github.com/ossu/computer-science) :milky_way:
 
 ---
 
