@@ -2,7 +2,7 @@
 
 <div align="center">Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science. I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
-_Most of the content is curated for Asia/India, since I don't know much about programs/scholarships abroad. But there are plenty of resources that are global, and will help even if you reside abroad!_
+*Most of the content is curated for Asia/India, since I don't know much about programs/scholarships abroad. But there are plenty of resources that are global, and will help even if you reside abroad!*
 
 **Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of the community and connect with more like-minded people!**
 
@@ -13,9 +13,7 @@ Here are some comprehensive reports on Women in Technology if you're interested:
 [Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/WTM_PDF_V06_A.pdf)
 
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
-```
-There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic.
-```
+>There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic.
 </div>
 
 ---
@@ -198,50 +196,40 @@ Anita Borg was an American computer scientist. She founded the Institute for Wom
 ### [Let's now take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 #### 1. Reshma Saujani, New York
 _Lawyer, politician and founder/CEO, Girls Who Code_
-```
-Life hack: “Teach girls bravery, not perfection.”
-```
+> Life hack: “Teach girls bravery, not perfection.”
 
 [Read more](https://reshmasaujani.com/about/)
 
 #### 2. Debjani Ghosh, Delhi
 _President, NASSCOM_
 
-```
-Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. If you don’t, no one else will believe it.”
-```
+> Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. If you don’t, no one else will believe it.”
 
 [Read more](https://leanin.org/stories/debjani-ghosh)
 
 #### 3. Geetha Kannan, Bengaluru
 _Managing director, Anitab.org India_
-```
-Life hack: “Stay focused on the goal, and the opposition will melt away.”
-```
+> Life hack: “Stay focused on the goal, and the opposition will melt away.”
 
 [Read More](https://yourstory.com/2018/11/women-equal-crucial-building-tech-world-needs-says-geetha-kannan-md-anitab-org)
 
 #### 4. Ashni Dwarkadas, Mumbai
 _Co-founder, Hackberry_
-```
-Life hack: “The conversation has to start when girls are young and have no inhibitions about speaking up and asserting themselves.”
-```
+> Life hack: “The conversation has to start when girls are young and have no inhibitions about speaking up and asserting themselves.”
 
 [Read more](https://yourstory.com/2016/06/koffeeplace)
 
 #### 5. Ashwini Asokan, Chennai
 _Founder and CEO, Mad Street Den_
-```
-Life hack: “Re-skill yourself – learn and intern!”
-```
+>Life hack: “Re-skill yourself – learn and intern!”
+
 
 [Read more](http://shenomics.com/ashwini-ashokan/)
 
 #### 6. Roshni Nadar Malhotra 
 _CEO and Executive Director of HCL Corporation_
-```
-"To me, giving is much, much more than just charity or signing a cheque. We make long-term investments in people’s lives, through education and arts. I’m in this because I get to be a part of someone else’s life, someone else’s journey of becoming what they have the potential to become"
-```
+
+>"To me, giving is much, much more than just charity or signing a cheque. We make long-term investments in people’s lives, through education and arts. I’m in this because I get to be a part of someone else’s life, someone else’s journey of becoming what they have the potential to become"
 
 ---
 
