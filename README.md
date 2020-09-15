@@ -169,7 +169,7 @@ The SWE Scholarship Program provides financial assistance to those who identify 
 12. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
 13. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
 
-_These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated everyear or may have new names/websites. If so, a simple google search will yield updated results. I request you to kindly update it here as well, if you find such an issue. Let's all help the community grow!_
+_These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results. I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
 
 
 ---
