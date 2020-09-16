@@ -244,6 +244,7 @@ _CEO and Executive Director of HCL Corporation_
 8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
 9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates) :book:
 10. [Complete Guide to Computer Science](https://github.com/ossu/computer-science) :milky_way:
+11. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) :book:
 
 ---
 
