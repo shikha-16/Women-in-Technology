@@ -153,8 +153,7 @@ WIT believes in supporting you for all your hard work and we do this by offering
 The SWE Scholarship Program provides financial assistance to those who identify as a female/woman and are studying community college, baccalaureate, or graduate programs in preparation for careers in engineering, engineering technology and computer science.
 
 
-### Events/Programs
-
+## Events/Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
 3. [Girlscript Summer of Code](https://www.gssoc.tech/)
