@@ -146,10 +146,7 @@ Nutanix strongly believes in the power of diversity and we want to increase the 
 #### 5. [Grace Hopper Celebration Scholarships](https://ghc.anitab.org/scholarships-2/) 
 The GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime.
 
-#### 6. [WIT Scholarship](https://mywit.org/programs/scholarships-wit-campus/)
-WIT believes in supporting you for all your hard work and we do this by offering scholarships that will help you in your college journey. That is why participants of the WIT Campus program will be eligible to apply for a student scholarship.
-
-#### 7. [Society of Women Engineers Scholarship](https://scholarships.swe.org/applications/login.asp)
+#### 6. [Society of Women Engineers Scholarship](https://scholarships.swe.org/applications/login.asp)
 The SWE Scholarship Program provides financial assistance to those who identify as a female/woman and are studying community college, baccalaureate, or graduate programs in preparation for careers in engineering, engineering technology and computer science.
 
 
