@@ -17,7 +17,7 @@ If you have something awesome to contribute, this is how you do it.
 
 ## Updating your Pull Request
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the contributing guidelines.
+Sometimes, a maintainer will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the contributing guidelines.
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
 
