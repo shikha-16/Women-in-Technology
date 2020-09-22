@@ -6,7 +6,7 @@
 **We are currently working on making a website for the repository. Go through the documentation, issues and [Contributing](#Contributing) to learn more about how you can contribute.**
 
 
-*Most of the content is curated for Asia/India, since I don't know much about programs/scholarships abroad. But there are plenty of resources that are global, and will help even if you reside abroad!*
+*Most of the content is curated for Asia/India, since I don't know much about programs/scholarships abroad. That being said, I am open to collaborations! But there are also plenty of resources that will help even if you reside abroad!*
 
 **Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of the community and connect with more like-minded people!**
 
