@@ -29,4 +29,10 @@ You can also contribute by addressing and commenting on issues, providing your s
 
 ## Contributing to the website
 
-While contributing to the website please follow the file structure recommended in the official [Reactjs documentation](https://reactjs.org/docs/faq-structure.html). Try to create separate javascript files for each React component that you add to the website. Please make sure you make use of comments in your code wherever necessary. Also, include only one commit in each of your pull requests.
+While contributing to the website, the contributors are expected to follow the below mentioned guidelines:
+
+1. Please follow the file structure recommended in the official [Reactjs documentation](https://reactjs.org/docs/faq-structure.html).
+2. Try to create separate Javascript files for each React component that you add to the website. 
+3. Please make sure you include comments in your code wherever necessary. 
+4. **Include only one commit in each of your pull requests.**
+5. Attach screenshots whenever any changes are made to the design, stylesheets, layout etc. of the website.
