@@ -9,7 +9,7 @@ If you have something awesome to contribute, this is how you do it.
 
 1. Access the Women in Tech GitHub page. For example: https://github.com/shikha-16/Women-in-Tech-India
 2. Click on the `readme.md` file: 
-3. Now click on the edit icon. 
+3. Now click on the edit icon.
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 5. **Say why you're proposing the changes**, and then click on "Propose file change". 
 6. Please ensure your pull request adheres to the [PR guidelines](pull_request_template.md).
@@ -27,3 +27,6 @@ If you have an issue, please go through the existing issues/PRs and see if it ha
 
 You can also contribute by addressing and commenting on issues, providing your suggestions and opinions on them. This will help the community grow! :smile:
 
+## Contributing to the website
+
+While contributing to the website please follow the file structure recommended in the official [Reactjs documentation](https://reactjs.org/docs/faq-structure.html). Try to create separate javascript files for each React component that you add to the website. Please make sure you make use of comments in your code wherever necessary. Also, include only one commit in each of your pull requests.
