@@ -13,7 +13,8 @@ If you have something awesome to contribute, this is how you do it.
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 5. **Say why you're proposing the changes**, and then click on "Propose file change". 
 6. Please ensure your pull request adheres to the [PR guidelines](pull_request_template.md).
-7. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+7. Make a PR in the right branch.
+8. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Updating your Pull Request
 
