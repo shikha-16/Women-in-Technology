@@ -36,3 +36,4 @@ While contributing to the website, the contributors are expected to follow the b
 3. Please make sure you include comments in your code wherever necessary. 
 4. **Include only one commit in each of your pull requests.**
 5. Attach screenshots whenever any changes are made to the design, stylesheets, layout etc. of the website.
+6. All PRs to be made in the #website branch only.
