@@ -13,7 +13,8 @@ If you have something awesome to contribute, this is how you do it.
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 5. **Say why you're proposing the changes**, and then click on "Propose file change". 
 6. Please ensure your pull request adheres to the [PR guidelines](pull_request_template.md).
-7. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+7. Make a PR in the right branch.
+8. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Updating your Pull Request
 
@@ -36,3 +37,4 @@ While contributing to the website, the contributors are expected to follow the b
 3. Please make sure you include comments in your code wherever necessary. 
 4. **Include only one commit in each of your pull requests.**
 5. Attach screenshots whenever any changes are made to the design, stylesheets, layout etc. of the website.
+6. All PRs to be made in the #website branch only.
