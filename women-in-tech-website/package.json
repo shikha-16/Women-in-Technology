@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "women-in-technology",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Shikha Bhat <shikhabhat1608@gmail.com>",
   "dependencies": {
     "gatsby": "^2.24.63",
     "gatsby-image": "^2.4.19",
@@ -24,7 +24,6 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -36,9 +35,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/shikha-16/Women-in-Technology/tree/master/women-in-tech-website"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/shikha-16/Women-in-Technology/tree/master/.github/ISSUE_TEMPLATE"
   }
 }
