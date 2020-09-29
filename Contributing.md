@@ -2,6 +2,9 @@
 Thank you for wanting to contribute!
 Please note that this project is released with a [Contributor Code of Conduct](Code-of-Conduct.md). By participating in this project you agree to abide by its terms.
 
+Firstly, please join the Discord server if you intend to contribute. Introduce yourself and take active part in conversation. That way you will get to know the team, and we will get to know you.
+Link to join [here](https://discord.gg/xvzbAXk)
+
 You'll need a [GitHub account](https://github.com/join)!
 
 ## Pull Requests
