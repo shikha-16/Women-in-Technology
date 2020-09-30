@@ -113,6 +113,9 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 17. DevelopHER
 [DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
 
+#### 18. SheCodes
+[SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
+
 ## Scholarships and Programs for Women
 ![books](https://github.com/shikha-16/private/blob/master/documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
@@ -235,6 +238,9 @@ _CEO and Executive Director of HCL Corporation_
 7. [First Open source Contribution](https://github.com/firstcontributions/first-contributions) :sun_with_face:
 8. [GitHub](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session) 
 9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates) :book:
+10. [Best Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :computer:
+11. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
+12. [Complete Roadmap for Developers](https://github.com/kamranahmedse/developer-roadmap) :rocket:
 
 ## Articles and Blogs
 
