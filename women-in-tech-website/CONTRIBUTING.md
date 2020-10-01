@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-> This guidelines is specific for the website constriction
+> This guidelines is specific for the website contribution
 
 ## Getting Started
 
