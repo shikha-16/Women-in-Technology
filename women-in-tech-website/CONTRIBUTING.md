@@ -24,7 +24,7 @@
 
 Please follow the below format while writing commit messages
 
-```
+```bash
   title: One line description about your change
   <Blank Line>
   description: An optional description of your changes.
