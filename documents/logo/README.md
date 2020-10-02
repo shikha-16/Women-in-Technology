@@ -1,5 +1,9 @@
 # WIT LOGO
 
+![alt WIT Logo](./WIT-screeshot.png)
+
+---
+
 ## The basics
 
 ✅ Only show the WIT logo and monogram over the color `#4A001A` when you need a dark background tone.
