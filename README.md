@@ -40,7 +40,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 ![Passion](documents/info/images/ian-schneider-TamMbr4okv4-unsplash.jpg)
 
 Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
-To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes:
+To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes:
 Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
 
 For opportunities/programs at Google, visit: https://careersonair.withgoogle.com/
