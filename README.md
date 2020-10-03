@@ -10,7 +10,7 @@
 
 **Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of the community and connect with more like-minded people!**
 
-![Women in tech](documents/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
+![Women in tech](documents/info/images/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
 Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
 
@@ -37,7 +37,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 ---
 
 ## <div align="center">The World of Computer Science</div>
-![Passion](documents/ian-schneider-TamMbr4okv4-unsplash.jpg)
+![Passion](documents/info/images/ian-schneider-TamMbr4okv4-unsplash.jpg)
 
 Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/fields.md). This has allll the resources you need and more! :eyes:
@@ -67,7 +67,7 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 
 ## <div align="center">Organizations to Promote Women in Tech</div>
 
-![girl](documents/nikhita-s-NsPDiPFTp4c-unsplash.jpg)
+![girl](documents/info/images/nikhita-s-NsPDiPFTp4c-unsplash.jpg)
 
 ### 1. WIT Community
 [Women in Technology](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
@@ -126,7 +126,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
-![books](documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
+![books](documents/info/images/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
 ## Scholarships
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
@@ -278,13 +278,13 @@ _CEO and Executive Director of HCL Corporation_
 ##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 ##### 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
 
-Comprehensive image by [The Next Generation](/documents/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
+Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 
 ---
 
 ## <div align="center">Community</div>
 
-![Women](documents/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
+![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 - Blogging at [Blooplex](https://www.blooplex.com/women-in-stem)
