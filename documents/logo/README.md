@@ -1,8 +1,12 @@
-# WIT LOGO
+# WIT LOGO - Women In Tech
 
 ![alt WIT Logo](./WIT-screeshot.png)
 
 ---
+
+## Description
+
+_The red ribbon symbolizes the bond among women, portraiting the strong yet gentle women in tech. The logo represents unity as how the W, I, and T are interconnected._
 
 ## The basics
 
@@ -18,37 +22,27 @@
 
 The WIT logo has a combination of colors. These colors are key representation of WIT. The main colors are: Red (#E30000) and a darker tone version of red (#8B0101). When placing the WIT logo on a dark background, **always** use the `#4A001A`. For light backgrounds any light color, with the exception of any light version of red, will do fine.
 
+<br/>
+
 ### Primary Colors
+
+| RED                  | DARKER RED           |
+| -------------------- | -------------------- |
+| **HEX** - #E30000l   | **HEX** - #8B0101    |
+| **CMYK**- 0 89 89 11 | **CMYK**- 0 54 54 45 |
+| **RGB**- 227 0 0     | **RGB**- 139 1 1     |
 
 <br/>
 
-> RED
+### Secondary Color
 
-**HEX** - #E30000
+| DARK PINK            |
+| -------------------- |
+| **HEX** - #4a001a    |
+| **CMYK**- 0 29 19 71 |
+| **RGB**- 74 0 26     |
 
-**CMYK**- 0 89 89 11
-
-**RGB**- 227 0 0
-
-<br />
-
-> DARKER RED
-
-**HEX** - #8B0101
-
-**CMYK**- 0 54 54 45
-
-**RGB**- 139 1 1
-
-#### Secondary Color
-
-> DARK PINK
-
-**HEX** - #4a001a
-
-**CMYK**- 0 29 19 71
-
-**RGB**- 74 0 26
+<br/>
 
 ## Logo Pairings
 
