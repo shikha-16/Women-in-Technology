@@ -12,7 +12,7 @@
 
 ![Women in tech](documents/info/images/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
-Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
+Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
 
 [Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/info/pdf/WTM_PDF_V06_A.pdf)
 
