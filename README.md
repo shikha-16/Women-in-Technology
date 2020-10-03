@@ -12,9 +12,9 @@
 
 ![Women in tech](documents/info/images/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
-Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
+Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
 
-[Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/WTM_PDF_V06_A.pdf)
+[Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/info/pdf/WTM_PDF_V06_A.pdf)
 
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 >There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic.
@@ -39,8 +39,8 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 ## <div align="center">The World of Computer Science</div>
 ![Passion](documents/info/images/ian-schneider-TamMbr4okv4-unsplash.jpg)
 
-Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
-To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/fields.md). This has allll the resources you need and more! :eyes:
+Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
+To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes:
 Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
 
 For opportunities/programs at Google, visit: https://careersonair.withgoogle.com/
@@ -53,13 +53,13 @@ If you want to start learning how to code, here is a great site for that! [Codec
 
 Once you know basic coding, get started! Dive into any one of these, and learn more as you progress.
 
-1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/documents/Competitive%20Programming%20(1).pdf)
+1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/documents/info/pdf/Competitive%20Programming%20(1).pdf)
 2. [Open Source Projects](https://opensource.guide/how-to-contribute/)
 3. [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
 4. [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
 5. [Machine Learning and AI](https://atozofai.withgoogle.com/intl/en-GB/)
 6. [Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)/ [Big Data](https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3)
-7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/IoT-a-beginners-guide-v1-sept27-1.pdf)
+7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/info/pdf/IoT-a-beginners-guide-v1-sept27-1.pdf)
 8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 9. [Hackathons](https://github.com/nishapant/Women-in-Tech-Resources#all-women-hackathons)
 
