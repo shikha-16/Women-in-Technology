@@ -21,6 +21,7 @@ const NavBar = (props) => {
       <a className="navbar-brand" href="#">
         {/* here I pass the logo url to the navbar image */}
         <img src={props.logo} />
+	<b>Women In Technology</b>
       </a>
       {/* here I pass the array of LIs into the UL */}
       <ul className="navbar-nav ml-auto">{items}</ul>
