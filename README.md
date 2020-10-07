@@ -10,11 +10,11 @@
 
 **Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of the community and connect with more like-minded people!**
 
-![Women in tech](documents/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
+![Women in tech](documents/info/images/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
-Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
+Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
 
-[Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/WTM_PDF_V06_A.pdf)
+[Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/info/pdf/WTM_PDF_V06_A.pdf)
 
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 >There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic.
@@ -37,10 +37,10 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 ---
 
 ## <div align="center">The World of Computer Science</div>
-![Passion](documents/ian-schneider-TamMbr4okv4-unsplash.jpg)
+![Passion](documents/info/images/ian-schneider-TamMbr4okv4-unsplash.jpg)
 
-Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
-To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/private/blob/master/documents/fields.md). This has allll the resources you need and more! :eyes:
+Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
+To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes:
 Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
 
 For opportunities/programs at Google, visit: https://careersonair.withgoogle.com/
@@ -53,13 +53,13 @@ If you want to start learning how to code, here is a great site for that! [Codec
 
 Once you know basic coding, get started! Dive into any one of these, and learn more as you progress.
 
-1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/documents/Competitive%20Programming%20(1).pdf)
+1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/documents/info/pdf/Competitive%20Programming%20(1).pdf)
 2. [Open Source Projects](https://opensource.guide/how-to-contribute/)
 3. [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
 4. [Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
 5. [Machine Learning and AI](https://atozofai.withgoogle.com/intl/en-GB/)
 6. [Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)/ [Big Data](https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3)
-7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/IoT-a-beginners-guide-v1-sept27-1.pdf)
+7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/info/pdf/IoT-a-beginners-guide-v1-sept27-1.pdf)
 8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 9. [Hackathons](https://github.com/nishapant/Women-in-Tech-Resources#all-women-hackathons)
 
@@ -67,7 +67,7 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 
 ## <div align="center">Organizations to Promote Women in Tech</div>
 
-![girl](documents/nikhita-s-NsPDiPFTp4c-unsplash.jpg)
+![girl](documents/info/images/nikhita-s-NsPDiPFTp4c-unsplash.jpg)
 
 ### 1. WIT Community
 [Women in Technology](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
@@ -120,10 +120,13 @@ Through community-based programs and philanthropy, Google works to connect stude
 ### 17. DevelopHER
 [DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
 
+#### 18. SheCodes
+[SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
+
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
-![books](documents/green-chameleon-s9CC2SKySJM-unsplash.jpg)
+![books](documents/info/images/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
 ## Scholarships
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
@@ -255,6 +258,9 @@ _CEO and Executive Director of HCL Corporation_
 9. [Research Internships for Undergrad Students](https://github.com/himahuja/Research-Internships-for-Undergraduates) :book:
 10. [Complete Guide to Computer Science](https://github.com/ossu/computer-science) :milky_way:
 11. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) :book:
+12. [Best Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :computer:
+13. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
+14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
 
 ---
 
@@ -272,13 +278,13 @@ _CEO and Executive Director of HCL Corporation_
 ##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 ##### 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
 
-Comprehensive image by [The Next Generation](/documents/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
+Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 
 ---
 
 ## <div align="center">Community</div>
 
-![Women](documents/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
+![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 - Blogging at [Blooplex](https://www.blooplex.com/women-in-stem)
