@@ -4,6 +4,18 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 You'll need a [GitHub account](https://github.com/join)!
 
+## Contributing to the website
+
+While contributing to the website, the contributors are expected to follow the below mentioned guidelines:
+
+1. Please follow the file structure recommended in the official [Reactjs documentation](https://reactjs.org/docs/faq-structure.html).
+2. Try to create separate Javascript files for each React component that you add to the website. 
+3. Please make sure you include comments in your code wherever necessary. 
+4. **Include only one commit in each of your pull requests.**
+5. Attach screenshots whenever any changes are made to the design, stylesheets, layout etc. of the website.
+6. All PRs to be made in the #website branch only.
+7. Upload a well labeled file in the 'women-in-tech-website' folder if it includes css or react or gatsby. Otherwise upload your file in the 'documents' folder if its a figma design or an infographic.
+
 ## Pull Requests
 If you have something awesome to contribute, this is how you do it.
 
@@ -28,13 +40,4 @@ If you have an issue, please go through the existing issues/PRs and see if it ha
 
 You can also contribute by addressing and commenting on issues, providing your suggestions and opinions on them. This will help the community grow! :smile:
 
-## Contributing to the website
 
-While contributing to the website, the contributors are expected to follow the below mentioned guidelines:
-
-1. Please follow the file structure recommended in the official [Reactjs documentation](https://reactjs.org/docs/faq-structure.html).
-2. Try to create separate Javascript files for each React component that you add to the website. 
-3. Please make sure you include comments in your code wherever necessary. 
-4. **Include only one commit in each of your pull requests.**
-5. Attach screenshots whenever any changes are made to the design, stylesheets, layout etc. of the website.
-6. All PRs to be made in the #website branch only.
