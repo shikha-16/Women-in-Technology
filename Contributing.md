@@ -6,6 +6,7 @@ You'll need a [GitHub account](https://github.com/join)!
 
 ## Contributing to the website
 
+For an overview of the project - https://github.com/shikha-16/Women-in-Technology/projects
 While contributing to the website, the contributors are expected to follow the below mentioned guidelines:
 
 1. Please follow the file structure recommended in the official [Reactjs documentation](https://reactjs.org/docs/faq-structure.html).
