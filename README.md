@@ -2,6 +2,7 @@
   <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg" />
 </p>
 
+
 <div align="center">Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science. I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
 
@@ -10,7 +11,9 @@
 
 *Most of the content is curated for Asia/India, since I don't know much about programs/scholarships abroad. That being said, I am open to collaborations! But there are also plenty of resources that will help even if you reside abroad!*
 
+
 **Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of the community and connect with more like-minded people!**
+
 
 ![Women in tech](documents/info/images/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
