@@ -289,10 +289,8 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 ## <div align="center">Community</div>
 
-<p align="center">
-  <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg" />
-</p> 
 
+![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 - Blogging at [Blooplex](https://www.blooplex.com/women-in-stem)
@@ -302,6 +300,10 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 ## <div align="center">Contributing</div>
 
 We welcome contributions to Women in Tech!
+
+<p align="center">
+  <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg" />
+</p> 
 
 - 📥 Pull requests and 🌟 Stars are always welcome.
 - Read our [contributing guide](Contributing.md) to get started.
