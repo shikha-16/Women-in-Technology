@@ -1,0 +1,6 @@
+.toTop{
+    position: fixed;
+    bottom: 2vh;
+    right: 5%;
+    z-index: 2;
+}
