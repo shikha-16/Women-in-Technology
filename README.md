@@ -289,7 +289,10 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 ## <div align="center">Community</div>
 
-![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
+<p align="center">
+  <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg" />
+</p> 
+
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 - Blogging at [Blooplex](https://www.blooplex.com/women-in-stem)
