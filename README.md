@@ -1,5 +1,3 @@
-# <div align="center">Women in Technology :woman:</div>
-
 <p align="center">
   <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg" />
 </p>
