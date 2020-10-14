@@ -1,6 +1,4 @@
-# Links for carousels:
-
-[Homepage, Organizations, The World of CS](https://www.figma.com/file/Zmn4P7WGr3pBkPsBPc0uIX/Carousels?node-id=0%3A1) by Bharati
+# [Homepage, Organizations, The World of CS](https://www.figma.com/file/Zmn4P7WGr3pBkPsBPc0uIX/Carousels?node-id=0%3A1) by Bharati
 
 ## Homepage
 1. Carousel including the header. The header is hidden by hamburger in the right top of the frame. and the carousel image is represented by the circles in the bottom right. Where light color indicates the image in focus (carousel navigator). The icons for discord, github and other sites can be placed in the bottom left. (no need for the bg rectangle. I just added that for simplicity). The Hero text appeara vertically in the page Left center. And any additional hero and sub hero text covers a part of the image and also the free space available in the bg.
@@ -20,5 +18,5 @@ The third is also kind of a carousel but for the world of cs. The technology ima
 ![orgs](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/design/carousels/screenshots/Screenshot%20from%202020-10-14%2010-37-48.png)
 ![another](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/design/carousels/screenshots/Screenshot%20from%202020-10-14%2010-37-56.png)
 
-[Inspirations, Scholarships](https://www.figma.com/file/K6NPMXPPBVfBFf3CHA9nJz/WIT?node-id=1%3A124) by Victory Brown
+# [Inspirations, Scholarships](https://www.figma.com/file/K6NPMXPPBVfBFf3CHA9nJz/WIT?node-id=1%3A124) by Victory Brown
 ![inspire](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/design/carousels/screenshots/Screenshot%20from%202020-10-14%2010-37-13.png)
