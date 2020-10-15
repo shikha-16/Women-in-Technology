@@ -265,6 +265,8 @@ _CEO and Executive Director of HCL Corporation_
 13. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
 14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
 
+**Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
+
 ---
 
 ## <div align="center">Articles and Blogs</div>
@@ -280,6 +282,8 @@ _CEO and Executive Director of HCL Corporation_
 ##### 9. How to get young girls excited about STEM [Forbes](https://www.forbes.com/sites/biancabarratt/2019/01/25/how-to-get-young-girls-excited-about-a-career-in-stem/#cb87be956016)
 ##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 ##### 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
+##### 12. These 6 pioneering women helped create modern computers [TED](https://ideas.ted.com/how-i-discovered-six-pioneering-women-who-helped-create-modern-computers-and-why-we-should-never-forget-them/?utm_content=2020-10-06&utm_medium=social&utm_source=linkedin.com&utm_campaign=social)
+
 
 Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 
