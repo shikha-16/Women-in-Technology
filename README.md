@@ -154,8 +154,6 @@ Through community-based programs and philanthropy, Google works to connect stude
 
   *Read previous scholars experience [here](https://medium.com/@simranpandey97/adobe-research-women-in-technology-scholarship-6ad497c1f4ca).*
   
-  *Students in India are eligible for the US Program, but must choose to apply to either the US or India Program Adobe India Women-In-Technology Scholarship.
-  Duplicate applications in both programs will be discarded.*
 
 #### 3. [Palantir Global Impact Scholarship](https://www.palantir.com/students/scholarship/global-impact/)
 Palantir has launched the Global Impact Scholarship to celebrate and support students from across the globe who are beginning careers in technology. We hope to encourage these students in their computer science, engineering, and technical studies, and celebrate their potential to become leaders in these fields. We especially encourage students from communities that are historically underrepresented in the field of technology to apply.          
