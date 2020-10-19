@@ -34,6 +34,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :book: [Scholarships](#Scholarships-and-Programs-for-Women)
 - :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
 - :+1: [Other Helpful Repositories](#Other-Helpful-Github-Repositories)
+- :balloon: [Repository of the Month!](#Repository-of-the-Month!)
 - :woman: [Articles and Blogs](#Articles-and-Blogs)
 - :heartbeat: [Community](#Community)
 - :handshake: [Contributing](#Contributing)
@@ -266,6 +267,17 @@ _CEO and Executive Director of HCL Corporation_
 14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
 
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
+
+---
+
+## <div align="center">Repository of the Month!</div>
+
+<h5>October 2020</h5>
+
+This month's awarded repository is a place to find everything tech related! 
+[Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) has tons of resources ranging from where to get started in technology and coding to when you are an expert in the field. 
+
+It can be exhausting to navigate through all the content out there, but fortunately this repo has a very well sorted index of content so you can decide what you want to check out first!
 
 ---
 
