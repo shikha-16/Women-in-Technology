@@ -34,7 +34,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :book: [Scholarships](#Scholarships-and-Programs-for-Women)
 - :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
 - :+1: [Other Helpful Repositories](#Other-Helpful-Github-Repositories)
-- :balloon: [Repository of the Month!](#Repository-of-the-Month!)
+- :balloon: [Repository of the Month](#Repository-of-the-Month)
 - :woman: [Articles and Blogs](#Articles-and-Blogs)
 - :heartbeat: [Community](#Community)
 - :handshake: [Contributing](#Contributing)
@@ -270,7 +270,7 @@ _CEO and Executive Director of HCL Corporation_
 
 ---
 
-## <div align="center">Repository of the Month!</div>
+## <div align="center">Repository of the Month</div>
 
 <h5>October 2020</h5>
 
