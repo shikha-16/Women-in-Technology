@@ -51,8 +51,8 @@ export default function Header() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#/contribute">
-                Contribute
+              <a className="nav-link" href="/contributing">
+                Contributing
               </a>
             </li>
           </ul>
