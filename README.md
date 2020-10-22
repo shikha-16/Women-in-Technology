@@ -1,3 +1,6 @@
+
+> “Any time women come together with a collective intention, it’s a powerful thing.” - Phylicia Rashad 
+
 <p align="center">
   <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg" />
 </p>
