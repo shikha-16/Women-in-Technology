@@ -1,0 +1,37 @@
+.BeginnersLinks__text {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 2rem auto;
+}
+
+.BeginnersLinks__links {
+  display: inline-flex;
+  width: 100%;
+  justify-content: space-evenly;
+  margin-bottom: 2rem;
+}
+
+.BeginnersLinks__github-link, .BeginnersLinks__github-link:hover {
+  width: 10rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: .1rem;
+  border-radius: 6px;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.BeginnersLinks__open-source-link, .BeginnersLinks__open-source-link:hover {
+  width: 10rem;
+  padding: .1rem;
+  border-radius: 6px;
+  background: #e5e5e5;
+  color: #000;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+}
