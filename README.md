@@ -132,6 +132,8 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 18. SheCodes
 [SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
 
+#### 19. Step Up
+[Step Up](https://www.suwn.org/) propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
