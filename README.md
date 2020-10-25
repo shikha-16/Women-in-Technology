@@ -1,3 +1,6 @@
+
+> “Any time women come together with a collective intention, it’s a powerful thing.” - Phylicia Rashad 
+
 <p align="center">
   <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg" />
 </p>
@@ -13,9 +16,6 @@
 
 
 **Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of the community and connect with more like-minded people!**
-
-
-![Women in tech](documents/info/images/christina-wocintechchat-com-PzAd5XCyFJo-unsplash.jpg)
 
 Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
 
@@ -34,6 +34,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 - :book: [Scholarships](#Scholarships-and-Programs-for-Women)
 - :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
 - :+1: [Other Helpful Repositories](#Other-Helpful-Github-Repositories)
+- :balloon: [Repository of the Month](#Repository-of-the-Month)
 - :woman: [Articles and Blogs](#Articles-and-Blogs)
 - :heartbeat: [Community](#Community)
 - :handshake: [Contributing](#Contributing)
@@ -128,6 +129,10 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 18. SheCodes
 [SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
 
+#### 19. Step Up
+[Step Up](https://www.suwn.org/) propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.
+
+
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
@@ -154,8 +159,6 @@ Through community-based programs and philanthropy, Google works to connect stude
 
   *Read previous scholars experience [here](https://medium.com/@simranpandey97/adobe-research-women-in-technology-scholarship-6ad497c1f4ca).*
   
-  *Students in India are eligible for the US Program, but must choose to apply to either the US or India Program Adobe India Women-In-Technology Scholarship.
-  Duplicate applications in both programs will be discarded.*
 
 #### 3. [Palantir Global Impact Scholarship](https://www.palantir.com/students/scholarship/global-impact/)
 Palantir has launched the Global Impact Scholarship to celebrate and support students from across the globe who are beginning careers in technology. We hope to encourage these students in their computer science, engineering, and technical studies, and celebrate their potential to become leaders in these fields. We especially encourage students from communities that are historically underrepresented in the field of technology to apply.          
@@ -267,6 +270,19 @@ _CEO and Executive Director of HCL Corporation_
 13. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
 14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
 
+**Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
+
+---
+
+## <div align="center">Repository of the Month</div>
+
+<h5>October 2020</h5>
+
+This month's awarded repository is a place to find everything tech related! 
+[Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) has tons of resources ranging from where to get started in technology and coding to when you are an expert in the field. 
+
+It can be exhausting to navigate through all the content out there, but fortunately this repo has a very well sorted index of content so you can decide what you want to check out first!
+
 ---
 
 ## <div align="center">Articles and Blogs</div>
@@ -282,6 +298,8 @@ _CEO and Executive Director of HCL Corporation_
 ##### 9. How to get young girls excited about STEM [Forbes](https://www.forbes.com/sites/biancabarratt/2019/01/25/how-to-get-young-girls-excited-about-a-career-in-stem/#cb87be956016)
 ##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 ##### 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
+##### 12. These 6 pioneering women helped create modern computers [TED](https://ideas.ted.com/how-i-discovered-six-pioneering-women-who-helped-create-modern-computers-and-why-we-should-never-forget-them/?utm_content=2020-10-06&utm_medium=social&utm_source=linkedin.com&utm_campaign=social)
+
 
 Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 
