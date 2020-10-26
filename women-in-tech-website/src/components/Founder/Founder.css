@@ -1,0 +1,63 @@
+.founder {
+ padding: 25px 0 150px;
+}
+
+.founder__heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 135.94%;
+    margin-bottom: 50px;
+
+    color: #000000;
+}
+
+@media screen and (max-width: 992px) {
+    .founder__heading {
+        text-align: center;
+    }
+}
+
+
+.founder__text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.founder__pic {
+    display: block;
+    width: 360px;
+    height: 360px;
+    margin-right: 70px;
+}
+
+@media screen and (max-width: 992px) {
+    .founder__pic {
+        margin: 0 auto 25px;
+    }
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.links__item {
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}
+
+.links__item--youtube {
+    width: 250px;
+    margin-right: 0px;
+}
