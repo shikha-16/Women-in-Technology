@@ -1,0 +1,40 @@
+
+.background-image {
+    background-image: url("../../images/woman-and-pc.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    height: 577px;
+    width: 100%;
+    padding: 15px 30px;
+}
+
+.grey-block {
+    top: 15px;
+    left: 30px;
+    max-width: 600px;
+    height: 250px;
+
+    background: rgba(196, 196, 196, 0.6);
+}
+
+.grey-block__heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #000000;
+}
+
+.grey-block__text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+}
