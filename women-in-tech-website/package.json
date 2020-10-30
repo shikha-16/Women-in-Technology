@@ -5,6 +5,8 @@
   "version": "0.1.0",
   "author": "Shikha Bhat <shikhabhat1608@gmail.com>",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "bootstrap": "^4.5.2",
     "gatsby": "^2.24.63",
     "gatsby-image": "^2.4.19",
