@@ -1,0 +1,59 @@
+
+.resources{
+    margin: 80px 150px;
+}
+
+.links{
+    margin-bottom: 100px;
+}
+
+ a {
+color: #000;
+}
+
+.articles > h1{
+    text-align: center;
+    margin: 50px 0;
+}
+
+.articles > div{
+    margin: 20px 0;
+}
+
+.card{
+    border:none;
+}
+
+.img-box{
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+
+.article-details {
+    /* padding: 2rem; */
+    margin: auto;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.see-more > a{
+    text-align: right;
+}
+
+.hr {
+    margin: 100px 0;
+    border: 5px solid #000;
+}
+
+@media screen and (max-width: 600px){
+ .resources{
+    margin: 80px 0px;
+    padding: 0 10px;
+}
+   .links > a > h1{
+    font-size : 1.5rem;
+}
+}
