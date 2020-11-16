@@ -279,7 +279,7 @@ _CEO and Executive Director of HCL Corporation_
 <h5>November 2020</h5>
 
 This month's awarded repository is a place to start to contribute to Open Source! 
-Have you heard about [Hacktober Fest](https://hacktoberfest.digitalocean.com/)? In October, Digital Ocean sponsors a month long celebration to Open Source, and for most developers (and sometimes non developers), [myself](https://github.com/PeppermintNDaisies) included, it's an opportunity to start contributing to Open Source projects. But what does that even mean, what do I have to do, how do I even submit changes to a `git` repository? In my experience, after being able to complete my first Hacktober Fest challenge ever (yay 🎉), [First Contributions](https://github.com/firstcontributions/first-contributions) is a good plade to start. 
+Have you heard about [Hacktober Fest](https://hacktoberfest.digitalocean.com/)? In October, Digital Ocean sponsors a month long celebration to Open Source, and for most developers (and sometimes non developers), [myself](https://github.com/PeppermintNDaisies) included, it's an opportunity to start contributing to Open Source projects. But what does that even mean, what do I have to do, how do I even submit changes to a `git` repository? In my experience, after being able to complete my first Hacktober Fest challenge ever (yay 🎉), [First Contributions](https://github.com/firstcontributions/first-contributions) is a good place to start. 
 
 Out of all the questions that might emerge that prevent you from taking the first step, this one helps out with the practical part, how to submit changes to a `git` repository. It is surprisingly easy! And while you solve that one first problem, you'll be figuring out the rest.
 
