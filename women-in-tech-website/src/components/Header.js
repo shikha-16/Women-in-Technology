@@ -2,6 +2,8 @@ import React from 'react';
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../../node_modules/bootstrap/dist/js/bootstrap.bundle';
 import logo from '../images/WITfivicon.png';
+import { Link } from "gatsby"
+
 
 export default function Header() {
   return (
@@ -46,11 +48,11 @@ export default function Header() {
         Resources
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Organizations</a>
-          <a class="dropdown-item" href="#">Scolarships</a>
+          <a class="dropdown-item" href="/organisation/">Organizations</a>
+          <a class="dropdown-item" href="/scholarship/">Scholarships</a>
           <a class="dropdown-item" href="#">Blogs and Articles</a>
           <a class="dropdown-item" href="#">Helpful Github Repos</a>
-          <a class="dropdown-item" href="#">Other Resources</a>
+          <a class="dropdown-item" href="/resources/">Other Resources</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -63,6 +65,7 @@ export default function Header() {
           <a class="dropdown-item" href="#">Founder</a>
           <a class="dropdown-item" href="#">Contributers</a>
           <a class="dropdown-item" href="#">About Community</a>
+          <a class="dropdown-item" href="/inspirations/">Inspirations</a>
         </div>
       </li>
       <li class="nav-item dropdown">
