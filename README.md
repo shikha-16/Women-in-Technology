@@ -126,10 +126,10 @@ Through community-based programs and philanthropy, Google works to connect stude
 ### 17. DevelopHER
 [DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
 
-#### 18. SheCodes
+### 18. SheCodes
 [SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
 
-#### 19. Step Up
+### 19. Step Up
 [Step Up](https://www.suwn.org/) propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.
 
 
