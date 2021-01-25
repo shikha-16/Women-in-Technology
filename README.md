@@ -132,6 +132,8 @@ Through community-based programs and philanthropy, Google works to connect stude
 #### 19. Step Up
 [Step Up](https://www.suwn.org/) propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.
 
+### 20. Rewriting the Code
+[Rewriting the Code](https://rewritingthecode.org/) is a growing virtual community of 10,000+ exceptional college and early career women with a passion for technology. They come from 700+ colleges and universities, and show their talent through engaging in projects, internships, hackathons, and volunteering for good.
 
 ---
 
