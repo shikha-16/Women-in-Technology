@@ -290,7 +290,7 @@ _CEO and Executive Director of HCL Corporation_
 ## <div align="center">Repository of the Month</div>
 
 <h5>February 2021</h5>
-[vinta/awesome-python](https://github.com/vinta/awesome-python)
+[Awesome Python](https://github.com/vinta/awesome-python)
 
 Billed as a “curated list of awesome Python frameworks, libraries, software and resources”, this is a great place to start if you want to get better at Python.
 
