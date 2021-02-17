@@ -47,7 +47,9 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 
 Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes:
-Or, take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/)! It's a great place to start and grow.
+
+Take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/) and [Google Computer Science](https://edu.google.com/intl/en_in/computer-science/?modal_active=none)! It's a great place to start and grow.
+
 
 For opportunities/programs at Google, visit: https://careersonair.withgoogle.com/
 
@@ -176,21 +178,29 @@ The GHC Scholars Program provides funds for women who are either undergraduate s
 #### 6. [Society of Women Engineers Scholarship](https://scholarships.swe.org/applications/login.asp)
 The SWE Scholarship Program provides financial assistance to those who identify as a female/woman and are studying community college, baccalaureate, or graduate programs in preparation for careers in engineering, engineering technology and computer science.
 
+#### 7. [Women at Microsoft Scholarship](https://www.microsoft.com/en-us/diversity/programs/women-at-microsoft-scholarship)
+The Women at Microsoft Scholarship seeks to empower and enable high school women and non-binary people to go to college, realize the impact technology has on the world, and target a career in the technology industry.
+
+
+
 
 ## Events/Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
 3. [Girlscript Summer of Code](https://www.gssoc.tech/)
-4. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
-5. [Outreachy](https://www.outreachy.org/)
-6. [Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html)
-7. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
-8. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
-9. [Society of Women Engineers India](https://india.swe.org/)
-10. [DevelopHER](https://developher.com/)
-11. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
-12. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
-13. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
+4. [Google Summer of Code](https://summerofcode.withgoogle.com/)
+5. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
+6. [Outreachy](https://www.outreachy.org/)
+7. [Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html)
+8. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
+9. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
+10. [Society of Women Engineers India](https://india.swe.org/)
+11. [DevelopHER](https://developher.com/)
+12. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
+13. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
+14. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
+15. [Microsoft Codess](https://www.codess.net/)
+16. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
 
 _These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results. I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
 
@@ -271,6 +281,7 @@ _CEO and Executive Director of HCL Corporation_
 12. [Best Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :computer:
 13. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
 14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
+15. 
 
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
@@ -278,12 +289,9 @@ _CEO and Executive Director of HCL Corporation_
 
 ## <div align="center">Repository of the Month</div>
 
-<h5>November 2020</h5>
-
-This month's awarded repository is a place to start to contribute to Open Source! 
-Have you heard about [Hacktober Fest](https://hacktoberfest.digitalocean.com/)? In October, Digital Ocean sponsors a month long celebration to Open Source, and for most developers (and sometimes non developers), [myself](https://github.com/PeppermintNDaisies) included, it's an opportunity to start contributing to Open Source projects. But what does that even mean, what do I have to do, how do I even submit changes to a `git` repository? In my experience, after being able to complete my first Hacktober Fest challenge ever (yay 🎉), [First Contributions](https://github.com/firstcontributions/first-contributions) is a good place to start. 
-
-Out of all the questions that might emerge that prevent you from taking the first step, this one helps out with the practical part, how to submit changes to a `git` repository. It is surprisingly easy! And while you solve that one first problem, you'll be figuring out the rest.
+<h5>February 2021</h5>
+## [vinta/awesome-python](https://github.com/vinta/awesome-python)
+Billed as a “curated list of awesome Python frameworks, libraries, software and resources”, this is a great place to start if you want to get better at Python.
 
 ---
 
