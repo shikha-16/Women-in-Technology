@@ -281,7 +281,6 @@ _CEO and Executive Director of HCL Corporation_
 12. [Best Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :computer:
 13. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
 14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
-15. 
 
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
@@ -290,6 +289,7 @@ _CEO and Executive Director of HCL Corporation_
 ## <div align="center">Repository of the Month</div>
 
 <h5>February 2021</h5>
+
 [Awesome Python](https://github.com/vinta/awesome-python)
 
 Billed as a “curated list of awesome Python frameworks, libraries, software and resources”, this is a great place to start if you want to get better at Python.
