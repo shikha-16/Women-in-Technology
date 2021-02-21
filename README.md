@@ -323,7 +323,6 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 ![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
-- Blogging at [Blooplex](https://www.blooplex.com/women-in-stem)
 
 ---
 
