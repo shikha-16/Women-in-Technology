@@ -203,8 +203,10 @@ The Women at Microsoft Scholarship seeks to empower and enable high school women
 14. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
 15. [Microsoft Codess](https://www.codess.net/)
 16. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
+17. [Flipkart Girls Wanna Code](https://dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093)
+18. LinkedIn CoachIn Program 
 
-_These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results. I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
+_These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results. Be on the lookout for these opportunities! I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
 
 
 ---
