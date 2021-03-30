@@ -113,31 +113,29 @@ At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org
 ### 12. Code with Google
 Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures. Click [here](https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject)
 
-### 13. she++
-[she++](http://www.sheplusplus.com/) works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.  We aim to dispel the misconception that computer science is not a career for women and minorities by rebranding what it means to be a technologist.
 
-### 14. ACM W
+### 13. ACM W
 [ACM-W](https://women.acm.org/) supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
 
-### 15. STEM 4 Girls
+### 14. STEM 4 Girls
 [STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
 
-### 16. GirlScript
+### 15. GirlScript
 [GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 
-### 17. DevelopHER
+### 16. DevelopHER
 [DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
 
-### 18. SheCodes
+### 17. SheCodes
 [SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
 
-### 19. Step Up
+### 18. Step Up
 [Step Up](https://www.suwn.org/) propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.
 
-### 20. Rewriting the Code
+### 19. Rewriting the Code
 [Rewriting the Code](https://rewritingthecode.org/) is a growing virtual community of 10,000+ exceptional college and early career women with a passion for technology. They come from 700+ colleges and universities, and show their talent through engaging in projects, internships, hackathons, and volunteering for good.
 
-### 21. HackerRamp: WeForShe
+### 20. HackerRamp: WeForShe
 [HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) has been launched by Myntra in the year 2021. This is an opportunity for all women coders from engineering colleges across the country to create and innovate through technology.
 
 ---
