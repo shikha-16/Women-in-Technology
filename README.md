@@ -1,7 +1,7 @@
 
 > “Any time women come together with a collective intention, it’s a powerful thing.” - Phylicia Rashad 
 
-  ![logo](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg)
+![logo](documents/logo/WITblkText..svg)
 
 
 
@@ -26,7 +26,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 
 ---
 
-## <div align="center">Table of Contents</div>
+## Table of Contents
 - :earth_asia: [The World of CS](#The-World-of-Computer-Science)
 - :computer: [Learn by Doing](#Learn-by-Doing)
 - :muscle: [Organizations to Promote Women in Tech](#Organizations-to-Promote-Women-in-Tech)
@@ -334,7 +334,7 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 We welcome contributions to Women in Tech!
 
-  ![logo](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg)
+  ![logo](documents/logo/WITminBlkText.svg)
 
 
 - 📥 Pull requests and 🌟 Stars are always welcome.
