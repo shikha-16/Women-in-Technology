@@ -1,12 +1,11 @@
 
 > “Any time women come together with a collective intention, it’s a powerful thing.” - Phylicia Rashad 
 
-<p align="center">
-  <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg" />
-</p>
+  ![logo](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg)
 
 
-<div align="center">Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science. I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
+
+Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science. I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
 
 **We are currently working on making a website for the repository. Go through the documentation, issues and [Contributing](#Contributing) to learn more about how you can contribute.**
@@ -23,7 +22,7 @@ Here are some comprehensive reports on Women in Technology if you're interested:
 
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 >There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic.
-</div>
+
 
 ---
 
@@ -42,7 +41,7 @@ A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 
 ---
 
-## <div align="center">The World of Computer Science</div>
+## The World of Computer Science
 ![Passion](documents/info/images/ian-schneider-TamMbr4okv4-unsplash.jpg)
 
 Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
@@ -55,7 +54,7 @@ For opportunities/programs at Google, visit: https://careersonair.withgoogle.com
 
 ---
 
-## <div align="center">Learn by Doing</div>
+## Learn by Doing
 
 If you want to start learning how to code, here is a great site for that! [Codecademy](https://www.codecademy.com/)
 
@@ -73,7 +72,7 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 
 ---
 
-## <div align="center">Organizations to Promote Women in Tech</div>
+## Organizations to Promote Women in Tech
 
 ![girl](documents/info/images/nikhita-s-NsPDiPFTp4c-unsplash.jpg)
 
@@ -140,7 +139,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 
 ---
 
-## <div align="center">Scholarships and Programs for Women</div>
+## Scholarships and Programs for Women
 ![books](documents/info/images/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
 ## Scholarships
@@ -212,7 +211,7 @@ _These links may have expired or may no longer be available when you click on th
 
 ---
 
-## <div align="center">Women in Technology Role Models</div>
+## Women in Technology Role Models
 Strong role models are leading the charge and the change. :raised-hands: As you grow in your career, it’s important that you have access to people you can identify with. Here are some studies to get you started!
 1. [A STUDY:Women in tech careers yearn for female role models and flexibility in the workplace](https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf)
 2. [The Untold History of Women in Science and Technology](https://obamawhitehouse.archives.gov/women-in-stem):Listen to women from across the Administration tell the stories of their personal heroes across the fields of science, technology, engineering, and math (STEM). Share them yourself. Add your own. And honor their legacy by committing to encourage a young woman to pursue a career in science.
@@ -271,7 +270,7 @@ _CEO and Executive Director of HCL Corporation_
 
 ---
 
-## <div align="center">Other Helpful GitHub Repositories</div>
+## Other Helpful GitHub Repositories
 1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/) :unlock:
 2. [Awesome Lists](https://github.com/sindresorhus/awesome) :tada:
 3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  :busts_in_silhouette:
@@ -291,7 +290,7 @@ _CEO and Executive Director of HCL Corporation_
 
 ---
 
-## <div align="center">Repository of the Month</div>
+## Repository of the Month!
 
 <h5>March 2021</h5>
 
@@ -301,7 +300,7 @@ The easiest way to automate building and releasing your iOS and Android apps
 
 ---
 
-## <div align="center">Articles and Blogs</div>
+## Articles and Blogs
 
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 ##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
@@ -322,7 +321,7 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 ---
 
-## <div align="center">Community</div>
+## Community
 
 
 ![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
@@ -331,13 +330,12 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 ---
 
-## <div align="center">Contributing</div>
+## Contributing
 
 We welcome contributions to Women in Tech!
 
-<p align="center">
-  <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg" />
-</p> 
+  ![logo](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg)
+
 
 - 📥 Pull requests and 🌟 Stars are always welcome.
 - Read our [contributing guide](Contributing.md) to get started.
