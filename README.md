@@ -335,6 +335,13 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 We welcome contributions to Women in Tech!
 
+![GitHub Repo stars](https://img.shields.io/github/stars/shikha-16/Women-in-Technology?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/shikha-16/Women-in-Technology?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/shikha-16/Women-in-Technology?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/shikha-16/Women-in-Technology?logo=Github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/shikha-16/Women-in-Technology?logo=Github&style=for-the-badge)
+
+
 <p align="center">
   <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg" />
 </p> 
