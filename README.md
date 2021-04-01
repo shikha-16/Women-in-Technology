@@ -15,9 +15,7 @@
 
 **We are currently working on making a website for the repository. Go through the documentation, issues and [Contributing](#Contributing) to learn more about how you can contribute!**
 
-Here are some comprehensive reports on Women in Technology if you're interested: [1](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report-infographic.pdf) and [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) so that you know the facts and statistics.
-
-[Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/info/pdf/WTM_PDF_V06_A.pdf)
+Facts and statistics play an important role in understanding the necessity of the situation. Here are some comprehensive reports on Women in Technology [1](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report-infographic.pdf), [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) and the [Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/info/pdf/WTM_PDF_V06_A.pdf) to brush you up!
 
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 >There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic.
