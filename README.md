@@ -11,6 +11,8 @@
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shikha-16.github.io/Women-in-Technology/)
 
+</div>
+
 **Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of the community and connect with more like-minded people!**
 
 **We are currently working on making a website for the repository. Go through the documentation, issues and [Contributing](#Contributing) to learn more about how you can contribute!**
@@ -19,7 +21,7 @@ Facts and statistics play an important role in understanding the necessity of th
 
 A great quote by Ara Katz, _Chief Marketing Officer at Spring_:
 >There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic.
-</div>
+
 
 ---
 
