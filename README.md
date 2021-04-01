@@ -14,17 +14,15 @@ Facts and statistics play an important role in understanding the necessity of th
 ---
 
 ## Table of Contents
-- :earth_asia: [The World of CS](#The-World-of-Computer-Science)
-- :computer: [Learn by Doing](#Learn-by-Doing)
-- :muscle: [Organizations to Promote Women in Tech](#Organizations-to-Promote-Women-in-Tech)
-- :book: [Scholarships](#Scholarships-and-Programs-for-Women)
-- :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
-- :+1: [Other Helpful Repositories](#Other-Helpful-Github-Repositories)
-- :balloon: [Repository of the Month](#Repository-of-the-Month)
-- :woman: [Articles and Blogs](#Articles-and-Blogs)
-- :heartbeat: [Community](#Community)
-- :handshake: [Contributing](#Contributing)
-- :key: [License](#License)
+- :earth_asia: The World of CS
+- :computer: Learn by Doing
+- :muscle: Organizations to Promote Women in Tech
+- :book: Scholarships and Programs
+- :ok_woman: Women in Tech Role Models
+- :+1: Other Helpful Repositories
+- :balloon: Repository of the Month
+- :woman: Articles and Blogs
+- :heartbeat: Community
 
 ---
 
@@ -277,31 +275,21 @@ _CEO and Executive Director of HCL Corporation_
 
 ---
 
-## Repository of the Month!
-
-<h5>March 2021</h5>
-
-[Fastlane](https://github.com/fastlane/fastlane)
-
-The easiest way to automate building and releasing your iOS and Android apps
-
----
-
 ## Articles and Blogs
 
-##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
-##### 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
-##### 3. Women in tech statistics: The hard truths of an uphill battle [CIO India](https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html)
-##### 4. Against the Odds: Growing the Number of Women in Technology [Huffpost](https://www.huffpost.com/entry/against-the-odds-growing_b_11231486)
-##### 5. Women In Tech: Inconvenient Truths And Changing Perspectives [Forbes](https://www.forbes.com/sites/julianvigo/2019/02/23/women-in-tech/#75f4c11e45d7) 
-##### 6. The Importance of women in technology [Blog](https://blog.usejournal.com/the-importance-of-women-in-technology-15a653d12c)
-##### 7. How to attract more women in STEM Careers [ISA](https://www.isa.org/getmedia/9dedf8d9-3c6d-4eba-a7b7-2442441a5241/How-to-attract-more-women-into-STEM-careers.pdf)
-##### 8. Keeping Girls in STEM: 3 Barriers, 3 Solutions [edutopia](https://www.edutopia.org/article/keeping-girls-stem-3-barriers-3-solutions)
-##### 9. How to get young girls excited about STEM [Forbes](https://www.forbes.com/sites/biancabarratt/2019/01/25/how-to-get-young-girls-excited-about-a-career-in-stem/#cb87be956016)
-##### 10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
-##### 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
-##### 12. These 6 pioneering women helped create modern computers [TED](https://ideas.ted.com/how-i-discovered-six-pioneering-women-who-helped-create-modern-computers-and-why-we-should-never-forget-them/?utm_content=2020-10-06&utm_medium=social&utm_source=linkedin.com&utm_campaign=social)
-##### 13. Shine Theory: Why Powerful Women Make the Greatest Friends [The Cut](https://www.thecut.com/2013/05/shine-theory-how-to-stop-female-competition.html)
+1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
+2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
+3. Women in tech statistics: The hard truths of an uphill battle [CIO India](https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html)
+4. Against the Odds: Growing the Number of Women in Technology [Huffpost](https://www.huffpost.com/entry/against-the-odds-growing_b_11231486)
+5. Women In Tech: Inconvenient Truths And Changing Perspectives [Forbes](https://www.forbes.com/sites/julianvigo/2019/02/23/women-in-tech/#75f4c11e45d7) 
+6. The Importance of women in technology [Blog](https://blog.usejournal.com/the-importance-of-women-in-technology-15a653d12c)
+7. How to attract more women in STEM Careers [ISA](https://www.isa.org/getmedia/9dedf8d9-3c6d-4eba-a7b7-2442441a5241/How-to-attract-more-women-into-STEM-careers.pdf)
+8. Keeping Girls in STEM: 3 Barriers, 3 Solutions [edutopia](https://www.edutopia.org/article/keeping-girls-stem-3-barriers-3-solutions)
+9. How to get young girls excited about STEM [Forbes](https://www.forbes.com/sites/biancabarratt/2019/01/25/how-to-get-young-girls-excited-about-a-career-in-stem/#cb87be956016)
+10. 6 women in tech whose stories will inspire young girls everywhere [Vogue](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
+11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
+12. These 6 pioneering women helped create modern computers [TED](https://ideas.ted.com/how-i-discovered-six-pioneering-women-who-helped-create-modern-computers-and-why-we-should-never-forget-them/?utm_content=2020-10-06&utm_medium=social&utm_source=linkedin.com&utm_campaign=social)
+13. Shine Theory: Why Powerful Women Make the Greatest Friends [The Cut](https://www.thecut.com/2013/05/shine-theory-how-to-stop-female-competition.html)
 
 
 Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
@@ -316,35 +304,3 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 
 ---
-
-## Contributing
-
-We welcome contributions to Women in Tech!
-
-  ![logo](documents/logo/WITminBlkText.svg)
-
-
-- 📥 Pull requests and 🌟 Stars are always welcome.
-- Read our [contributing guide](Contributing.md) to get started.
-- Be sure to go through our [Code of Conduct](Code-of-Conduct.md) before contributing! :)
-
-
-##### Looking for a first issue to tackle?
-
-- We tag issues with `Good First Issue` when we think they are well suited for people who are new to the codebase or OSS in general.
-
-
-Amber Gordon, _Founder of Femsplain_:
-> “Trust in yourself, believe that your voice matters, and know that your words are good enough.”
-
----
-
-#### License
-[MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
-
-#### Disclaimer
-_No copyright infringement intended._
-
-_This is NOT an exhaustive list._
-
-## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
