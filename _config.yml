@@ -1,3 +1,5 @@
 theme: jekyll-theme-dinky
 plugins:
   - jemoji
+kramdown:
+    auto_ids: true
