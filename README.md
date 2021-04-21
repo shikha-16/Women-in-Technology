@@ -228,7 +228,7 @@ Anita Borg was an American computer scientist. She founded the Institute for Wom
 
 ### [Let's now take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 #### 1. Reshma Saujani, New York
-_Lawyer, politician and founder/CEO, Girls Who Code_
+_Lawyer, politician and founder/former CEO, Girls Who Code_
 > Life hack: “Teach girls bravery, not perfection.”
 
 [Read more](https://reshmasaujani.com/about/)
@@ -285,7 +285,18 @@ _CEO and Executive Director of HCL Corporation_
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
 ---
+## <div align="center">Repository of the Month</div>
 
+<h4>April 2021</h4>
+
+[Styled Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer)
+
+When you edit multiple md files remotely, like in a larger mkdocs project, context switches between editing terminal(s) and viewing browser may have some efficiency impact. Also sometimes there is just no browser, like via security gateways offering just a fixed set of applications on the hop in machine. Further, reading efficiency and convenience is often significantly improved by using colors. And lastly, using such a thing for cli applications might improve user output, e.g. for help texts.
+
+This is where mdv, a Python based Markdown viewer for the terminal might be a good option.
+
+
+---
 ## <div align="center">Articles and Blogs</div>
 
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
