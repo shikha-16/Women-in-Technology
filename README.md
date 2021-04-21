@@ -286,16 +286,6 @@ _CEO and Executive Director of HCL Corporation_
 
 ---
 
-## <div align="center">Repository of the Month</div>
-
-<h5>March 2021</h5>
-
-[Fastlane](https://github.com/fastlane/fastlane)
-
-The easiest way to automate building and releasing your iOS and Android apps
-
----
-
 ## <div align="center">Articles and Blogs</div>
 
 ##### 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
