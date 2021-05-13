@@ -287,14 +287,8 @@ _CEO and Executive Director of HCL Corporation_
 ---
 ## <div align="center">Repository of the Month</div>
 
-<h4>April 2021</h4>
-
-[Styled Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer)
-
-When you edit multiple md files remotely, like in a larger mkdocs project, context switches between editing terminal(s) and viewing browser may have some efficiency impact. Also sometimes there is just no browser, like via security gateways offering just a fixed set of applications on the hop in machine. Further, reading efficiency and convenience is often significantly improved by using colors. And lastly, using such a thing for cli applications might improve user output, e.g. for help texts.
-
-This is where mdv, a Python based Markdown viewer for the terminal might be a good option.
-
+<h4>May 2021</h4>
+ [Interview Questions for Front End Developers](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  
 
 ---
 ## <div align="center">Articles and Blogs</div>
