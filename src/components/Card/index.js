@@ -20,11 +20,14 @@ export default function Card({
                     }`}
                     src={image}
                     alt={alt}
+                    href={link}
                 />
             </a>
             <div className='card-block__body'>
                 <div>
-                    <h6 className='card-block__title'>{`${title}`}</h6>
+                    <a href={link} target="_blank">
+                    <h6 className='card-block__title' >{`${title}`}</h6>
+                    </a>
                     {/* <p className="card-block__desc">{title}</p> */}
                 </div>
                 {/* <a className="card-block__desc" href={link}>

@@ -11,7 +11,7 @@ import image from '../../images/github.png';
 export default function ResourcesComponent() {
   return (
     <div className="resources">
-      <div className="links">
+      {/* <div className="links">
         <Link to="/scholarship">
           <h1>Scholarships Page &gt; </h1>
         </Link>
@@ -21,7 +21,7 @@ export default function ResourcesComponent() {
         <Link to="/">
           <h1>World of CS Page &gt; </h1>
         </Link>
-      </div>
+      </div> */}
 
       <div className="articles">
         <h1>Articles & Blogs</h1>

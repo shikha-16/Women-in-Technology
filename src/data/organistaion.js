@@ -22,10 +22,18 @@ import image21 from '../images/organisation/hacker-ramp.png';
 
 export const organisations = [
   {
+    title: ' Rewriting the Code',
+    image: image20,
+    text:
+      'Rewriting the Code is a growing virtual community of 10,000+ exceptional college and early career women with a passion for technology. They come from 700+ colleges and universities, and show their talent through engaging in projects, internships, hackathons, and volunteering for good.',
+    link: 'https://rewritingthecode.org/',
+    href: 'https://rewritingthecode.org/',
+  },
+  {
     title: 'Women In Technology',
     image: image1,
     text:
-      'Women In Technology (WIT Community) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.',
+    'Women In Technology (WIT Community) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.',
     link: 'https://mywit.org/',
     href: 'https://mywit.org/',
   },
@@ -33,7 +41,7 @@ export const organisations = [
     title: 'Women Who Code',
     image: image2,
     text:
-      'When you become a part of Women Who Code you gain access to programs and services that are designed to help you step up your tech career. We have over 200,000 members who are career-aged tech professionals operating at each level of the industry.',
+    'When you become a part of Women Who Code you gain access to programs and services that are designed to help you step up your tech career. We have over 200,000 members who are career-aged tech professionals operating at each level of the industry.',
     link: 'https://www.womenwhocode.com/',
     href: 'https://www.womenwhocode.com/',
   },
@@ -174,21 +182,5 @@ export const organisations = [
       'Step Up propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.',
     link: 'https://www.suwn.org/',
     href: 'https://www.suwn.org/',
-  },
-  {
-    title: ' Rewriting the Code',
-    image: image20,
-    text:
-      'Rewriting the Code is a growing virtual community of 10,000+ exceptional college and early career women with a passion for technology. They come from 700+ colleges and universities, and show their talent through engaging in projects, internships, hackathons, and volunteering for good.',
-    link: 'https://rewritingthecode.org/',
-    href: 'https://rewritingthecode.org/',
-  },
-  {
-    title: ' HackerRamp: WeForShe',
-    image: image21,
-    text:
-      'Rewriting the Code is a growing virtual community of 10,000+ exceptional college and early career women with a passion for technology. They come from 700+ colleges and universities, and show their talent through engaging in projects, internships, hackathons, and volunteering for good.',
-    link: 'https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942',
-    href: 'https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942',
   },
 ];

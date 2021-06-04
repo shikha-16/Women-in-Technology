@@ -99,12 +99,6 @@ export default function Header() {
                                 className='dropdown-menu'
                                 aria-labelledby='navbarDropdown'
                             >
-                                <a
-                                    className='dropdown-item'
-                                    href='https://discord.com/invite/xvzbAXk'
-                                >
-                                    Join Discord
-                                </a>
                                 <a className='dropdown-item' href='/community'>
                                     About Community
                                 </a>
@@ -113,6 +107,12 @@ export default function Header() {
                                     href='/inspirations'
                                 >
                                     Inspirations
+                                </a>
+                                <a
+                                    className='dropdown-item'
+                                    href='https://discord.com/invite/xvzbAXk'
+                                >
+                                    Join Discord
                                 </a>
                                 {/* <a className="dropdown-item" href="/contributors">
                   Contributers
@@ -138,12 +138,8 @@ export default function Header() {
                                 className='dropdown-menu'
                                 aria-labelledby='navbarDropdown'
                             >
-                                <a
-                                    className='dropdown-item'
-                                    target='_blank'
-                                    href='https://github.com/shikha-16/Women-in-Technology'
-                                >
-                                    Github Repo
+                                <a className='dropdown-item' href='/beginners'>
+                                    Beginners
                                 </a>
                                 <a
                                     className='dropdown-item'
@@ -151,8 +147,12 @@ export default function Header() {
                                 >
                                     Guidelines
                                 </a>
-                                <a className='dropdown-item' href='/beginners'>
-                                    Beginners
+                                <a
+                                    className='dropdown-item'
+                                    target='_blank'
+                                    href='https://github.com/shikha-16/Women-in-Technology'
+                                >
+                                    Github Repo
                                 </a>
                             </div>
                         </li>

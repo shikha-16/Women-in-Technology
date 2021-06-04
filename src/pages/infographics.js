@@ -11,6 +11,12 @@ import CarouselComponent from '../components/CarouselComponent/CarouselComponent
 import Footer from '../components/Footer/Footer';
 import './infographics.css';
 
+import pdf1 from "../pdf/Competitive Programming_WiT.pdf"
+import pdf2 from "../pdf/Cyber Security_WiT.pdf"
+import pdf3 from "../pdf/FRONT_WEB_DEVELOPMENT_101.pdf"
+import pdf4 from "../pdf/Open Source Projects_WiT.pdf"
+import pdf5 from "../pdf/Software Engineering_WiT.pdf"
+
 import image1 from '../images/carousel-slider/5.png';
 import image2 from '../images/carousel-slider/3.png';
 import image3 from '../images/carousel-slider/1.png';
@@ -20,32 +26,27 @@ import image5 from '../images/carousel-slider/6.png';
 const infos = [
   {
     image: image1,
-    linkk:
-      'https://github.com/shikha-16/Women-in-Technology/blob/master/documents/infographics/Competitive%20Programming_WiT.pdf',
+    linkk:pdf1,
     desc: 'Competitive Programming',
   },
   {
     image: image2,
-    linkk:
-      'https://github.com/shikha-16/Women-in-Technology/blob/master/documents/infographics/Cyber%20Security_WiT.pdf',
+    linkk:pdf2,
     desc: 'Cyber Security',
   },
   {
     image: image3,
-    linkk:
-      'https://github.com/shikha-16/Women-in-Technology/blob/master/documents/infographics/FRONT_WEB_DEVELOPMENT_101.pdf',
+    linkk:pdf3,
     desc: 'FRONTEND Development',
   },
   {
     image: image4,
-    linkk:
-      'https://github.com/shikha-16/Women-in-Technology/blob/master/documents/infographics/Open%20Source%20Projects_WiT.pdf',
+    linkk:pdf4,
     desc: 'Open Source Projects',
   },
   {
     image: image5,
-    linkk:
-      'https://github.com/shikha-16/Women-in-Technology/blob/master/documents/infographics/Software%20Engineering_WiT.pdf',
+    linkk:pdf5,
     desc: 'Software Engineering',
   },
 ];
@@ -65,9 +66,9 @@ export default function infographics() {
             <div className="main-time-div">
               <div>
                 <h4 className="has">{a.desc}</h4>
-                <a href={a.linkk} style={{ color: 'blue' }} target="_blank">
+                <a href={a.linkk} style={{ color: 'blue' }} target="_blank" download>
                   {' '}
-                  Read More
+                  Download Pdf
                 </a>
               </div>
             </div>

@@ -263,7 +263,7 @@ I would definitely like recommend people to be a part of this amazing community.
         <div>
           {/* <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"style={{width:"200px",borderRadius:"50%"}} /> */}
           <div className="myCarousel">
-            <h3>Smriti Singh</h3>
+            <h3>Anonymous</h3>
     
             <p>This community provided me with very useful resources for the technologies that I am learning right now. Along with it, the members are just too helpful. Whether it comes to a small bug or "What to use to make a good resume" , they all come to help. I am glad to be a part of this community✨✨            </p>
           </div>

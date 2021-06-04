@@ -114,19 +114,7 @@ export default function MemberComponent() {
                 </ul>
 
                 <CardContent className={classes.cardContent}>
-                  Hi! I'm Shikha Bhat, I'm from Pune. I'm a second year Computer
-                  Science student at BITS Pilani, Goa Campus. Ever since 8th
-                  grade, Computer Science has fascinated me because it is the
-                  essence of logic and problem solving, both of which I love. I
-                  knew since then that I wanted computer science as my major in
-                  college. In BITS, I've also taken up a minor in Humanities
-                  because I want to work at the intersection of the computing
-                  and social sciences. I want to be able to identify problems in
-                  society and use data and computational methods to examine and
-                  solve it in an efficient way. Apart from this, I strongly
-                  believe that it is my responsibility to give back to the
-                  community and that is why I have started the Women in Tech
-                  community. Hope you find it useful!
+                Hi! I'm Shikha Bhat, I'm from Pune. I'm a second year Computer Science student at BITS Pilani, Goa Campus. Ever since 8th grade, Computer Science has fascinated me because it is the essence of logic and problem solving, both of which I love. I strongly believe that it is my responsibility to give back to the community and that is why I have started the Women in Tech community. Hope you find it useful!
                 </CardContent>
               </Card>
             </Grid>

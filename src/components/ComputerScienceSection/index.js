@@ -26,11 +26,10 @@ const cards = [
     title: 'Mobile-development',
   },
   {
-    link:
-      'https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3',
-    alt: 'web-development',
+    link: 'https://github.com/fabacab/awesome-cybersecurity-blueteam#readme',
+    alt: 'Cyber Security',
     image: image3,
-    title: 'Web-development',
+    title: 'Cyber Security',
   },
   {
     link: 'https://github.com/sindresorhus/awesome#back-end-development',
@@ -40,7 +39,7 @@ const cards = [
   },
   {
     link:
-      'https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/pdf/Competitive%20Programming%20(1).pdf',
+    'https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/pdf/Competitive%20Programming%20(1).pdf',
     alt: 'Competitive programming',
     image: image4,
     title: 'Competitive programming',
@@ -52,32 +51,22 @@ const cards = [
     title: 'Open Source',
   },
   {
-    link: 'https://github.com/fabacab/awesome-cybersecurity-blueteam#readme',
-    alt: 'Cyber Security',
+    link:
+    'https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3',
+    alt: 'web-development',
     image: image6,
-    title: 'Cyber Security',
+    title: 'Web-development',
   },
   // {
-  //   link: 'https://atozofai.withgoogle.com/intl/en-GB/',
-  //   alt: 'Ml/AI',
-  //   image: image8,
-  // },
-];
-
-export default function ComputerScienceSection() {
-  return (
-    <div className="container">
-      <div className="background-image">
-        <div className="grey-block">
-          <h3 className="grey-block__heading mb-2">
-            The World of Computer Science
-          </h3>
-          <p className="grey-block__text">
-            Computer Science is Awesome Get Started with Computer Science Now!!!
-          </p>
-        </div>
-      </div>
-      <br />
+    //   link: 'https://atozofai.withgoogle.com/intl/en-GB/',
+    //   alt: 'Ml/AI',
+    //   image: image8,
+    // },
+  ];
+  
+  export default function ComputerScienceSection() {
+    return (
+      <div className="container">
       <div>
         <h3 className="mb-3 mt-3">Explore Yourself in the World Of CS</h3>
         <div

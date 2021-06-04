@@ -9,6 +9,7 @@ import image6 from '../../images/inspiring/ashni.png';
 import image7 from '../../images/inspiring/ashwini.png';
 import image8 from '../../images/inspiring/roshni.png';
 import Divider from '../Divider';
+import "../Contributing/ss.css"
 
 const content = [
   {
@@ -80,10 +81,10 @@ const content = [
 export default function Inspirational() {
   return (
     <div className="container">
-      <h1 style={{ textAlign: 'center', marginBottom: '25px' }}>
+      <h2 style={{ marginBottom: '25px' }} >
         Women in Technology Role Models
-      </h1>
-      <p style={{ textAlign: 'center' }}>
+      </h2>
+      <p >
         <h5>
           "Strong role models are leading the charge and the change :
           raised-hands: As you grow in your career, it’s important that you have
@@ -92,7 +93,7 @@ export default function Inspirational() {
         </h5>
       </p>
       <p>
-        <p>
+        <p className="containerss">
           {' '}
           1.{' '}
           <a
@@ -104,7 +105,7 @@ export default function Inspirational() {
             flexibility in the workplace
           </a>
         </p>
-        <p>
+        <p className="containerss">
           2.{' '}
           <a
             href="https://obamawhitehouse.archives.gov/women-in-stem"
@@ -119,7 +120,7 @@ export default function Inspirational() {
           honor their legacy by committing to encourage a young woman to pursue
           a career in science.
         </p>
-        <p>
+        <p className="containerss">
           {' '}
           3.
           <a

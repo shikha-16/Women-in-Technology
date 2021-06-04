@@ -4,7 +4,7 @@ import './ScholarshipComponent.css';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 // image
-import image from '../../images/scholarship/women-tech.png';
+import image from '../../images/scholarship/ggs.jpg';
 import image1 from '../../images/scholarship/venkat.png';
 import image2 from '../../images/scholarship/gcs.png';
 import image3 from '../../images/scholarship/adobe.png';
@@ -27,32 +27,12 @@ export default function ScholarshipComponent() {
             </div>
           </div>
           <div className="row content-box">
-            <div className="col-md-4">
-              <div className="card">
-                <img
-                  className="card-img-top w-100"
-                  src={image}
-                  alt="card"
-                  style={{ width: '350px', height: '200px' }}
-                />
-                <div className="card-body ">
-                  <h6 className="card-title ">Scholarship for Women in Tech</h6>
-                  <a
-                    href="https://www.womentechmakers.com/scholars"
-                    // eslint-disable-next-line react/jsx-no-target-blank
-                    target="_blank"
-                  >
-                    See More {'>'}
-                  </a>
-                </div>
-              </div>
-            </div>
             <div className="col-md-8">
               <a
-                href="https://www.womentechmakers.com/scholars"
+                href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
                 target="_blank"
               >
-                <h4>Women Techmaker Scholar Program</h4>
+                <h4>Generation Google Scholarship</h4>
               </a>
               <p>
                 Through the Women Techmakers Scholars Program - formerly the
@@ -62,40 +42,19 @@ export default function ScholarshipComponent() {
                 participants and leaders in the field.
               </p>
             </div>
-          </div>
-          <div className="row content-box">
-            <div className="col-md-8">
-              <a
-                href="https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/"
-                target="_blank"
-              >
-                <h4>Venkat Panchapakesan Memorial Scholarship</h4>
-              </a>
-              <p>
-                This is a scholarship that will support university students in
-                making the world a more sustainable place using technology and
-                are passionate about the field of computer science and
-                engineering. Students who are already using computer science to
-                develop solutions for some of the challenges, or opportunities,
-                that they see around them are invited to apply for the Venkat
-                Panchapakesan Memorial Scholarship. exclusive to India
-              </p>
-            </div>
-            <div className="col-md-4 order-first order-md-last">
+            <div className="col-md-4">
               <div className="card">
                 <img
                   className="card-img-top w-100"
-                  src={image1}
+                  src={image}
                   alt="card"
                   style={{ width: '350px', height: '200px' }}
                 />
                 <div className="card-body ">
-                  <h6 className="card-title ">
-                    Venkat Panchapakesan Memorial Scholarship
-                  </h6>
-
+                  <h6 className="card-title ">Generation Google Scholarship</h6>
                   <a
-                    href="https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/"
+                    href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
+                    // eslint-disable-next-line react/jsx-no-target-blank
                     target="_blank"
                   >
                     See More {'>'}

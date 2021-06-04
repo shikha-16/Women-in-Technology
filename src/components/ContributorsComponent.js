@@ -86,6 +86,9 @@ export default function MemberComponent() {
                   >
                     Neha Kalbande
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                    Full Stack Web & Android Developer, ML/AI Learning Enthusiast
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
                     Women In Technology Website Developer
                   </h6>
@@ -124,8 +127,11 @@ export default function MemberComponent() {
                   >
                     Shriya Singh
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                  Product Designer and Researcher
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
-                  Visual/Graphic Designer
+                 Worked on Visual/Graphic Designer
                   </h6>
                   <div className="links">
                     <a href="https://github.com/shriy-singh">
@@ -163,6 +169,9 @@ export default function MemberComponent() {
                     Kolli Sudeepa
 
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                  Research Intern DRDL, Google WTM Scholar'20.
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
                   Worked on Scholarships part and added previous scholars experiences. 
                   </h6>
@@ -201,6 +210,9 @@ export default function MemberComponent() {
                   >
                     Astitva
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                  BE CS + MSc Phy undergraduate
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
                   PR to readme updating changes to a scholarship
                   </h6>
@@ -240,6 +252,9 @@ export default function MemberComponent() {
                    Rishabh Khandelwal
 
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                  Electronics and Instrumentation undergraduate at BITS Hyderabad
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
                   Added Inspirations page to the Women in Tech website
                   </h6>
@@ -278,6 +293,9 @@ export default function MemberComponent() {
                   >
                    Bharati Subramanian
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                  enthusiastic about web development, UI/UX design, and problem solving
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
                   Added about us and carousel designs PR#59
                   </h6>
@@ -317,6 +335,9 @@ export default function MemberComponent() {
                   Umang Sinha
 
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                  A mobile app developer and a UI/UX Designer
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
                   Worked on the website
 
@@ -356,6 +377,9 @@ export default function MemberComponent() {
                   >
                     victory brown
                   </Typography>
+                  <h5 style={{ textAlign: 'center' }}>
+                  User experience designer and Open Source Design evangelist. A member of sustain oss
+                  </h5>
                   <h6 style={{ textAlign: 'center' }}>
                     Contributed to carousel designs for website
                   </h6>
