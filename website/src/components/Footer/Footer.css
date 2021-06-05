@@ -1,0 +1,64 @@
+.page-title{
+    margin-top: 5px;
+}
+
+.badge-link{
+    margin-bottom: 20px;
+    width: 10%;
+    padding: 2px;
+    font-size: 5px;
+}
+
+.rowy{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.page-footer{
+    position: relative;
+}
+
+
+
+.cardy{
+    width: 300px;
+}
+
+@media screen and (max-width: 508px)   {
+    .badge-link{
+        width: 20%;
+    }
+
+    .rowy{
+        justify-content: center;
+        display: grid;
+        grid-template-columns: 1fr ;
+        margin-left: 15px;
+    }
+    
+.cardy{
+    width: 260px;
+}
+}
+
+@media screen and (max-width: 900px)   {
+    .badge-link{
+        width: 20%;
+    }
+       
+.cardy{
+    width: 160px;
+}
+}
+
+@media screen and (max-width: 1200px)   {
+    .badge-link{
+        width: 10%;
+    }
+}
+
+
+.row1{
+    font-size: 10px;
+}
