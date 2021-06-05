@@ -13,8 +13,10 @@
   - `git checkout website`
 - Install the Project Dependencies
   - `npm i`
-- Run Gatsby Server
-  - `npm run develop`
+- Run React Server
+  - `npm start`
+- Local Host
+  - `http://localhost:3000/`
 
 ## Make all the changes based on the issue
 
