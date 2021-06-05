@@ -18,7 +18,7 @@ To run the project locally you need to have Nodejs and npm installed.
 3. Local Host Server
 
 ```bash
-  you will get the local host server in 3000
+  you will get the local host server in http://localhost:3000/
 ```
 
 ## How to contribute
