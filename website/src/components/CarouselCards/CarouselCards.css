@@ -1,0 +1,69 @@
+.container-carousel {
+    position: relative;
+}
+
+.container-carousel .carousel-inner {
+    width: calc(100% - 200px);
+    margin: 0 auto;
+}
+
+.control-btn {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85px;
+    height: 100%;
+    background-color: #c4c4c4;
+}
+
+.control-btn img {
+    width: 74px;
+    height: 130px;
+}
+
+.control-btn--left {
+    left: 0;
+}
+
+.control-btn--left img {
+    transform: rotate(180deg);
+}
+
+.control-btn--right {
+    right: 0;
+}
+
+@media (max-width: 768px) {
+    .container-carousel .carousel-inner {
+        width: calc(100% - 90px);
+    }
+
+    .control-btn {
+        width: 40px;
+    }
+
+    .control-btn img {
+        width: 37px;
+        height: 65px;
+    }
+}
+
+@media (max-width: 576px) {
+    .container-carousel .carousel-inner {
+        width: calc(100% - 60px);
+    }
+
+    .container-carousel .col {
+        padding: 0;
+    }
+
+    .control-btn {
+        width: 29px;
+    }
+
+    .control-btn img {
+        width: 25px;
+        height: 44px;
+    }
+}

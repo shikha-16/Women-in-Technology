@@ -1,0 +1,17 @@
+.rowss{
+        padding: 50px 28px 81px 55px;
+        font-family: 'Calibri';
+        font-size: 30px;
+}
+
+@media screen and (max-width: 508px) {
+    .rowss{
+    font-size: 15px;
+}
+}
+
+@media screen and (max-width: 850px) {
+    .rowss{
+    font-size: 25px;
+}
+}
