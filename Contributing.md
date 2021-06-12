@@ -14,20 +14,46 @@ While contributing to the website, the contributors are expected to follow the b
 3. Please make sure you include comments in your code wherever necessary. 
 4. **Include only one commit in each of your pull requests.**
 5. Attach screenshots whenever any changes are made to the design, stylesheets, layout etc. of the website.
-6. All PRs to be made in the #website branch only.
-7. Upload a well labeled file in the 'women-in-tech-website' folder if it includes css or react or gatsby. Otherwise upload your file in the 'documents' folder if its a figma design or an infographic.
+6. All PRs to be made in the master branch only.
+7. Upload a well labeled file in the 'website' folder if it includes css or react.js Otherwise upload your file in the 'documents' folder if its a figma design or an infographic.
 
 ## Pull Requests
 If you have something awesome to contribute, this is how you do it.
 
-1. Access the Women in Tech GitHub page. For example: https://github.com/shikha-16/Women-in-Tech-India
-2. Click on the `readme.md` file: 
-3. Now click on the edit icon.
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
-5. **Say why you're proposing the changes**, and then click on "Propose file change". 
-6. Please ensure your pull request adheres to the [PR guidelines](pull_request_template.md).
-7. Make a PR in the right branch.
-8. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+1. Access the Women in Tech GitHub page. For example: https://github.com/shikha-16/Women-in-Tech
+2. **Say why you're proposing the changes**, and then click on "Propose file change". 
+3. Please ensure your pull request adheres to the [PR guidelines](pull_request_template.md).
+
+For the documentation -
+- Click on the `readme.md` file: 
+- Now click on the edit icon.
+- You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+
+For the website -
+## Getting Started
+
+- Fork the repository on GitHub
+- Clone the repo
+  - `git clone https://github.com/{Github-UserName}/Women-in-Technology.git`
+- Change the directory
+  - `cd Women-in-Technology/website/`
+- Install the Project Dependencies
+  - `npm install`
+- Run React Server
+  - `npm start`
+- Local Host
+  - `http://localhost:3000/`
+
+## Make all the changes based on the issue
+## Commit message
+
+Please follow the below format while writing commit messages
+
+```bash
+  title: One line description about your change
+  <Blank Line>
+  description: An optional description of your changes.
+```
 
 ## Updating your Pull Request
 
