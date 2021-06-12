@@ -34,7 +34,7 @@ const cards = [
   {
     link: 'https://github.com/sindresorhus/awesome#back-end-development',
     alt: 'web-development',
-    image: image1,
+    image: image6,
     title: 'Back-end-development',
   },
   {
@@ -54,7 +54,7 @@ const cards = [
     link:
     'https://medium.com/swlh/the-complete-beginners-guide-to-big-data-in-2018-82ed7a396ba3',
     alt: 'web-development',
-    image: image6,
+    image: image1,
     title: 'Web-development',
   },
   // {
