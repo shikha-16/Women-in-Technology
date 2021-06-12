@@ -8,20 +8,15 @@
 - Clone the repo
   - `git clone https://github.com/{Github-UserName}/Women-in-Technology.git`
 - Change the directory
-  - `cd Women-in-Technology/women-in-tech-website/`
-- Checkout website Branch
-  - `git checkout website`
+  - `cd Women-in-Technology/website/`
 - Install the Project Dependencies
-  - `npm i`
+  - `npm install`
 - Run React Server
   - `npm start`
 - Local Host
   - `http://localhost:3000/`
 
 ## Make all the changes based on the issue
-
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
-
 ## Commit message
 
 Please follow the below format while writing commit messages
