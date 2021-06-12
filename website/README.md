@@ -7,7 +7,7 @@ To run the project locally you need to have Nodejs and npm installed.
 1. Install the Project Dependencies
 
 ```bash
-  npm i
+  npm install
 ```
 
 2. Run React
