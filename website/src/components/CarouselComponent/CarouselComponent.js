@@ -6,6 +6,7 @@ import { Carousel } from "react-responsive-carousel";
 import slide1 from '../../images/carousel/carousel1.png';
 import slide2 from '../../images/carousel/carousel2.png';
 import slide3 from '../../images/carousel/carousel3.png';
+import slide4 from '../../images/carousel/carousel4.png';
 
 export default function ControlledCarousel() {
   return (
@@ -19,6 +20,9 @@ export default function ControlledCarousel() {
     </div>
     <div class="carousel-item">
       <img src={slide3} class="d-block w-100" alt="..." />
+    </div>
+    <div class="carousel-item">
+      <img src={slide4} class="d-block w-100" alt="..." />
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
