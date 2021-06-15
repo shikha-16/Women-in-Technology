@@ -289,7 +289,9 @@ _CEO and Executive Director of HCL Corporation_
 ## <div align="center">Repository of the Month</div>
 
 <h4>June 2021</h4>
- [EbookFoundation/free-programming-books ](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
+
+ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
+ 
  This page is available as an easy-to-read website at https://ebookfoundation.github.io/.
  :books: Freely available programming books 
 
