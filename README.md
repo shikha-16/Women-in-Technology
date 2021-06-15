@@ -281,15 +281,17 @@ _CEO and Executive Director of HCL Corporation_
 12. [Best Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :computer:
 13. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
 14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
+15. [EbookFoundation/free-programming-books ](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md):books:
 
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
 ---
 ## <div align="center">Repository of the Month</div>
 
-<h4>May 2021</h4>
-
-[Interview Questions for Front End Developers](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  
+<h4>June 2021</h4>
+ [EbookFoundation/free-programming-books ](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
+ This page is available as an easy-to-read website at https://ebookfoundation.github.io/.
+ :books: Freely available programming books 
 
 ---
 ## <div align="center">Articles and Blogs</div>
