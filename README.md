@@ -13,7 +13,7 @@
 
 </div>
 
-Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of a community of inspiring women and connect with more like-minded people!
+Join my [Discord](https://discord.gg/j9eM73g7hH) server to be part of a community of inspiring women and connect with more like-minded people!
 
 **We are currently working on making a website for the repository. Go through the documentation, issues and [Contributing](#Contributing) to learn more about how you can contribute!**
 
