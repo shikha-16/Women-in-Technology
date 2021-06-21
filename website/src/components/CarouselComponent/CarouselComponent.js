@@ -5,9 +5,9 @@ import "./carousel.css";
 
 
 import slide1 from '../../images/carousel/carousel1.png';
-import slide2 from '../../images/carousel/carousel2.png';
-import slide3 from '../../images/carousel/carousel3.png';
-import slide4 from '../../images/carousel/carousel4.png';
+import slide2 from '../../images/carousel/carousel2_2.png';
+import slide3 from '../../images/carousel/carousel3_2.png';
+import slide4 from '../../images/carousel/carousel4_2.png';
 
 export default function ControlledCarousel() {
   return (
@@ -20,7 +20,8 @@ export default function ControlledCarousel() {
       <img src={slide2} class="d-block w-100" alt="..." />
     </div>
     <div class="carousel-item">
-      <img src={slide3} class="d-block w-100" alt="..." />
+      <a href="https://github.com/ossu/computer-science">
+      <img src={slide3} class="d-block w-100" alt="..." /></a>
     </div>
     <div class="carousel-item">
       <img src={slide4} class="d-block w-100" alt="..." className="logss" />
