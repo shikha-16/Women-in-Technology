@@ -9,7 +9,7 @@
 <div align="center"> Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science. I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Check out the website below! :sparkles:
 
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](women-in-technology-wit.web.app/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://women-in-technology-wit.web.app/)
 
 </div>
 
