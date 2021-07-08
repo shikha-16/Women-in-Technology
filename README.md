@@ -185,7 +185,7 @@ The Women at Microsoft Scholarship seeks to empower and enable high school women
 ## Events/Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
-3. [Girlscript Summer of Code](https://www.gssoc.tech/)
+3. [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
 4. [Google Summer of Code](https://summerofcode.withgoogle.com/)
 5. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
 6. [Outreachy](https://www.outreachy.org/)
