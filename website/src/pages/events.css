@@ -1,0 +1,19 @@
+.list{
+    text-align: left;
+    padding-top:50px;
+    padding-left: 5px;
+}
+.list ol li{
+    padding:5px;
+}
+h1{
+    padding-left:30px;
+    text-decoration: underline;
+    text-align: center;
+}
+li{
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+}
