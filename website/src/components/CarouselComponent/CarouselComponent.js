@@ -11,7 +11,7 @@ import slide4 from '../../images/carousel/carousel4_2.png';
 
 export default function ControlledCarousel() {
   return (
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleControls" class="carousel-slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src={slide1} class="d-block w-100" alt="..." />
@@ -106,21 +106,21 @@ export default function ControlledCarousel() {
 //     autoPlay={true}
 //     interval={1600}
 //   >
-//     <div className="myCarousel1"> 
+//     <div className="myCarousel1">
 //       <img src={slide1}/>
-     
+
 //     </div>
 
 //     <div className="myCarousel1">
 //       <img src={slide2}/>
-      
+
 //     </div>
 
 //     <div className="myCarousel1">
 //       <img src={slide3}/>
-      
+
 //     </div>
-    
+
 //   </Carousel>
 //   );
 // }
