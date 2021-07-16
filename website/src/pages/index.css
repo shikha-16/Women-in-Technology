@@ -4,14 +4,23 @@
         font-size: 30px;
 }
 
-@media screen and (max-width: 508px) {
+@media screen and (max-width: 540px) {
     .rowss{
     font-size: 15px;
-}
+    margin-left: -10%;
+    }
+    .roww{
+      margin-bottom: -5%;
+      margin-top: -5%;
+      margin-left: 0%;
+    }
+    .h33{
+      font-size: 25px;
+    }
 }
 
 @media screen and (max-width: 850px) {
     .rowss{
     font-size: 25px;
-}
+  }
 }

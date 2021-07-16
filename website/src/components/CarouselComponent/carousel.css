@@ -1,4 +1,10 @@
 .logss{
     width:50% !important;
-    height:50%;
+    height: 50%;
+}
+
+@media only screen and (max-width: 540px) {
+  .carousel .slide{
+    margin-top: 2%;
+  }
 }

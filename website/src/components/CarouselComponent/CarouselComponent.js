@@ -106,21 +106,21 @@ export default function ControlledCarousel() {
 //     autoPlay={true}
 //     interval={1600}
 //   >
-//     <div className="myCarousel1"> 
+//     <div className="myCarousel1">
 //       <img src={slide1}/>
-     
+
 //     </div>
 
 //     <div className="myCarousel1">
 //       <img src={slide2}/>
-      
+
 //     </div>
 
 //     <div className="myCarousel1">
 //       <img src={slide3}/>
-      
+
 //     </div>
-    
+
 //   </Carousel>
 //   );
 // }
