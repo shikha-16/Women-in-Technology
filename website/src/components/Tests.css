@@ -73,7 +73,7 @@
 
   .myCarousel p {
     font-weight: 100 !important;
-    line-height: 29px;
+    line-height: 27px;
     color: #222;
     font-size: 15px;
     font-family: sans-serif;
@@ -182,8 +182,11 @@
       margin-bottom: 10%;
     }
     .myCarousel p{
-      font-size: 15px;
-      line-height: 20px;
+      font-size: 13px;
+      line-height: 16px;
       font-family: sans-serif;
+    }
+    .myCarousel h3{
+      margin-top: 2%;
     }
   }

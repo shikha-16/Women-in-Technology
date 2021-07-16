@@ -207,7 +207,7 @@ export default class TestimonialsComponent extends Component {
           <div className="myCarousel">
             <h3>Kolli Sudeepa</h3>
 
-            <p className="Carousel-text">
+            <p>
             Women in Technology is a community, a girl ever wishes to join. Be it the repo or the discord channel, it has been very helpful in finding resources. It's like a one-stop tech zone for a girl in knowing about opportunities, competitions, webinars and various events.
             </p>
           </div>
@@ -218,7 +218,7 @@ export default class TestimonialsComponent extends Component {
           <div className="myCarousel">
             <h3>Astitva </h3>
 
-            <p className="Carousel-text">
+            <p>
             This community has made me more aware about the lack of diversity in STEM. This has motivated me too to support women i know personally who are already in STEM / trying to enter STEM. By the amazing discord server and repository it has highlighted key issues women face, and being a male I try to keep these in mind while working in groups, etc. so that I can do my part at a personal level to equalise the status quo.
             </p>
           </div>
@@ -229,7 +229,7 @@ export default class TestimonialsComponent extends Component {
           <div className="myCarousel">
             <h3>Ayushi Dubal</h3>
 
-            <p className="Carousel-text">
+            <p>
             Women in Technology is an awesome community with a great curation of resources and opportunities. The people in the community are dedicated, helpful, and enthusiastic. I have found many opportunities and good reads on the platform, and am very glad to be a part of the movement!
             </p>
           </div>
@@ -249,7 +249,7 @@ I would definitely like recommend people to be a part of this amazing community.
           <div className="myCarousel">
             <h3>Siddhi Parashar</h3>
 
-            <p className="Carousel-text">This is an amazing platform. It has provided me with a lot of resources and an opportunity to connect with other women in tech. I'm really proud of Shikha to have started this initiative, I would definitely recommend anyone who wants easy access to resources and opportunities to join this server and be a part of the community!            </p>
+            <p>This is an amazing platform. It has provided me with a lot of resources and an opportunity to connect with other women in tech. I'm really proud of Shikha to have started this initiative, I would definitely recommend anyone who wants easy access to resources and opportunities to join this server and be a part of the community!            </p>
           </div>
         </div>
         <div>
@@ -257,7 +257,7 @@ I would definitely like recommend people to be a part of this amazing community.
           <div className="myCarousel">
             <h3>Aitana</h3>
 
-            <p className="Carousel-text">Thanks to WTM I have met a lot of interesting people and companies in which I can have an opportunity in the future ✨            </p>
+            <p>Thanks to WTM I have met a lot of interesting people and companies in which I can have an opportunity in the future ✨            </p>
           </div>
         </div>
         <div>
@@ -265,7 +265,7 @@ I would definitely like recommend people to be a part of this amazing community.
           <div className="myCarousel">
             <h3>Anonymous</h3>
 
-            <p className="Carousel-text">This community provided me with very useful resources for the technologies that I am learning right now. Along with it, the members are just too helpful. Whether it comes to a small bug or "What to use to make a good resume" , they all come to help. I am glad to be a part of this community✨✨            </p>
+            <p>This community provided me with very useful resources for the technologies that I am learning right now. Along with it, the members are just too helpful. Whether it comes to a small bug or "What to use to make a good resume" , they all come to help. I am glad to be a part of this community✨✨            </p>
           </div>
         </div>
       </Carousel>
