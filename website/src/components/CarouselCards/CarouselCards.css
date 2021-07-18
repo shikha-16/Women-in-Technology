@@ -8,13 +8,13 @@
 }
 
 .control-btn {
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 85px;
-    height: 100%;
-    background-color: #c4c4c4;
+  position: absolute;
+  display: flex;
+  margin: 0;
+  top: 33%;
+  -ms-transform: scale(0.2, 0.2); /* IE 9 */
+  -webkit-transform: scale(0.2, 0.2); /* Safari */
+  transform: scale(0.2, 0.2);
 }
 
 .control-btn img {
@@ -41,6 +41,7 @@
 
     .control-btn {
         width: 40px;
+        top: 40%;
     }
 
     .control-btn img {
@@ -60,6 +61,7 @@
 
     .control-btn {
         width: 29px;
+        top: 45%;
     }
 
     .control-btn img {
