@@ -30,7 +30,7 @@ const Scroll = ({ showBelow }) => {
           className="btn btn-primary toTop"
           onClick={scrollToTop}
         >
-          ^ Scroll to Top
+          <i class="fa fa-arrow-up" aria-hidden="true"></i>
         </button>
       )}
     </div>
