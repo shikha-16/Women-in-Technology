@@ -1,10 +1,10 @@
 .container-carousel {
-    position: relative;
+  position: relative;
 }
 
 .container-carousel .carousel-inner {
-    width: calc(100% - 200px);
-    margin: 0 auto;
+  width: calc(100% - 200px);
+  margin: 0 auto;
 }
 
 .control-btn {
@@ -18,54 +18,54 @@
 }
 
 .control-btn img {
-    width: 74px;
-    height: 130px;
+  width: 74px;
+  height: 130px;
 }
 
 .control-btn--left {
-    left: 0;
+  left: 0;
 }
 
 .control-btn--left img {
-    transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 
 .control-btn--right {
-    right: 0;
+  right: 0;
 }
 
 @media (max-width: 768px) {
-    .container-carousel .carousel-inner {
-        width: calc(100% - 90px);
-    }
+  .container-carousel .carousel-inner {
+    width: calc(100% - 90px);
+  }
 
-    .control-btn {
-        width: 40px;
-        top: 40%;
-    }
+  .control-btn {
+    width: 40px;
+    top: 40%;
+  }
 
-    .control-btn img {
-        width: 37px;
-        height: 65px;
-    }
+  .control-btn img {
+    width: 37px;
+    height: 65px;
+  }
 }
 
 @media (max-width: 576px) {
-    .container-carousel .carousel-inner {
-        width: calc(100% - 60px);
-    }
+  .container-carousel .carousel-inner {
+    width: calc(100% - 60px);
+  }
 
-    .container-carousel .col {
-        padding: 0;
-    }
+  .container-carousel .col {
+    padding: 0;
+  }
 
-    .control-btn {
-        width: 29px;
-        top: 45%;
-    }
+  .control-btn {
+    width: 29px;
+    top: 45%;
+  }
 
-    .control-btn img {
-        width: 25px;
-        height: 44px;
-    }
+  .control-btn img {
+    width: 25px;
+    height: 44px;
+  }
 }
