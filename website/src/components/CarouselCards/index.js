@@ -1,9 +1,9 @@
-import React, { useMemo, useRef, useState, useEffect } from 'react';
-import PropTypes from 'prop-types';
-import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import control from '../../images/control.png';
-import './CarouselCards.css';
-import Card from '../Card/index';
+import React, { useMemo, useRef, useState, useEffect } from "react";
+import PropTypes from "prop-types";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import control from "../../images/control.png";
+import "./CarouselCards.css";
+import Card from "../Card/index";
 
 export default function CarouselCards({ cards, name }) {
   const containerRef = useRef(null);
@@ -24,8 +24,8 @@ export default function CarouselCards({ cards, name }) {
       handleResize();
     }
 
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   const cardsOnSlide =
@@ -72,11 +72,11 @@ export default function CarouselCards({ cards, name }) {
           {cardsBySlides.map((cardsSlide, i) => (
             <div
               key={`carousel-item-${i}`}
-              className={`carousel-item ${i === 0 ? 'active' : ''}`}
+              className={`carousel-item ${i === 0 ? "active" : ""}`}
             >
               <div
                 className="row justify-content-center"
-                style={{ flexWrap: 'nowrap' }}
+                style={{ flexWrap: "nowrap" }}
               >
                 {cardsSlide.map(
                   ({ image, title, description, link, alt }, j) => (
