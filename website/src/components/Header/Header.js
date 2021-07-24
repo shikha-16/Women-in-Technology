@@ -81,6 +81,9 @@ export default function Header() {
                                 <a className='dropdown-item' href='/resources'>
                                     Other Resources
                                 </a>
+                                <a className='dropdown-item' href='/events'>
+                                    Events/Programs
+                                </a>
                             </div>
                         </li>
                         <li className='nav-item dropdown'>
