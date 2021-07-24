@@ -1,19 +1,17 @@
-.list{
+.eventList{
     text-align: left;
     padding-top:50px;
     padding-left: 5px;
 }
-.list ol li{
+.eventName{
     padding:5px;
+    font-size: x-large;
 }
-h1{
+.eventHeading{
     padding-left:30px;
     text-decoration: underline;
     text-align: center;
 }
-li{
-    font-size: x-large;
-}
-a{
+.eventLink{
     text-decoration: none;
 }
