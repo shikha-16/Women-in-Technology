@@ -1,134 +1,92 @@
-.site-footer {
-  background-color: #ffd684;
-  padding: 45px 0 20px;
-  font-size: 15px;
-  line-height: 24px;
-  color: #737373;
-}
-.site-footer hr {
-  border-top-color: #bbb;
-  opacity: 0.5;
-}
-.site-footer hr.small {
-  margin: 20px 0;
-}
-.site-footer h6 {
-  font-size: 16px;
-  text-transform: uppercase;
-  margin-top: 5px;
-  letter-spacing: 2px;
-}
-.site-footer a {
-  color: #737373;
-}
-.site-footer a:hover {
-  color: #3366cc;
-  text-decoration: none;
-}
-.footer-links {
-  padding-left: 0;
-  list-style: none;
-}
-.footer-links li {
-  display: block;
-}
-.footer-links a {
-  color: #737373;
-}
-.footer-links a:active,
-.footer-links a:focus,
-.footer-links a:hover {
-  color: #3366cc;
-  text-decoration: none;
-}
-.footer-links.inline li {
-  display: inline-block;
-}
-.site-footer .social-icons {
-  text-align: right;
-}
-.site-footer .social-icons a {
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  margin-left: 6px;
-  margin-right: 0;
-  border-radius: 100%;
-  background-color: #33353d;
-}
-.copyright-text {
-  margin: 0;
-}
-@media (max-width: 991px) {
-  .site-footer [class^="col-"] {
-    margin-bottom: 30px;
-  }
-}
-@media (max-width: 767px) {
-  .site-footer {
-    padding-bottom: 0;
-  }
-  .site-footer .copyright-text,
-  .site-footer .social-icons {
-    text-align: center;
-  }
-}
-.social-icons {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-}
-.social-icons li {
-  display: inline-block;
-  margin-bottom: 4px;
-}
-.social-icons li.title {
-  margin-right: 15px;
-  text-transform: uppercase;
-  color: #96a2b2;
-  font-weight: 700;
-  font-size: 13px;
-}
-.social-icons a {
-  background-color: #eceeef;
-  color: #818a91;
-  font-size: 16px;
-  display: inline-block;
-  line-height: 44px;
-  width: 44px;
-  height: 44px;
-  text-align: center;
-  margin-right: 8px;
-  border-radius: 100%;
-  -webkit-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
-  transition: all 0.2s linear;
-}
-.social-icons a:active,
-.social-icons a:focus,
-.social-icons a:hover {
-  color: #fff;
-  background-color: #29aafe;
-}
-.social-icons.size-sm a {
-  line-height: 34px;
-  height: 34px;
-  width: 34px;
-  font-size: 14px;
-}
-.social-icons a.github:hover {
-  background-color: #3b5998;
-}
-.social-icons a.discord:hover {
-  background-color: #00aced;
-}
-.social-icons a.gmail:hover {
-  background-color: #ea4c89;
-}
-@media (max-width: 767px) {
-  .social-icons li.title {
-    display: block;
-    margin-right: 0;
-    font-weight: 600;
-  }
+import React from "react";
+import "./Footer.css";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faDiscord } from "@fortawesome/free-brands-svg-icons";
+import { faGoogle } from "@fortawesome/free-brands-svg-icons";
+
+export default function Footer() {
+  return (
+    <footer class="site-footer">
+      <div className="container">
+        <div className="row">
+          <div className="col-sm-12 col-md-6">
+            <h6>About</h6>
+            <p className="text-justify">
+              Women in Technology empowers girls and women to excel in science,
+              technology, engineering, the arts, and math (STEAM) from the
+              classroom to the boardroom. We do this by providing female
+              students in middle school, high school, and college with
+              education, exposure, and experience. By sharing the stories of
+              successful professionals across the STEAM fields, we encourage all
+              generations of girls and women to write their future.
+            </p>
+          </div>
+
+          <div className="col-xs-6 col-md-3">
+            <h6>Quick Links</h6>
+            <ul className="footer-links">
+              <li>
+                <a href="#">About Us</a>
+              </li>
+              <li>
+                <a href="#">Contact Us</a>
+              </li>
+              <li>
+                <a href="#">Contribute</a>
+              </li>
+              <li>
+                <a href="#">Privacy Policy</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <hr />
+      </div>
+      <div className="container">
+        <div className="row">
+          <div className="col-md-8 col-sm-6 col-xs-12">
+            <p className="copyright-text">
+              Copyright &copy; 2021 All Rights Reserved by
+              <a href="#"> Women in Technology</a>.
+            </p>
+          </div>
+
+          <div className="col-md-4 col-sm-6 col-xs-12">
+            <ul className="social-icons">
+              <li>
+                <a
+                  className="github"
+                  target="_blank"
+                  href="https://github.com/shikha-16/Women-in-Technology"
+                >
+                  <FontAwesomeIcon icon={faGithub} />
+                </a>
+              </li>
+              <li>
+                <a
+                  className="discord"
+                  target="_blank"
+                  href="https://discord.com/invite/xvzbAXk"
+                >
+                  <FontAwesomeIcon icon={faDiscord} />
+                </a>
+              </li>
+              <li>
+                <a
+                  className="gmail"
+                  target="_blank"
+                  href="mailto:shikhabhat1608@gmail.com?subject=Test email, please change this"
+                >
+                  <FontAwesomeIcon icon={faGoogle} />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
 }
