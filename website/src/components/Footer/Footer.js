@@ -15,13 +15,11 @@ export default function Footer() {
           <div className="col-sm-12 col-md-6">
             <h6>About</h6>
             <p className="text-justify">
-              Women in Technology empowers girls and women to excel in science,
-              technology, engineering, the arts, and math (STEAM) from the
-              classroom to the boardroom. We do this by providing female
-              students in middle school, high school, and college with
-              education, exposure, and experience. By sharing the stories of
-              successful professionals across the STEAM fields, we encourage all
-              generations of girls and women to write their future.
+              Women in Technology empowers women and young girls wanting to
+              pursue Computer Science all around the world by increasing
+              visibility of resources and opportunities, sharing inspirational
+              stories of successful professionals in STEM and through our
+              amazing Discord community of women uplifting each other.
             </p>
           </div>
 
