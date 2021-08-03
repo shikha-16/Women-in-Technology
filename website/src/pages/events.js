@@ -24,11 +24,11 @@ export default function EventsPage() {
       <li className="eventName"><a className="eventLink" href="https://india.swe.org/">Society of Women Engineers India</a></li>
       <li className="eventName"><a className="eventLink" href="https://developher.com/">DevelopHER</a></li>
       <li className="eventName"><a className="eventLink" href="https://wintathon2020.splashthat.com/">LinkedIn Wintathon</a></li>
-      <li className="eventName"><a className="eventLink" href="#">Adobe Codiva</a></li>
-      <li className="eventName"><a className="eventLink" href="#">Visa Code Your Way</a></li>
+      <li className="eventName"><a className="eventLink" href="https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html">Adobe Codiva</a></li>
+      <li className="eventName"><a className="eventLink" href="https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/">Visa Code Your Way</a></li>
       <li className="eventName"><a className="eventLink" href="https://careers.microsoft.com/students/us/en/ind-programs">Microsoft Codess</a></li>
       <li className="eventName"><a className="eventLink" href="https://www.uber.com/us/en/careers/teams/university/">Uber She++</a></li>
-      <li className="eventName"><a className="eventLink" href="#">Flipkart Girls Wanna Code</a></li>
+      <li className="eventName"><a className="eventLink" href="https://dare2compete.com/hackathon/flipkart-girls-wanna-code-30-flipkart-145093">Flipkart Girls Wanna Code</a></li>
       <li className="eventName"><a className="eventLink" href="https://coachin2021.splashthat.com/">LinkedIn CoachIn Program</a></li>
 
       </ol>
