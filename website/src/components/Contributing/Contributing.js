@@ -1,13 +1,13 @@
-import React from 'react';
-import "./ss.css"
+import React from "react";
+import "./ss.css";
 
-import { contributingData } from '../../data/contributing';
-import ListStepsData from './ListStepsData';
-import TitleContent from './TitleContent';
+import { contributingData } from "../../data/contributing";
+import ListStepsData from "./ListStepsData";
+import TitleContent from "./TitleContent";
 
 function Contributing() {
   return (
-    <div className="abcd">
+    <div className="content">
       <TitleContent headerType="h2" content={contributingData.guideline} />
       <ListStepsData content={contributingData.steps_to_contribute} />
       <ListStepsData content={contributingData.steps_to_PR} />

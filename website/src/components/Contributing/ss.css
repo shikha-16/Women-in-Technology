@@ -1,7 +1,8 @@
-.abcd{
-    text-align: left;
+.content {
+  text-align: left;
+  padding: 100px;
 }
 
-.containerss{
-    text-align: left;
+.containerss {
+  text-align: left;
 }
