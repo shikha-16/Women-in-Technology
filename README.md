@@ -136,6 +136,9 @@ Through community-based programs and philanthropy, Google works to connect stude
 ### 21. WooTech
 [WooTech](https://wootechnology.github.io/Website/) provides a mentorship platform to women in technology and guide them in their career. The mentorship platform is open to everyone including students, working professionals or just anyone curious about technology.
 
+### 22. Harvard WECode
+[Harvard WECode](https://www.harvardwecode.com/) runs the largest student-run women in tech conference in the world. Their mission is to cultivate the next generation of technical leaders, foster a network and community among collegiate engineers, and promote more female representation in the technical industry.
+
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
