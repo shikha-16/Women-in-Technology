@@ -1,3 +1,4 @@
+import React from 'react';
 import { BrowserRouter as Router, Route} from "react-router-dom";
 import { Switch } from "react-router";
 import './App.css';
@@ -15,13 +16,18 @@ import ContributingPage from "./pages/contributing";
 import GithubPage from "./pages/github";
 import BeginnersPage from "./pages/beginners";
 import EventsPage from "./pages/events";
-
+import DarkMode from './components/DarkMode';
 function App() {
+ 
   return (
+ 
     <div className="App">
       <Router>
-        <Header />
+      
+        <Header /> 
+        
       <Switch>
+      
         <Route path="/" exact component={IndexPage} />
         <Route path="/scholarship" exact component={ScholarshipPage} />
         <Route path="/resources" exact component={ResourcesPage} />
@@ -35,9 +41,11 @@ function App() {
         <Route path="/beginners" exact component={BeginnersPage} />
         <Route path="/events" exact component={EventsPage} />
         </Switch>
-      <Footer />
+        <DarkMode/>  
+      <Footer /> 
       </Router>
     </div>
+    
   );
 }
 

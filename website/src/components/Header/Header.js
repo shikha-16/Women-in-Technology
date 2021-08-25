@@ -2,11 +2,11 @@ import React from 'react';
 import logo from '../../images/WITfivicon.png';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
-
+import DarkMode from '../DarkMode';
 export default function Header() {
     return (
         <div>
-            <nav
+            <nav 
                 className='navbar fixed-top navbar-expand-lg navbar-light'
                 style={{ backgroundColor: ' #FFCC66 ' }}
             >
@@ -18,7 +18,7 @@ export default function Header() {
                         className='d-inline-block align-top'
                         alt=''
                         loading='lazy'
-                    />{' '}
+                    />
                     Women in Technology
                 </a>
                 <button
@@ -39,7 +39,7 @@ export default function Header() {
                 >
                     <ul className='navbar-nav ml-auto'>
                         <li className='nav-item active'>
-                            <a className='nav-link' href='/'>
+                            <a className='nav-link' href='/'><span class="fa fa-home fa-lg"></span>
                                 Home
                             </a>
                         </li>
@@ -53,7 +53,7 @@ export default function Header() {
                                 aria-haspopup='true'
                                 aria-expanded='false'
                                 color='black'
-                            >
+                            >  <span class="fa fa-graduation-cap fa-lg"></span>
                                 Resources
                             </a>
                             <div
@@ -95,7 +95,7 @@ export default function Header() {
                                 data-bs-toggle='dropdown'
                                 aria-haspopup='true'
                                 aria-expanded='false'
-                            >
+                            > <span class="fa fa-users fa-lg"></span>
                                 Community
                             </a>
                             <div
@@ -134,7 +134,7 @@ export default function Header() {
                                 data-bs-toggle='dropdown'
                                 aria-haspopup='true'
                                 aria-expanded='false'
-                            >
+                            >  <span class = " fa fa-cogs fa-lg"> </span>
                                 Contribute
                             </a>
                             <div
@@ -158,7 +158,8 @@ export default function Header() {
                                     Github Repo
                                 </a>
                             </div>
-                        </li>
+                         </li>
+                       {/*  <DarkMode/>   */}
                         {/* Some dummy code below to create space around Contribute Dropdown */}
                         {/* <li className="nav-item active">
               <a className="nav-link" />
