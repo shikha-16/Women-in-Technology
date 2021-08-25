@@ -9,6 +9,7 @@
 :root {
   --blue: rgb(26, 57, 87);
   --white: white;
+  --black: black;
 
 }
 
@@ -20,7 +21,7 @@ body.light{
 }
 body.dark{
   --background-color: var(--blue);
-  --text-color: var(--white);
+  --text-color: var(--black);
   --font-weight: 500;
   
 }
