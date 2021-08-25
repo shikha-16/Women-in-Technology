@@ -21,7 +21,7 @@ body.light{
 }
 body.dark{
   --background-color: var(--blue);
-  --text-color: var(--black);
+  --text-color: var(--white);
   --font-weight: 500;
   
 }
@@ -57,7 +57,7 @@ nav a {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  
   background:  var(--background-color);
   color: var(--text-color);
   font-weight: var(--font-weight);
