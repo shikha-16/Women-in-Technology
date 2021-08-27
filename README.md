@@ -16,7 +16,7 @@ Join my [Discord](https://discord.gg/j9eM73g7hH) server to be part of a communit
 
 ---
 
-## <div align="center">Table of Contents</div>
+## Table of Contents
 - :computer: [Learn by Doing](#Learn-by-Doing)
 - :muscle: [Organizations to Promote Women in Technology](#Organizations-to-Promote-Women-in-Technology)
 - :book: [Scholarships](#Scholarships-and-Programs-for-Women)
@@ -29,7 +29,7 @@ Join my [Discord](https://discord.gg/j9eM73g7hH) server to be part of a communit
 
 ---
 
-## <div align="center">Learn by Doing</div>
+## Learn by Doing
 
 A little something to get you to know more about Computer Science, check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
 To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes: Also take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/) and [Google Computer Science](https://edu.google.com/intl/en_in/computer-science/?modal_active=none)! It's a great place to start and grow.
@@ -48,7 +48,7 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 
 ---
 
-## <div align="center">Organizations to Promote Women in Technology</div>
+## Organizations to Promote Women in Technology
 
 ### Rewriting the Code
 [Rewriting the Code](https://rewritingthecode.org/) is a growing virtual community of 10,000+ exceptional college and early career women with a passion for technology. They come from 700+ colleges and universities, and show their talent through engaging in projects, internships, hackathons, and volunteering for good.
@@ -112,7 +112,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 
 ---
 
-## <div align="center">Scholarships and Programs for Women</div>
+## Scholarships and Programs for Women
 ![books](documents/info/images/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
 ## Scholarships
@@ -182,7 +182,7 @@ _Keep a lookout for these events every year! These links may be unavailable beca
 
 ---
 
-## <div align="center">Women in Technology Role Models</div>
+## Women in Technology Role Models
 
 Strong role models are leading the charge and the change. :raised-hands: As you grow in your career, it’s important that you have access to people you can identify with. Here are some studies to get you started!
 1. [A STUDY:Women in tech careers yearn for female role models and flexibility in the workplace](https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf)
@@ -234,7 +234,7 @@ _Founder and CEO, Mad Street Den_
 
 ---
 
-## <div align="center">Other Helpful GitHub Repositories</div>
+## Other Helpful GitHub Repositories
 1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/) :unlock:
 2. [Awesome Lists](https://github.com/sindresorhus/awesome) :tada:
 3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  :busts_in_silhouette:
@@ -256,7 +256,7 @@ _Founder and CEO, Mad Street Den_
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
 ---
-## <div align="center">Good Reads</div>
+## Good Reads
 
 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
@@ -276,7 +276,7 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 ---
 
-## <div align="center">Community</div>
+## Community
 
 
 ![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
@@ -285,7 +285,7 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 
 ---
 
-## <div align="center">Contributing</div>
+## Contributing
 
 We welcome contributions to Women in Tech!
 
