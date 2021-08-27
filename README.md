@@ -23,7 +23,6 @@ Join my [Discord](https://discord.gg/j9eM73g7hH) server to be part of a communit
 - :book: [Scholarships](#Scholarships-and-Programs-for-Women)
 - :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
 - :+1: [Other Helpful Repositories](#Other-Helpful-Github-Repositories)
-- :balloon: [Repository of the Month](#Repository-of-the-Month)
 - :woman: [Good Reads](#Good-Reads)
 - :heartbeat: [Community](#Community)
 - :handshake: [Contributing](#Contributing)
