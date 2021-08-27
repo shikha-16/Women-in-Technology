@@ -166,7 +166,7 @@ The Women at Microsoft Scholarship seeks to empower and enable high school women
 6. [Outreachy](https://www.outreachy.org/)
 7. [DE Shaw Ascend](https://www.deshawindia.com/desis-ascend-educare/about.pdf)
 8. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
-9. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
+9. [HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) 
 10. [Society of Women Engineers India](https://india.swe.org/)
 11. Twitter DevelopHER
 12. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
@@ -175,8 +175,7 @@ The Women at Microsoft Scholarship seeks to empower and enable high school women
 15. Microsoft Engage (previously Codess)
 16. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
 17. [Flipkart Girls Wanna Code](https://dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093)
-18. LinkedIn CoachIn Program 
-19. [HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) 
+18. [LinkedIn CoachIn Program](https://coachin2021.splashthat.com/)
 
 _Keep a lookout for these events every year! These links may be unavailable because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results.  I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
 
