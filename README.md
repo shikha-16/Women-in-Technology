@@ -174,7 +174,7 @@ The Women at Microsoft Scholarship seeks to empower and enable high school women
 12. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
 13. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
 14. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
-15. [Microsoft Engage (previously Codess]
+15. Microsoft Engage (previously Codess)
 16. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
 17. [Flipkart Girls Wanna Code](https://dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093)
 18. LinkedIn CoachIn Program 
