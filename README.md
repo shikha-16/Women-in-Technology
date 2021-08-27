@@ -1,50 +1,41 @@
 
 > “Any time women come together with a collective intention, it’s a powerful thing.” - Phylicia Rashad 
 
-![logo](documents/logo/WITblkText..svg)
+<p align="center">
+  <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITblkText..svg" />
+</p>
 
-Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science. I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! Explore the contents of this repository by going through the table of contents given below. :sparkles:
 
-Join my [Discord](https://discord.com/invite/xvzbAXk) server to be part of a community of inspiring women and connect with more like-minded people!
+<div> Hey there! :woman: This repository is for storing everything any girl would look for or need while on her journey in the field of Computer Science. I'm hoping this will help all the young girls across India, and encourage them to pursue the field further. If you want to explore the world of Computer Science, this is the place to be! 
+  
+Check out the website here! :sparkles: [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://women-in-technology-wit.web.app/)
 
-**We are currently working on making a website for the repository. Go through the documentation, issues and [Contributing](https://github.com/shikha-16/Women-in-Technology#contributing) to learn more about how you can contribute!**
+</div>
 
-Facts and statistics play an important role in understanding the necessity of the situation. Here are some comprehensive reports on Women in Technology [1](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report-infographic.pdf), [2](https://github.com/shikha-16/private/blob/master/documents/info/pdf/women-in-tech-report.pdf) by [pwc UK](https://www.pwc.co.uk/) and the [Google Women Techmakers India Research Report](https://github.com/shikha-16/private/blob/master/documents/info/pdf/WTM_PDF_V06_A.pdf) to brush you up!
-
----
-
-## Table of Contents
-- :earth_asia: The World of CS
-- :computer: Learn by Doing
-- :muscle: Organizations to Promote Women in Tech
-- :book: Scholarships and Programs
-- :ok_woman: Women in Tech Role Models
-- :+1: Other Helpful Repositories
-- :balloon: Repository of the Month
-- :woman: Articles and Blogs
-- :heartbeat: Community
+Join my [Discord](https://discord.gg/j9eM73g7hH) server to be part of a community of inspiring women and connect with more like-minded people!
 
 ---
 
-## The World of Computer Science
-![Passion](documents/info/images/ian-schneider-TamMbr4okv4-unsplash.jpg)
-
-Check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
-To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes:
-
-Take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/) and [Google Computer Science](https://edu.google.com/intl/en_in/computer-science/?modal_active=none)! It's a great place to start and grow.
-
-
-For opportunities/programs at Google, visit: https://careersonair.withgoogle.com/
+## <div align="center">Table of Contents</div>
+- :computer: [Learn by Doing](#Learn-by-Doing)
+- :muscle: [Organizations to Promote Women in Technology](#Organizations-to-Promote-Women-in-Technology)
+- :book: [Scholarships](#Scholarships-and-Programs-for-Women)
+- :ok_woman: [Women in Tech Role Models](#Women-in-Technology-Role-Models)
+- :+1: [Other Helpful Repositories](#Other-Helpful-Github-Repositories)
+- :woman: [Good Reads](#Good-Reads)
+- :heartbeat: [Community](#Community)
+- :handshake: [Contributing](#Contributing)
+- :key: [License](#License)
 
 ---
 
-## Learn by Doing
+## <div align="center">Learn by Doing</div>
 
-If you want to start learning how to code, here is a great site for that! [Codecademy](https://www.codecademy.com/)
+A little something to get you to know more about Computer Science, check this out: [The 10 Domains in Computer Science](https://github.com/shikha-16/private/blob/master/documents/info/pdf/10%20Domains%20in%20Computer%20Science%20COSC%20460%20Fall%202013.pdf). 
+To know more about the different fields in CS and access their resources, see [here](https://github.com/shikha-16/Women-in-Technology/blob/master/documents/info/fields.md). This has allll the resources you need and more! :eyes: Also take a look at [Google's Tech Development Guide](https://techdevguide.withgoogle.com/) and [Google Computer Science](https://edu.google.com/intl/en_in/computer-science/?modal_active=none)! It's a great place to start and grow.
 
+If you want to start learning how to code, [Codecademy](https://www.codecademy.com/) is a great site for that! 
 Once you know basic coding, get started! Dive into any one of these, and learn more as you progress.
-
 1. [Competitive Programming](https://github.com/shikha-16/private/blob/master/documents/info/pdf/Competitive%20Programming%20(1).pdf)
 2. [Open Source Projects](https://opensource.guide/how-to-contribute/)
 3. [Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
@@ -57,74 +48,71 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 
 ---
 
-## Organizations to Promote Women in Tech
+## <div align="center">Organizations to Promote Women in Technology</div>
 
-![girl](documents/info/images/nikhita-s-NsPDiPFTp4c-unsplash.jpg)
-
-### 1. WIT Community
-[Women in Technology](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
-
-### 2. Women Who Code
-When you become a part of [Women Who Code](https://www.womenwhocode.com/) you gain access to programs and services that are designed to help you step up your tech career. We have over 200,000 members who are career-aged tech professionals operating at each level of the industry.
-
-### 3. LearnITGirl
-[LearnIT Girl!](https://www.learnitgirl.com/): Their aim is to help women learn a programming language while doing an awesome project! But don't worry, you're not alone in this journey, each scholar has a mentor that guides them on their path. There are many roads you can take and we will make sure you go on the one that is best for you - without missing out on the important features of the chosen language.
-
-### 4. Girls Who Code
-[Girls Who Code](https://girlswhocode.com/) is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.
-
-### 5. Girls Teaching Girls to Code
-At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org/), we empower college girls pursuing Computer Science and Engineering to connect with local high school girls and inspire them through mentorship and applied projects.
-
-### 6. PyLadies
-[PyLadies](https://pyladies.com/) aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
-
-### 7. Girls In Tech
-[Girls in Tech](https://girlsintech.org/) is a nonprofit organization dedicated to eliminating the gender gap in tech. 
-
-### 8. Built By Girls
-[BUILT BY GIRLS](https://www.builtbygirls.com/) prepares female and non-binary students to step boldly into careers powered by technology. 
-
-### 9. Girl Develop It
-[Girl Devleop It](https://www.girldevelopit.com/) is a nonprofit organization that provides affordable programs for adult women and non-binary individuals to learn web and software development in a judgement free environment.
-
-### 10. Techgirlz
-[TechGirlz](https://www.techgirlz.org/about/) inspires middle school girls to explore the possibilities of technology to empower their future careers. TechGirlz is accomplishing its mission through the creation of free, fun, interactive “TechShopz” led by industry professionals, community leaders, and students. 
-
-### 11. Codess
-[Codess](https://www.codess.net/) is a community for female coders initiated by Microsoft.  Codess was established to explore ways to promote gender diversity in the engineering field.
-
-### 12. Code with Google
-Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures. Click [here](https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject)
-
-
-### 13. ACM W
-[ACM-W](https://women.acm.org/) supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
-
-### 14. STEM 4 Girls
-[STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
-
-### 15. GirlScript
-[GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
-
-### 16. DevelopHER
-[DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
-
-### 17. SheCodes
-[SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
-
-### 18. Step Up
-[Step Up](https://www.suwn.org/) propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.
-
-### 19. Rewriting the Code
+### Rewriting the Code
 [Rewriting the Code](https://rewritingthecode.org/) is a growing virtual community of 10,000+ exceptional college and early career women with a passion for technology. They come from 700+ colleges and universities, and show their talent through engaging in projects, internships, hackathons, and volunteering for good.
 
-### 20. HackerRamp: WeForShe
-[HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) has been launched by Myntra in the year 2021. This is an opportunity for all women coders from engineering colleges across the country to create and innovate through technology.
+### ACM W
+[ACM-W](https://women.acm.org/) supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
+
+### STEM 4 Girls
+[STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
+
+### GirlScript
+[GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
+
+### DevelopHER
+[DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
+
+### SheCodes
+[SheCodes](https://www.shecodes.io/) is a community of women which provides coding workshops to women who are looking to have a career in technology.
+
+### WIT Community
+[Women in Technology](https://mywit.org/) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.
+
+### Women Who Code
+When you become a part of [Women Who Code](https://www.womenwhocode.com/) you gain access to programs and services that are designed to help you step up your tech career. We have over 200,000 members who are career-aged tech professionals operating at each level of the industry.
+
+### LearnITGirl
+[LearnIT Girl!](https://www.learnitgirl.com/): Their aim is to help women learn a programming language while doing an awesome project! But don't worry, you're not alone in this journey, each scholar has a mentor that guides them on their path. There are many roads you can take and we will make sure you go on the one that is best for you - without missing out on the important features of the chosen language.
+
+### Girls Who Code
+[Girls Who Code](https://girlswhocode.com/) is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.
+
+### Girls Teaching Girls to Code
+At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org/), we empower college girls pursuing Computer Science and Engineering to connect with local high school girls and inspire them through mentorship and applied projects.
+
+### PyLadies
+[PyLadies](https://pyladies.com/) aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
+
+### Girls In Tech
+[Girls in Tech](https://girlsintech.org/) is a nonprofit organization dedicated to eliminating the gender gap in tech. 
+
+### Built By Girls
+[BUILT BY GIRLS](https://www.builtbygirls.com/) prepares female and non-binary students to step boldly into careers powered by technology. 
+
+### Girl Develop It
+[Girl Devleop It](https://www.girldevelopit.com/) is a nonprofit organization that provides affordable programs for adult women and non-binary individuals to learn web and software development in a judgement free environment.
+
+### Techgirlz
+[TechGirlz](https://www.techgirlz.org/about/) inspires middle school girls to explore the possibilities of technology to empower their future careers. TechGirlz is accomplishing its mission through the creation of free, fun, interactive “TechShopz” led by industry professionals, community leaders, and students. 
+
+### Code with Google
+Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures. Click [here](https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject)
+
+### Step Up
+[Step Up](https://www.suwn.org/) propels girls living or going to school in under-resourced communities to fulfill their potential by empowering them to become confident, college-bound, career-focused, and ready to join the next generation of professional women.
+
+### WooTech
+[WooTech](https://wootechnology.github.io/Website/) provides a mentorship platform to women in technology and guide them in their career. The mentorship platform is open to everyone including students, working professionals or just anyone curious about technology.
+
+### Harvard WECode
+[Harvard WECode](https://www.harvardwecode.com/) runs the largest student-run women in tech conference in the world. Their mission is to cultivate the next generation of technical leaders, foster a network and community among collegiate engineers, and promote more female representation in the technical industry.
 
 ---
 
-## Scholarships and Programs for Women
+## <div align="center">Scholarships and Programs for Women</div>
 ![books](documents/info/images/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
 ## Scholarships
@@ -169,40 +157,38 @@ The SWE Scholarship Program provides financial assistance to those who identify 
 The Women at Microsoft Scholarship seeks to empower and enable high school women and non-binary people to go to college, realize the impact technology has on the world, and target a career in the technology industry.
 
 
-
-
-## Events/Programs
+## Tech Events and Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
-3. [Girlscript Summer of Code](https://www.gssoc.tech/)
+3. [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
 4. [Google Summer of Code](https://summerofcode.withgoogle.com/)
 5. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
 6. [Outreachy](https://www.outreachy.org/)
-7. [Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html)
+7. [DE Shaw Ascend](https://www.deshawindia.com/desis-ascend-educare/about.pdf)
 8. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
 9. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
 10. [Society of Women Engineers India](https://india.swe.org/)
-11. [DevelopHER](https://developher.com/)
+11. Twitter DevelopHER
 12. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
 13. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
 14. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
-15. [Microsoft Codess](https://www.codess.net/)
+15. Microsoft Engage (previously Codess)
 16. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
 17. [Flipkart Girls Wanna Code](https://dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093)
 18. LinkedIn CoachIn Program 
+19. [HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) 
 
-_These links may have expired or may no longer be available when you click on them. That is because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results. Be on the lookout for these opportunities! I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
-
+_Keep a lookout for these events every year! These links may be unavailable because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results.  I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
 
 ---
 
-## Women in Technology Role Models
+## <div align="center">Women in Technology Role Models</div>
+
 Strong role models are leading the charge and the change. :raised-hands: As you grow in your career, it’s important that you have access to people you can identify with. Here are some studies to get you started!
 1. [A STUDY:Women in tech careers yearn for female role models and flexibility in the workplace](https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf)
 2. [The Untold History of Women in Science and Technology](https://obamawhitehouse.archives.gov/women-in-stem):Listen to women from across the Administration tell the stories of their personal heroes across the fields of science, technology, engineering, and math (STEM). Share them yourself. Add your own. And honor their legacy by committing to encourage a young woman to pursue a career in science.
 3. [The Women Who Changed The Tech World](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
-
-The big names:
+4. [Indian Women in Tech](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 
 ### Grace Hopper
 _She was a central figure in developing the first commercial computer, the UNIVAC I  , which changed the course of computers in society_
@@ -215,47 +201,40 @@ Look, basically, if you’re using a computer - you’re using Grace Hopper’s 
 Anita Borg was an American computer scientist. She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing.
 [Read more](https://anitab.org/about-us/about-anita-borg/)
 
-### [Let's now take a look at some Indian names!](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
-#### 1. Reshma Saujani, New York
-_Lawyer, politician and founder/CEO, Girls Who Code_
+### Reshma Saujani, New York
+_Lawyer, politician and founder/former CEO, Girls Who Code_
 > Life hack: “Teach girls bravery, not perfection.”
 
 [Read more](https://reshmasaujani.com/about/)
 
-#### 2. Debjani Ghosh, Delhi
+### Debjani Ghosh, Delhi
 _President, NASSCOM_
 
 > Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. If you don’t, no one else will believe it.”
 
 [Read more](https://leanin.org/stories/debjani-ghosh)
 
-#### 3. Geetha Kannan, Bengaluru
+### Geetha Kannan, Bengaluru
 _Managing director, Anitab.org India_
 > Life hack: “Stay focused on the goal, and the opposition will melt away.”
 
 [Read More](https://yourstory.com/2018/11/women-equal-crucial-building-tech-world-needs-says-geetha-kannan-md-anitab-org)
 
-#### 4. Ashni Dwarkadas, Mumbai
+### Ashni Dwarkadas, Mumbai
 _Co-founder, Hackberry_
 > Life hack: “The conversation has to start when girls are young and have no inhibitions about speaking up and asserting themselves.”
 
 [Read more](https://yourstory.com/2016/06/koffeeplace)
 
-#### 5. Ashwini Asokan, Chennai
+### Ashwini Asokan, Chennai
 _Founder and CEO, Mad Street Den_
 >Life hack: “Re-skill yourself – learn and intern!”
 
-
 [Read more](http://shenomics.com/ashwini-ashokan/)
-
-#### 6. Roshni Nadar Malhotra 
-_CEO and Executive Director of HCL Corporation_
-
->"To me, giving is much, much more than just charity or signing a cheque. We make long-term investments in people’s lives, through education and arts. I’m in this because I get to be a part of someone else’s life, someone else’s journey of becoming what they have the potential to become"
 
 ---
 
-## Other Helpful GitHub Repositories
+## <div align="center">Other Helpful GitHub Repositories</div>
 1. [Complete DSA Study Plan](https://github.com/jwasham/coding-interview-university/) :unlock:
 2. [Awesome Lists](https://github.com/sindresorhus/awesome) :tada:
 3. [Interview Prep](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  :busts_in_silhouette:
@@ -270,12 +249,14 @@ _CEO and Executive Director of HCL Corporation_
 12. [Best Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :computer:
 13. [Competitive Coding Resources](https://github.com/Ashishgup1/Competitive-Coding) :gem:
 14. [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions) :rocket:
+15. [EbookFoundation/free-programming-books ](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md):books:
+16. [Project Based Tutorials](https://github.com/practical-tutorials/project-based-learning) :computer: 
+17. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ::busts_in_silhouette::
 
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
 ---
-
-## Articles and Blogs
+## <div align="center">Good Reads</div>
 
 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
@@ -291,12 +272,11 @@ _CEO and Executive Director of HCL Corporation_
 12. These 6 pioneering women helped create modern computers [TED](https://ideas.ted.com/how-i-discovered-six-pioneering-women-who-helped-create-modern-computers-and-why-we-should-never-forget-them/?utm_content=2020-10-06&utm_medium=social&utm_source=linkedin.com&utm_campaign=social)
 13. Shine Theory: Why Powerful Women Make the Greatest Friends [The Cut](https://www.thecut.com/2013/05/shine-theory-how-to-stop-female-competition.html)
 
-
 Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). Read their blog [here](https://www.nextgeneration.ie/blog/2018/08/why-arent-there-more-women-in-tech).
 
 ---
 
-## Community
+## <div align="center">Community</div>
 
 
 ![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
@@ -304,3 +284,43 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
 
 ---
+
+## <div align="center">Contributing</div>
+
+We welcome contributions to Women in Tech!
+
+![GitHub Repo stars](https://img.shields.io/github/stars/shikha-16/Women-in-Technology?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/shikha-16/Women-in-Technology?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/shikha-16/Women-in-Technology?color=2E61C5&logo=Github&style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/shikha-16/Women-in-Technology?logo=Github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/shikha-16/Women-in-Technology?logo=Github&style=for-the-badge)
+
+
+<p align="center">
+  <img src="https://github.com/shikha-16/Women-in-Technology/blob/master/documents/logo/WITminBlkText.svg" />
+</p> 
+
+- 📥 Pull requests and 🌟 Stars are always welcome.
+- Read our [contributing guide](Contributing.md) to get started.
+- Be sure to go through our [Code of Conduct](Code-of-Conduct.md) before contributing! :)
+
+
+##### Looking for a first issue to tackle?
+
+- We tag issues with `Good First Issue` when we think they are well suited for people who are new to the codebase or OSS in general.
+
+
+Amber Gordon, _Founder of Femsplain_:
+> “Trust in yourself, believe that your voice matters, and know that your words are good enough.”
+
+---
+
+#### License
+[MIT](https://github.com/shikha-16/Women-in-Tech-India/blob/master/LICENSE)
+
+#### Disclaimer
+_No copyright infringement intended._
+
+_This is NOT an exhaustive list._
+
+## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
