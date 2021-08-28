@@ -1,0 +1,71 @@
+.container-carousel {
+  position: relative;
+}
+
+.container-carousel .carousel-inner {
+  width: calc(100% - 200px);
+  margin: 0 auto;
+}
+
+.control-btn {
+  position: absolute;
+  display: flex;
+  margin: 0;
+  top: 33%;
+  -ms-transform: scale(0.2, 0.2); /* IE 9 */
+  -webkit-transform: scale(0.2, 0.2); /* Safari */
+  transform: scale(0.2, 0.2);
+}
+
+.control-btn img {
+  width: 74px;
+  height: 130px;
+}
+
+.control-btn--left {
+  left: 0;
+}
+
+.control-btn--left img {
+  transform: rotate(180deg);
+}
+
+.control-btn--right {
+  right: 0;
+}
+
+@media (max-width: 768px) {
+  .container-carousel .carousel-inner {
+    width: calc(100% - 90px);
+  }
+
+  .control-btn {
+    width: 40px;
+    top: 40%;
+  }
+
+  .control-btn img {
+    width: 37px;
+    height: 65px;
+  }
+}
+
+@media (max-width: 576px) {
+  .container-carousel .carousel-inner {
+    width: calc(100% - 60px);
+  }
+
+  .container-carousel .col {
+    padding: 0;
+  }
+
+  .control-btn {
+    width: 29px;
+    top: 45%;
+  }
+
+  .control-btn img {
+    width: 25px;
+    height: 44px;
+  }
+}

@@ -1,0 +1,18 @@
+
+.org-info{
+    /* margin: auto 0; */
+    /* text-align: center; */
+    margin-top: "0";
+}
+
+.org-details{
+    text-align: left;
+}
+
+.org-details > p{
+    font-size: 0.8rem;
+}
+
+.box-wrapper{
+    border:none;
+}
