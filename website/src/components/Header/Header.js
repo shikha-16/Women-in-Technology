@@ -10,7 +10,7 @@ export default function Header() {
         className="navbar fixed-top navbar-expand-lg navbar-light"
         style={{ backgroundColor: " #FFCC66 " }}
       >
-        <a className="navbar-brand" href="/" style={{ padding: "15px" }}>
+        <a className="navbar-brand" href="/" style={{ padding: "8px" }}>
           <img
             src={logo}
             width="30"
