@@ -6,7 +6,7 @@
   color: #000;
 }
 .site-footer hr {
-  border-top-color: #bbb;
+  border-top-color: #131010;
   opacity: 0.5;
 }
 .site-footer hr.small {
@@ -19,7 +19,7 @@
   letter-spacing: 2px;
 }
 .site-footer a {
-  color: #737373;
+  color: #131010;
 }
 .site-footer a:hover {
   color: #3366cc;
@@ -33,7 +33,7 @@
   display: block;
 }
 .footer-links a {
-  color: #737373;
+  color: black ;
 }
 .footer-links a:active,
 .footer-links a:focus,

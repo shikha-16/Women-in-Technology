@@ -9,12 +9,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
 import linkedin from '../images/linkedin.png';
 import github from '../images/github.png';
-import Neha from '../images/picx/Neha.jpg';
-import Astitva from '../images/picx/Astitva_Sehgal.jpeg';
-import Kolli from '../images/picx/Kolli_Sudeepa.jpg';
-import Shriya from '../images/picx/Shriya_singh.png';
-import Bharati from '../images/picx/Bharati.jpg';
-import image2 from '../images/picx/Victory.jpeg';
+import {members} from "../data/members";
 
 const useStyles = makeStyles((theme) => ({
   icon: {
@@ -70,11 +65,12 @@ export default function MemberComponent() {
         </div>
         <Container className={classes.cardGrid} maxWidth="md">
           <Grid container spacing={4}>
+          {members.map((a, i) => (
             <Grid item xs={12} sm={6} md={6}>
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.cardMedia}
-                  image={Neha}
+                  image={a.image}
                   title="Image title"
                 />
                 <CardContent className={classes.cardContent}>
@@ -84,23 +80,23 @@ export default function MemberComponent() {
                     component="h2"
                     style={{ textAlign: 'center' }}
                   >
-                    Neha Kalbande
+                    {a.name}
                   </Typography>
                   <h5 style={{ textAlign: 'center' }}>
-                    Full Stack Web & Android Developer, ML/AI Learning Enthusiast
+                    {a.about}
                   </h5>
                   <h6 style={{ textAlign: 'center' }}>
-                    Women In Technology Website Developer
+                    {a.contribution}
                   </h6>
-                  <div className="linksy " style={{padding:"3px" , margin:"3px", fontSize:"15px"}}>
-                    <a href="https://github.com/nehakalbande/">
+                  <div className={classes.linkss} style={{padding:"3px" , margin:"3px", fontSize:"15px"}}>
+                    <a href={a.github}>
                       <img
                         className="links__item"
                         src={github}
                         alt="github profile"
                       />
                     </a>
-                    <a href="https://www.linkedin.com/in/neha-kalbande-314ab71a7/">
+                    <a href={a.linkedin}>
                       <img
                         className="links__item"
                         src={linkedin}
@@ -111,297 +107,7 @@ export default function MemberComponent() {
                 </CardContent>
               </Card>
             </Grid>
-            <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={Shriya}
-                  title="Image title"
-                />
-                <CardContent className={classes.cardContent}>
-                  <Typography
-                    gutterBottom
-                    variant="h5"
-                    component="h2"
-                    style={{ textAlign: 'center' }}
-                  >
-                    Shriya Singh
-                  </Typography>
-                  <h5 style={{ textAlign: 'center' }}>
-                  Product Designer and Researcher
-                  </h5>
-                  <h6 style={{ textAlign: 'center' }}>
-                 Worked on Visual/Graphic Designer
-                  </h6>
-                  <div className="links">
-                    <a href="https://github.com/shriy-singh">
-                      <img
-                        className="links__item"
-                        src={github}
-                        alt="github profile"
-                      />
-                    </a>
-                    <a href="https://www.linkedin.com/shriy-singh">
-                      <img
-                        className="links__item"
-                        src={linkedin}
-                        alt="linkedin profile"
-                      />
-                    </a>
-                  </div>
-                </CardContent>
-              </Card>
-            </Grid>
-            <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={Kolli}
-                  title="Image title"
-                />
-                <CardContent className={classes.cardContent}>
-                  <Typography
-                    gutterBottom
-                    variant="h5"
-                    component="h2"
-                    style={{ textAlign: 'center' }}
-                  >
-                    Kolli Sudeepa
-
-                  </Typography>
-                  <h5 style={{ textAlign: 'center' }}>
-                  Research Intern DRDL, Google WTM Scholar'20.
-                  </h5>
-                  <h6 style={{ textAlign: 'center' }}>
-                  Worked on Scholarships part and added previous scholars experiences. 
-                  </h6>
-                  <div className="links">
-                    <a href="https://github.com/SudeepaNoble">
-                      <img
-                        className="links__item"
-                        src={github}
-                        alt="github profile"
-                      />
-                    </a>
-                    <a href="https://www.linkedin.com/sudeepanoble">
-                      <img
-                        className="links__item"
-                        src={linkedin}
-                        alt="linkedin profile"
-                      />
-                    </a>
-                  </div>
-                </CardContent>
-              </Card>
-            </Grid>
-            <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={Astitva}
-                  title="Image title"
-                />
-                <CardContent className={classes.cardContent}>
-                  <Typography
-                    gutterBottom
-                    variant="h5"
-                    component="h2"
-                    style={{ textAlign: 'center' }}
-                  >
-                    Astitva
-                  </Typography>
-                  <h5 style={{ textAlign: 'center' }}>
-                  BE CS + MSc Phy undergraduate
-                  </h5>
-                  <h6 style={{ textAlign: 'center' }}>
-                  PR to readme updating changes to a scholarship
-                  </h6>
-                  <div className="links">
-                    <a href="https://github.com/astitva1905">
-                      <img
-                        className="links__item"
-                        src={github}
-                        alt="github profile"
-                      />
-                    </a>
-                    <a href="https://www.linkedin.com/in/astitva-sehgal-25353a1b4/">
-                      <img
-                        className="links__item"
-                        src={linkedin}
-                        alt="linkedin profile"
-                      />
-                    </a>
-                  </div>
-                </CardContent>
-              </Card>
-            </Grid>
-            <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image=""
-                  title="Image title"
-                />
-                <CardContent className={classes.cardContent}>
-                  <Typography
-                    gutterBottom
-                    variant="h5"
-                    component="h2"
-                    style={{ textAlign: 'center' }}
-                  >
-                   Rishabh Khandelwal
-
-                  </Typography>
-                  <h5 style={{ textAlign: 'center' }}>
-                  Electronics and Instrumentation undergraduate at BITS Hyderabad
-                  </h5>
-                  <h6 style={{ textAlign: 'center' }}>
-                  Added Inspirations page to the Women in Tech website
-                  </h6>
-                  <div className="links">
-                    <a href="https://github.com/rishkwal">
-                      <img
-                        className="links__item"
-                        src={github}
-                        alt="github profile"
-                      />
-                    </a>
-                    <a href="https://www.linkedin.com/in/rishkwal/">
-                      <img
-                        className="links__item"
-                        src={linkedin}
-                        alt="linkedin profile"
-                      />
-                    </a>
-                  </div>
-                </CardContent>
-              </Card>
-            </Grid>
-            <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={Bharati}
-                  title="Image title"
-                />
-                <CardContent className={classes.cardContent}>
-                  <Typography
-                    gutterBottom
-                    variant="h5"
-                    component="h2"
-                    style={{ textAlign: 'center' }}
-                  >
-                   Bharati Subramanian
-                  </Typography>
-                  <h5 style={{ textAlign: 'center' }}>
-                  enthusiastic about web development, UI/UX design, and problem solving
-                  </h5>
-                  <h6 style={{ textAlign: 'center' }}>
-                  Added about us and carousel designs PR#59
-                  </h6>
-                  <div className="links">
-                    <a href="https://github.com/bharati-21">
-                      <img
-                        className="links__item"
-                        src={github}
-                        alt="github profile"
-                      />
-                    </a>
-                    <a href="https://www.linkedin.com/in/bharati-subramanian-29734b152/">
-                      <img
-                        className="links__item"
-                        src={linkedin}
-                        alt="linkedin profile"
-                      />
-                    </a>
-                  </div>
-                </CardContent>
-              </Card>
-            </Grid>
-            <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image=""
-                  title="Image title"
-                />
-                <CardContent className={classes.cardContent}>
-                  <Typography
-                    gutterBottom
-                    variant="h5"
-                    component="h2"
-                    style={{ textAlign: 'center' }}
-                  >
-                  Umang Sinha
-
-                  </Typography>
-                  <h5 style={{ textAlign: 'center' }}>
-                  A mobile app developer and a UI/UX Designer
-                  </h5>
-                  <h6 style={{ textAlign: 'center' }}>
-                  Worked on the website
-
-                  </h6>
-                  <div className="links">
-                    <a href="https://github.com/umang-sinha">
-                      <img
-                        className="links__item"
-                        src={github}
-                        alt="github profile"
-                      />
-                    </a>
-                    <a href="https://www.linkedin.com/in/umang-sinha/">
-                      <img
-                        className="links__item"
-                        src={linkedin}
-                        alt="linkedin profile"
-                      />
-                    </a>
-                  </div>
-                </CardContent>
-              </Card>
-            </Grid>
-            <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={image2}
-                  title="Image title"
-                />
-                <CardContent className={classes.cardContent}>
-                  <Typography
-                    gutterBottom
-                    variant="h5"
-                    component="h2"
-                    style={{ textAlign: 'center' }}
-                  >
-                    victory brown
-                  </Typography>
-                  <h5 style={{ textAlign: 'center' }}>
-                  User experience designer and Open Source Design evangelist. A member of sustain oss
-                  </h5>
-                  <h6 style={{ textAlign: 'center' }}>
-                    Contributed to carousel designs for website
-                  </h6>
-                  <div className="links">
-                    <a href="https://github.com/Victorybrown">
-                      <img
-                        className="links__item"
-                        src={github}
-                        alt="github profile"
-                      />
-                    </a>
-                    <a href="https://www.linkedin.com/in/victory-brown-8a154b1b5/">
-                      <img
-                        className="links__item"
-                        src={linkedin}
-                        alt="linkedin profile"
-                      />
-                    </a>
-                  </div>
-                </CardContent>
-              </Card>
-            </Grid>
+          ))}
           </Grid>
         </Container>
       </main>
