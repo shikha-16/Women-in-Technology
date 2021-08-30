@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from '../../images/WITfivicon.png';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'font-awesome/css/font-awesome.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
+
 export default function Header() {
     return (
         <div>
