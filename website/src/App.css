@@ -7,25 +7,24 @@
 }
 
 :root {
-  --blue: rgb(26, 57, 87);
+  --gray: rgb(29, 28, 28);
   --white: white;
   --black: black;
 
 }
 
 body.light{
-  --backgroung-color: var(--white);
-  --text-color: var(--blue);
+  --background-color: var(--white);
+  --text-color: var(--gray);
   --font-weight: 400;
   
 }
 body.dark{
-  --background-color: var(--blue);
+  --background-color: var(--gray);
   --text-color: var(--white);
   --font-weight: 500;
   
 }
-
 body {
   background:  var(--background-color);
   color: var(--text-color);

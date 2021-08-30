@@ -39,7 +39,7 @@ export default function Header() {
                 >
                     <ul className='navbar-nav ml-auto'>
                         <li className='nav-item active'>
-                            <a className='nav-link' href='/'><span class="fa fa-home fa-lg"></span>
+                            <a className='nav-link' href='/'><span class="fa fa-home fa-lg">&nbsp;</span>
                                 Home
                             </a>
                         </li>
@@ -53,8 +53,8 @@ export default function Header() {
                                 aria-haspopup='true'
                                 aria-expanded='false'
                                 color='black'
-                            >  <span class="fa fa-graduation-cap fa-lg"></span>
-                                Resources
+                            >  <span class="fa fa-graduation-cap fa-lg">&nbsp;</span>
+                                  Resources
                             </a>
                             <div
                                 className='dropdown-menu'
@@ -95,7 +95,7 @@ export default function Header() {
                                 data-bs-toggle='dropdown'
                                 aria-haspopup='true'
                                 aria-expanded='false'
-                            > <span class="fa fa-users fa-lg"></span>
+                            > <span class="fa fa-users fa-lg ">&nbsp;</span>
                                 Community
                             </a>
                             <div
@@ -134,7 +134,7 @@ export default function Header() {
                                 data-bs-toggle='dropdown'
                                 aria-haspopup='true'
                                 aria-expanded='false'
-                            >  <span class = " fa fa-cogs fa-lg"> </span>
+                            >  <span class = " fa fa-cogs fa-lg">&nbsp; </span>
                                 Contribute
                             </a>
                             <div

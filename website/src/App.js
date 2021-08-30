@@ -40,8 +40,7 @@ function App() {
         <Route path="/github" exact component={GithubPage} />
         <Route path="/beginners" exact component={BeginnersPage} />
         <Route path="/events" exact component={EventsPage} />
-        </Switch>
-        <DarkMode/>  
+        </Switch>  
       <Footer /> 
       </Router>
     </div>
