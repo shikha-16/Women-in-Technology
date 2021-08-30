@@ -1,5 +1,5 @@
 import React from 'react'
-import "../DarkMode.css";
+import "./DarkMode.css";
 
 const DarkMode = () => {
    let clickedClass = "clicked";
