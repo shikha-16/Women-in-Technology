@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from '../../images/WITfivicon.png';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
-import DarkMode from '../DarkMode';
 export default function Header() {
     return (
         <div>
@@ -39,7 +39,7 @@ export default function Header() {
                 >
                     <ul className='navbar-nav ml-auto'>
                         <li className='nav-item active'>
-                            <a className='nav-link' href='/'><span class="fa fa-home fa-lg">&nbsp;</span>
+                            <a className='nav-link' href='/'><span className="fa fa-home fa-lg">&nbsp;</span>
                                 Home
                             </a>
                         </li>
@@ -53,7 +53,7 @@ export default function Header() {
                                 aria-haspopup='true'
                                 aria-expanded='false'
                                 color='black'
-                            >  <span class="fa fa-graduation-cap fa-lg">&nbsp;</span>
+                            >  <span className="fa fa-graduation-cap fa-lg">&nbsp;</span>
                                   Resources
                             </a>
                             <div
@@ -95,7 +95,7 @@ export default function Header() {
                                 data-bs-toggle='dropdown'
                                 aria-haspopup='true'
                                 aria-expanded='false'
-                            > <span class="fa fa-users fa-lg ">&nbsp;</span>
+                            > <span className="fa fa-users fa-lg ">&nbsp;</span>
                                 Community
                             </a>
                             <div
@@ -134,7 +134,7 @@ export default function Header() {
                                 data-bs-toggle='dropdown'
                                 aria-haspopup='true'
                                 aria-expanded='false'
-                            >  <span class = " fa fa-cogs fa-lg">&nbsp; </span>
+                            >  <span className = " fa fa-cogs fa-lg">&nbsp; </span>
                                 Contribute
                             </a>
                             <div
