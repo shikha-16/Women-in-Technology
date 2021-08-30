@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../../images/WITfivicon.png';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
-import DarkMode from '../DarkMode';
+
 export default function Header() {
     return (
         <div>
