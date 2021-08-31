@@ -55,7 +55,7 @@ const LeftImageBox = ({ image, title, text, link, href }) => (
         <div className="card">
           <img src={image} className="card-img-top" alt={title} style={{width:"350px", height:"200px"}} />
           <div className="card-body org-details">
-            <h6 className="card-title">{title}</h6>
+            <h6 className="card-title" style={{ color: 'black' }}>{title}</h6>
             <a href={href} target="_blank" style={{ color: 'blue' }}>
               See More {'>'}
             </a>
@@ -65,9 +65,9 @@ const LeftImageBox = ({ image, title, text, link, href }) => (
       <div className="col-md-8 org-info">
         <div className="card-body">
           <a href={link} target="_blank">
-            <h3 className="card-title">{title}</h3>
+            <h3 className="card-title" style={{ color: 'black' }}>{title}</h3>
           </a>
-          <p className="card-text">{text}</p>
+          <p className="card-text" style={{ color: 'black' }}>{text}</p>
         </div>
       </div>
     </div>
@@ -80,9 +80,9 @@ const RightImageBox = ({ image, title, text, link, href }) => (
       <div className="col-md-8 org-info">
         <div className="card-body">
           <a href={link}>
-            <h3 className="card-title">{title}</h3>
+            <h3 className="card-title" style={{ color: 'black' }}>{title}</h3>
           </a>
-          <p className="card-text">{text}</p>
+          <p className="card-text" style={{ color: 'black' }}>{text}</p>
         </div>
       </div>
       <div className="col-md-4 order-first order-md-last">
@@ -90,7 +90,7 @@ const RightImageBox = ({ image, title, text, link, href }) => (
           <img src={image} className="card-img-top" alt={title}  style={{width:"300px" , height:"200px"}} />
           <div className="card-body org-details">
             <a href={link}>
-              <h6 className="card-title">{title}</h6>
+              <h6 className="card-title" style={{ color: 'black' }}>{title}</h6>
             </a>
             <a href={href} style={{ color: 'blue' }}>
               See More {'>'}

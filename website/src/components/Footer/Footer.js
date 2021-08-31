@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 import { faGoogle } from "@fortawesome/free-brands-svg-icons";
-
+import DarkMode from '../DarkMode';
 export default function Footer() {
   return (
     <footer class="site-footer">
@@ -54,6 +54,10 @@ export default function Footer() {
 
           <div className="col-md-4 col-sm-6 col-xs-12">
             <ul className="social-icons">
+              <li><a>
+              <DarkMode/> 
+              </a>
+              </li>
               <li>
                 <a
                   className="github"
