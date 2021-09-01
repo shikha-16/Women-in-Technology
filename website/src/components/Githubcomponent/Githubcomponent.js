@@ -39,7 +39,7 @@ const GithubRepoStar = ({ repo }) => (
           <a href={repo.link} target="_blank">
             <h3 className="card-title title">{repo.name}</h3>
           </a>
-          <p className="card-text">{repo.excerpt}</p>
+          <p className="card-text" style={{ color: 'black' }}>{repo.excerpt}</p>
         </div>
       </div>
     </div>

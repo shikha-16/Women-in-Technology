@@ -1,7 +1,42 @@
 .App {
   text-align: center;
+  background:  var(--background-color);
+  color: var(--text-color);
+  font-weight: var(--font-weight);
+  transition: backgrounf 0.3s ease-in-out, color 0.6s ease-in-out;
 }
 
+:root {
+  --gray: rgb(29, 28, 28);
+  --white: white;
+  --black: black;
+
+}
+
+body.light{
+  --background-color: var(--white);
+  --text-color: var(--gray);
+  --font-weight: 400;
+  
+}
+body.dark{
+  --background-color: var(--gray);
+  --text-color: var(--white);
+  --font-weight: 500;
+  
+}
+body {
+  background:  var(--background-color);
+  color: var(--text-color);
+  font-weight: var(--font-weight);
+  transition: backgrounf 0.3s ease-in-out, color 0.6s ease-in-out;
+}
+nav{
+  background: var(--text-color);
+}
+nav a {
+  color: var(--background-color);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -21,7 +56,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  
+  background:  var(--background-color);
+  color: var(--text-color);
+  font-weight: var(--font-weight);
+  transition: backgrounf 0.3s ease-in-out, color 0.6s ease-in-out;
 }
 
 .App-link {

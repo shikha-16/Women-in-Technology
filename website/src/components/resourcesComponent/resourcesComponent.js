@@ -84,7 +84,7 @@ const GithubRepoStar = ({ repo }) => (
           <a href={repo.link} target="_blank">
             <h3 className="card-title title">{repo.name}</h3>
           </a>
-          <p className="card-text">{repo.excerpt}</p>
+          <p className="card-text" style={{ color: 'black' }}>{repo.excerpt}</p>
         </div>
       </div>
     </div>
@@ -109,7 +109,7 @@ const ArticleContainer = ({ blog }) => (
           <a href={blog.link}>
             <h3 className="card-title title">{blog.title}</h3>
           </a>
-          <p className="card-text">{blog.author}</p>
+          <p className="card-text" style={{ color: 'black' }}>{blog.author}</p>
           {/* <cite title="Author Name">&nbsp;&nbsp;Thread * 10 Min Read</cite> */}
         </div>
       </div>
