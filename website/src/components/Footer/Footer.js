@@ -27,13 +27,13 @@ export default function Footer() {
             <h6>Quick Links</h6>
             <ul className="footer-links">
               <li>
-                <a href="#">About Us</a>
+                <a href="/community">About Us</a>
               </li>
               <li>
-                <a href="#">Contact Us</a>
+                <a href="https://discord.com/invite/xvzbAXk">Contact Us</a>
               </li>
               <li>
-                <a href="#">Contribute</a>
+                <a href="/contributing">Contribute</a>
               </li>
               <li>
                 <a href="#">Privacy Policy</a>
@@ -48,7 +48,7 @@ export default function Footer() {
           <div className="col-md-8 col-sm-6 col-xs-12">
             <p className="copyright-text">
               Copyright &copy; 2021 All Rights Reserved by
-              <a href="#"> Women in Technology</a>.
+              <a href="https://women-in-technology-wit.web.app/"> Women in Technology</a>.
             </p>
           </div>
 
