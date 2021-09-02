@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../components/Header/Header';
-import Githubcomponent from '../components/Githubcomponent/Githubcomponent.js';
+import Githubcomponent from '../components/Github/Githubcomponent.js';
 import Footer from '../components/Footer/Footer';
 
 import './resources.css';

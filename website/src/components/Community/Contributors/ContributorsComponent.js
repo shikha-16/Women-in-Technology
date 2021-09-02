@@ -7,9 +7,9 @@ import Grid from '@material-ui/core/Grid';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
-import linkedin from '../images/linkedin.png';
-import github from '../images/github.png';
-import {members} from "../data/members";
+import linkedin from '../../../images/social/linkedin.png';
+import github from '../../../images/social/github.png';
+import {members} from "../../../data/members";
 
 const useStyles = makeStyles((theme) => ({
   icon: {

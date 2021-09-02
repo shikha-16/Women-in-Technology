@@ -3,7 +3,7 @@ import { GithubRepos } from '../../data/githubRepo';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 // image
-import image from '../../images/github.png';
+import image from '../../images/social/github.png';
 
 export default function Githubcomponent() {
   return (

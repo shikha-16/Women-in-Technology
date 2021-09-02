@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './BeginnersLinks.css';
-import githubImage from '../../images/github-light.png';
+import githubImage from '../../images/social/github-light.png';
 
 export default function BeginnersLinks() {
   return (

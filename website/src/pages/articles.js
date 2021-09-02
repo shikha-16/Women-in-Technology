@@ -1,13 +1,15 @@
 import React from 'react';
 import Header from '../components/Header/Header';
-import OrganisationComponent from '../components/organisationComp/organistaionComponent';
+import ArticlesComponent from '../components/Articles/Articles';
 import Footer from '../components/Footer/Footer';
 
-export default function ScholarshipPage() {
+import './resources.css';
+
+export default function ArticlesPage() {
   return (
-    <div>
+    <div className="about">
       {/* <Header /> */}
-      <OrganisationComponent />
+      <ArticlesComponent />
       {/* <Footer /> */}
     </div>
   );

@@ -8,12 +8,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import DummyPersonIcon from '../images/person_110935.png';
-import image from '../images/picx/shikha.png';
-import linkedin from '../images/linkedin.png';
-import github from '../images/github.png';
-import youtube from '../images/youtube.png';
-import instagram from '../images/instagram.png';
+import image from '../../images/members/shikha.jpeg';
 
 const useStyles = makeStyles((theme) => ({
   icon: {
@@ -114,7 +109,7 @@ export default function MemberComponent() {
                 </ul>
 
                 <CardContent className={classes.cardContent}>
-                Hi! I'm Shikha Bhat, I'm from Pune. I'm a second year Computer Science student at BITS Pilani, Goa Campus. Ever since 8th grade, Computer Science has fascinated me because it is the essence of logic and problem solving, both of which I love. I strongly believe that it is my responsibility to give back to the community and that is why I have started the Women in Tech community. Hope you find it useful!
+                  Hi, I'm Shikha Bhat! I'm a third-year student pursuing Computer Science at BITS Pilani, Goa Campus. I'm keen to work at the intersection of computing and social sciences; to be able to identify problems in society and use technology to solve them. I have enjoyed being a part of diverse social impact projects like my research on clinical data analysis and prediction models for COVID-19 patients, implementation of robot path planning algorithms and the creation of Prithvi, a web extension for eco-friendly products. Lately I've been exploring the domains of Machine Learning and Data Science, and I really love it! I'm also a 2021 recipient of the Generation Google Scholarship APAC for women in computer science. I strongly believe that it is my responsibility to give back to the community and that is why I have started this initiative. Hope you find it useful!
                 </CardContent>
               </Card>
             </Grid>

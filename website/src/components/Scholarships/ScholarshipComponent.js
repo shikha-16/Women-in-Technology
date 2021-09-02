@@ -23,7 +23,7 @@ export default function ScholarshipComponent() {
               className="col text-center page-title"
               style={{ marginTop: '13%' }}
             >
-              <h1>Scholarship for Women in Tech</h1>
+              <h1>Scholarships for Women in Technology</h1>
             </div>
           </div>
           <div className="row content-box">
@@ -35,11 +35,10 @@ export default function ScholarshipComponent() {
                 <h4>Generation Google Scholarship</h4>
               </a>
               <p>
-                Through the Women Techmakers Scholars Program - formerly the
-                Google Anita Borg Memorial Scholarship Program - Google is
-                furthering Dr. Anita Borg’s vision of creating gender equality
-                in the tech industry by encouraging women to excel as active
-                participants and leaders in the field.
+                Generation Google Scholarship: for women in computer science (formerly known as Women Techmakers Scholarship) was established to help aspiring students pursuing computer science degrees excel in technology and become leaders in the field. Selected students will receive $1,000 USD for the 2021-2022 school year. Generation Google Scholarship: for women in computer science will be awarded based on the strength of each candidate's commitment to diversity, equity, and inclusion, demonstrated leadership, and academic performance. 
+                Note - This scholarship is also available in North America region, and is aimed at groups historically excluded from the technology industry, including Women, Black/African American, Hispanic/Latinx, American Indian, Native Hawaiian/Pacific Islander.
+
+                Read previous scholars experience <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052">here. </a>
               </p>
             </div>
             <div className="col-md-4">

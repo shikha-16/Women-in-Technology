@@ -1,9 +1,9 @@
 import React from 'react';
-import './organisttionComponentStyles.css';
+import './organizationComponentStyles.css';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 // importing organisations data
-import { organisations } from '../../data/organistaion';
+import { organizations } from '../../data/organization';
 
 // image
 // import image from '../../images/example-image.jpg';
@@ -18,10 +18,10 @@ export default function OrganisationComponent() {
               className="col text-center page-title"
               style={{ marginTop: '13%' }}
             >
-              <h1>Organisations promoting women in technology</h1>
+              <h1>Organizations promoting women in technology</h1>
             </div>
           </div>
-          {organisations.map((org, _index) => (
+          {organizations.map((org, _index) => (
             <React.Fragment key={_index}>
               {_index % 2 === 0 ? (
                 <LeftImageBox

@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../images/WITfivicon.png';
+import logo from '../../images/logos/WITfivicon.png';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';

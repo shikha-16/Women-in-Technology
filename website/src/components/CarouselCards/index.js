@@ -1,7 +1,7 @@
 import React, { useMemo, useRef, useState, useEffect } from "react";
 import PropTypes from "prop-types";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import control from "../../images/control.png";
+import control from "../../images/others/control.png";
 import "./CarouselCards.css";
 import Card from "../Card/index";
 

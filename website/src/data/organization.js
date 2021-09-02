@@ -1,26 +1,26 @@
-import image1 from '../images/organisation/wit.png';
-import image2 from '../images/organisation/wwc.png';
-import image3 from '../images/organisation/learn.png';
-import image4 from '../images/organisation/girlswho.png';
-import image5 from '../images/organisation/girls_teaching.png';
-import image6 from '../images/organisation/pyladies.png';
-import image7 from '../images/organisation/girls_in_tech.png';
-import image8 from '../images/organisation/built.png';
-import image9 from '../images/organisation/gdi.png';
-import image10 from '../images/organisation/techgirlz.png';
-import image11 from '../images/organisation/codess.png';
-import image12 from '../images/organisation/codewith.png';
-import image13 from '../images/organisation/she-.png';
-import image14 from '../images/organisation/acm-w.png';
-import image15 from '../images/organisation/stem4girls.png';
-import image16 from '../images/organisation/girlscript.png';
-import image17 from '../images/organisation/develop.png';
-import image18 from '../images/organisation/shecodes.png';
-import image19 from '../images/organisation/step_up.png';
-import image20 from '../images/organisation/rewriting.png';
-import image21 from '../images/organisation/hacker-ramp.png';
+import image1 from '../images/organization/wit.png';
+import image2 from '../images/organization/wwc.png';
+import image3 from '../images/organization/learn.png';
+import image4 from '../images/organization/girlswho.png';
+import image5 from '../images/organization/girls_teaching.png';
+import image6 from '../images/organization/pyladies.png';
+import image7 from '../images/organization/girls_in_tech.png';
+import image8 from '../images/organization/built.png';
+import image9 from '../images/organization/gdi.png';
+import image10 from '../images/organization/techgirlz.png';
+import image11 from '../images/organization/codess.png';
+import image12 from '../images/organization/codewith.png';
+import image13 from '../images/organization/she-.png';
+import image14 from '../images/organization/acm-w.png';
+import image15 from '../images/organization/stem4girls.png';
+import image16 from '../images/organization/girlscript.png';
+import image17 from '../images/organization/develop.png';
+import image18 from '../images/organization/shecodes.png';
+import image19 from '../images/organization/step_up.png';
+import image20 from '../images/organization/rewriting.png';
+import image21 from '../images/organization/hacker-ramp.png';
 
-export const organisations = [
+export const organizations = [
   {
     title: ' Rewriting the Code',
     image: image20,
@@ -30,13 +30,14 @@ export const organisations = [
     href: 'https://rewritingthecode.org/',
   },
   {
-    title: 'Women In Technology',
-    image: image1,
+    title: 'ACM W',
+    image: image14,
     text:
-    'Women In Technology (WIT Community) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.',
-    link: 'https://mywit.org/',
-    href: 'https://mywit.org/',
+      'ACM W supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.',
+    link: 'https://women.acm.org/',
+    href: 'https://women.acm.org/',
   },
+  
   {
     title: 'Women Who Code',
     image: image2,
@@ -60,6 +61,22 @@ export const organisations = [
       'Girls Who Code is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.',
     link: 'https://girlswhocode.com/',
     href: 'https://girlswhocode.com/',
+  },
+  {
+    title: 'GirlScript',
+    image: image16,
+    text:
+      'GirlScript is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. ',
+    link: 'https://www.girlscript.tech/home',
+    href: 'https://www.girlscript.tech/home',
+  },
+  {
+    title: 'Women In Technology',
+    image: image1,
+    text:
+      'Women In Technology (WIT Community) empowers girls and women to excel in science, technology, engineering, the arts, and math (STEAM) from the classroom to the boardroom. We do this by providing female students in middle school, high school, and college with education, exposure, and experience. By sharing the stories of successful professionals across the STEAM fields, we encourage all generations of girls and women to write their future.',
+    link: 'https://mywit.org/',
+    href: 'https://mywit.org/',
   },
   {
     title: 'Girls Teaching Girls to Code',
@@ -118,16 +135,6 @@ export const organisations = [
     href: 'https://www.codess.net/',
   },
   {
-    title: 'Code with Google',
-    image: image12,
-    text:
-      'Through community-based programs and philanthropy, Google works to connect students from underrepresented groups to computer science education and to connect them to the tools they need to build skills for their futures.',
-    link:
-      'https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject',
-    href:
-      'https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject',
-  },
-  {
     title: 'she++',
     image: image13,
     text:
@@ -136,36 +143,12 @@ export const organisations = [
     href: 'http://www.sheplusplus.com/)',
   },
   {
-    title: 'ACM W',
-    image: image14,
-    text:
-      'ACM W supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.',
-    link: 'https://women.acm.org/',
-    href: 'https://women.acm.org/',
-  },
-  {
     title: 'STEM 4 Girls',
     image: image15,
     text:
       'STEM 4 Girls works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.',
     link: 'http://www.stem4girls.org/',
     href: 'http://www.stem4girls.org/',
-  },
-  {
-    title: 'GirlScript',
-    image: image16,
-    text:
-      'GirlScript is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. ',
-    link: 'https://www.girlscript.tech/home',
-    href: 'https://www.girlscript.tech/home',
-  },
-  {
-    title: 'DevelopHER',
-    image: image17,
-    text:
-      'DevelopHER to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.',
-    link: 'https://developher.com/about/',
-    href: 'https://developher.com/about/',
   },
   {
     title: 'SheCodes',

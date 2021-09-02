@@ -4,9 +4,8 @@ import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import { GithubRepos } from '../../data/githubRepo';
 import { blogs } from '../../data/blogs';
 import Divider from '../Divider';
-import { Link } from "react-router-dom";
 // image
-import image from '../../images/github.png';
+import image from '../../images/social/github.png';
 
 export default function ResourcesComponent() {
   return (

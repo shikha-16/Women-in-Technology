@@ -1,5 +1,5 @@
 import React from 'react';
-import './Infocard.css';
+import './infocard.css';
 import '../../node_modules/bootstrap/dist/css/bootstrap-grid.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
@@ -7,7 +7,6 @@ import {
   faBookOpen,
   faIdBadge,
 } from '@fortawesome/free-solid-svg-icons';
-import image from '../images/woman-and-laptop.jpg';
 import Layout from '../components/Layout';
 import './index.css';
 import CarouselComponent from '../components/CarouselComponent/CarouselComponent';

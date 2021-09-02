@@ -1,8 +1,8 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import Founder from '../components/FounderComponent';
-import Contributors from '../components/ContributorsComponent';
-import Testimonials from '../components/TestimonialsComponent';
+import Founder from '../components/Founder/FounderComponent';
+import Contributors from '../components/Community/Contributors/ContributorsComponent';
+import Testimonials from '../components/Community/Contributors/TestimonialsComponent';
 
 export default function CommunityPage() {
   return (
