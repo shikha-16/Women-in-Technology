@@ -18,7 +18,7 @@ export default function OrganisationComponent() {
               className="col text-center page-title"
               style={{ marginTop: '13%' }}
             >
-              <h1>Organizations promoting women in Tech</h1>
+              <h1>Organisations promoting women in technology</h1>
             </div>
           </div>
           {organisations.map((org, _index) => (

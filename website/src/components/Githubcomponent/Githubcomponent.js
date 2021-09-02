@@ -9,7 +9,7 @@ export default function Githubcomponent() {
   return (
     <div className="resources">
       <div className="articles">
-        <h1>GITHUB Repositories to Star</h1>
+        <h1>Github Repositories to Star</h1>
 
         <div>
           {GithubRepos.map((repo, index) => (
