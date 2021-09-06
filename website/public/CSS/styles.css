@@ -1,0 +1,140 @@
+/* navbar-section */
+.navbar-sec {
+  height: 73px;
+  padding: 43px;
+  background-color: #ffa0a0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+}
+.nav-text {
+  color: rgba(255, 255, 255, 0.85);
+}
+.nav-icon {
+  width: 45pt;
+}
+
+.navbar-sec a:hover {
+  color: rgba(255, 255, 255, 0.55);
+}
+.nav-sec-btn {
+  margin-left: auto;
+}
+/* image-slider */
+.img-carousel {
+  padding: 0px 2px 0px 2px;
+  width: 500px;
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img-slider-div {
+}
+/* women-in-tech */
+#women-section {
+  padding: 5% 8% 10% 8%;
+}
+.women-img {
+  height: 16rem;
+  width: 16rem;
+
+  border-radius: 100%;
+}
+.grace-hopper {
+  padding: 5% 7% 3% 7%;
+}
+.grace-hopper-text {
+  text-align: center;
+  line-height: 2rem;
+  padding: 5%;
+  font-family: serif;
+  font-size: 1.2rem;
+  display: inline-block;
+  width: 64%;
+  float: right;
+}
+.anita-borg {
+  padding: 5% 7% 3% 7%;
+}
+.anita-borg-text {
+  text-align: center;
+  line-height: 2rem;
+  padding: 5%;
+  font-family: serif;
+  font-size: 1.2rem;
+  display: inline-block;
+  width: 64%;
+  float: left;
+}
+.second-div {
+  padding: 3% 5% 3% 5%;
+}
+/* .women-img-left {
+  align-content: left;
+}
+.women-img-right {
+  align-content: right;
+} */
+
+.img-text-right {
+  float: right;
+  clear: left;
+  font-family: serif;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  width: 40%;
+  text-align: center;
+  padding: 3% 1% 3% 1%;
+}
+.img-text-left {
+  float: left;
+  clear: right;
+  font-family: serif;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  width: 40%;
+  text-align: center;
+  padding: 3% 5% 7% 5%;
+}
+/* contact-section */
+#contact-section {
+  text-align: center;
+  background-color: #fdd2bf;
+}
+.contact-text {
+  padding: 8%;
+}
+.contact-btn {
+  margin-left: 10%;
+}
+
+/* body{
+  margin:0px 0px auto 0px;
+}
+img{
+  padding-top: 0px;
+  width: 100%;
+}
+.navbar-link{
+  text-decoration: none;
+  color: black;
+  padding: 5px 65px 11px 66px;
+}
+
+.navbar-img{
+  width: 4%;
+}
+
+}
+a:hover{
+color:white;
+  background-color: black;
+
+}
+}
+h1{
+  margin:0px;
+}
+a{
+  margin: auto;
+} */

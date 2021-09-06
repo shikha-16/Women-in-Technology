@@ -30,11 +30,154 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
+    <!-- adding favicon -->
+    <link rel="icon" href="favicon.ico">
+    <!--Bootstrap-CSSS-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <!-- bootstrap-script -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+    
+  <!-- adding-fontawesome-icon-script     -->
+  <script src="https://kit.fontawesome.com/16bee8757d.js" crossorigin="anonymous"></script>
+<!-- adding link to css file-->
+
         <title>Women-In-Technology</title>
+        <link rel="stylesheet" href="CSS/styles.css">
     </head>
     <body>
+      <!--navbar -->
+      <nav class="navbar navbar-expand-sm navbar-sec  ">
+        
+           <a class="navbar-brand ">
+            <img  class="nav-icon"src="images/Wfivicon.png" alt=""> 
+
+           </a>
+           <ul class="navbar-nav  ">
+             <li class="nav-item"><a class="nav-link nav-text">Home</a></li>
+             <li class="nav-item "><a class="nav-link nav-text">Resources</a></li>
+             <li class="nav-item"><a class="nav-link nav-text ">Community</a></li>
+             <li class="nav-item"><a class="nav-link nav-text ">Contribute</a></li>
+
+             <li></li>
+           </ul>
+           <button class="btn btn-outline-dark btn-lg nav-sec-btn"> Connect Us</button>
+        
+      </nav>
+      
+      <!--image slider-->
+          <!-- <img src="images/firstimg.png" alt=""> -->
+          <div id="carouselExampleControls"  class="carousel slide img-slider-div" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active ">
+                <img src="images/tech.jpg" className="img1-carousel"alt="">
+                <!-- <h3>Inspiring Women In Tech</h3> -->
+              </div>
+              <div class="carousel-item img-carousel">
+                <img src="images/women-tech-23.png" className="img1-carousel" alt="">
+              </div>
+              
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button
+          </div>
+        <!-- women-in-tech -->
+
+      
+      <div id="women-section">
+        <div  class="grace-hopper col-sm-12">
+            <img class="women-img " src="images/grace.png" alt="">
+            <div class="grace-hopper-text col-sm-12">
+           <h3>Grace Hopper</h3>
+           <p>She was a Central role in developing the first commercial computer ,the UNIVAC I,which change the course of computer in society.
+           Rear Admiral Grace Hopper helped to develop an early computer, invented the compiler making possible higher level computer languages.
+      
+          </p>
+          </div>
+          </div>
+        <div class="anita-borg col-sm-12" >
+          <img class="women-img "src="images/anita.png" alt="">
+          <div class="anita-borg-text col-sm-12">
+          <h3>Anita Borg</h3>
+          <p>Anita Borg was an american computer scientist.She founded the institute for women in technology and the Grace Hopper women in Computuing.
+            In 1987, Anita Borg and 12 other women technologists cofounded the Systers community, an email list for women working in the “systems” field. 
+          </p>
+        </div>
+        </div>
+         <div class="grace-hopper col-sm-12">
+          <img class="women-img"src="images/reshma.png" alt=""> 
+          <div class="grace-hopper-text col-sm-12">
+            <h3> Reshma Saujani</h3>
+            <p> Saujani was featured at opening session of the 2017 American Library Association Conference,speaking in support of women targeting girls entering computer science profession.She is the founder of Girl Who Code.
+              
+            </p>
+          </div>
+       
+        </div>
+         <div class="anita-borg col-sm-12" >
+           <img class="women-img" src="images/debjani.png" alt=""> 
+        <div class="anita-borg-text col-sm-12">
+          <h3> Debjani Ghosh</h3>
+        <p> Debjani Ghosh is the fifth President of The National Association of Software and Services Companies(NASSCOM).
+          Debjani Ghosh is the President of the National Association of Software & Services Companies (NASSCOM) since April 2018.  she is the fifth president of NASSCOM and the first women at the helm in three-decade history.
+
+
+        </p>
+        </div>
+        </div>
+        <div class="grace-hopper col-sm-12">
+          <img class="women-img"src="images/geetha.png" alt=""> 
+        <div class="grace-hopper-text col-sm-12">
+          <h3> Geetha Kannan</h3>
+        <p> Geetha Kannan is versatile entrepreneurial leader and a pioneer for the women in IT movement in India,with over 30 years of global experience spanning buisness,technology and people.</p>
+        </div>
+        </div>
+        <div class="anita-borg col-sm-12">
+          <img class="women-img"src="images/ashni.png" alt=""> 
+        <div class="anita-borg-text col-sm-12">
+          <h3> Ashni Dwarkdas</h3>
+        <p> Ashni is an enterpreneur and a mom to 2 kids under age of 5. She is the cofounder for koffeplace.com,an online portal for women professionals looking to return to their carrers after a break.Sheloves to read,write,travel, and spend time with her family.</p>
+        </div>
+        </div>
+        <div class="grace-hopper col-sm-12" >
+          <img class="women-img"src="images/ashwini.png" alt=""> 
+        <div class="grace-hopper-text col-sm-12">
+          <h3> Ashwini Asokan</h3>
+        <p> Ashwini Asokan is CEO and cofounder of Mad Street Den, a computer vision based Artificial Inteligience startup. The Startup's cloud based platform,powers customer across the globe with it's AI products across eCommerce,Omni Channel retail ,Robotics and many more.</p>
+        </div>
+      </div>
+        <div class="anita-borg col-sm-12">
+          <img class="women-img"src="images/roshni.png" alt=""> 
+        <div class="anita-borg-text col-sm-12">
+          <h3> Roshni Nadar Malhotra</h3>
+        <p>Roshni Nadar Malhotra is Indian buisnesswoman, the chairperson of HCL technologies and the first women to lead a listed IT company in India.</p>
+        </div>
+      </div> 
+         
+      </div>
+      <!-- contact-section -->
+      <div id="contact-section">
+        <div class="contact-text">
+        
+        <h1>Contact Us</h1>
+        <div >
+        <button class=" btn  btn-outline-dark btn-lg contact-btn" <i class="fa fa-github" aria-hidden="true"> </i>  Visit Our Github Repo</button>
+        <button class="btn btn-primary btn-lg contact-btn" <i class="fab fa-discord"></i> Discord </button>
+        <button class="btn btn-outline-dark btn-lg contact-btn" <i class="fas fa-envelope"> </i> Email Us</button>
+      </div>
+      
+      </div>
+      
+      </div>
+      
         <noscript>You need to enable JavaScript to run this app.</noscript>
-        <div id="root"></div>
+        <!--<div id="root"></div>-->
         <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
