@@ -75,3 +75,15 @@ nav a {
     transform: rotate(360deg);
   }
 }
+/* .scroll-top {
+  width: 75px;
+  height: 75px;
+  position: fixed;
+  bottom: 25px;
+  left: 20px;
+  display: none;
+}
+.scroll-top i {
+  display: inline-block;
+  color: #fff;
+} */
