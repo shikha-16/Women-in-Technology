@@ -16,6 +16,10 @@ import GithubPage from "./pages/github";
 import BeginnersPage from "./pages/beginners";
 import EventsPage from "./pages/events";
 
+import { Fragment } from 'react';
+import ScrollButton from './components/Scroll/ScrollButton';
+import { Content, Heading } from './components/Scroll/Styles';
+
 function App() {
   return (
     <div className="App">
@@ -37,7 +41,9 @@ function App() {
         </Switch>
       <Footer />
       </Router>
+      <ScrollButton />
     </div>
+    
   );
 }
 
