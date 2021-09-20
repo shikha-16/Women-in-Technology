@@ -56,6 +56,9 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 ### ACM W
 [ACM-W](https://women.acm.org/) supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
 
+### SheGazette
+[She Gazette](https://shegazette.co/) is a community for female students. They provide constant reminders about year-round scholarships, conferences and other programs. The community helps students connect with past achievers to educate, equip and empower them. They endeavor to elevate the academic pursuits of ambitious students by guaranteeing awareness about opportunities, followed by constant guidance, and help women embrace technology.
+
 ### STEM 4 Girls
 [STEM4Girls](http://www.stem4girls.org/) works to bring fun, educational workshops and camps available garner  the interest of young minds in the hopes that it will help them throughout their lives.
 
@@ -281,6 +284,7 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 ![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
+- We have collaborated with **SheGazette** to provide newsletters to all members of the community! Subscribe [here](https://marvelous-mover-3921.ck.page/9d887f89cf) now!
 
 ---
 
