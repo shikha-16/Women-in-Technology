@@ -62,6 +62,9 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 ### GirlScript
 [GirlScript](https://www.girlscript.tech/home) is working to change lives by imparting tech education and relevant skills. GirlScript is a non-profit project to support women in technology. We do it by imparting skills online and offline. 
 
+### SheGazette
+[She Gazette](https://shegazette.co/) is a community for female students. They provide constant reminders about year-round scholarships, conferences and other programs. The community helps students connect with past achievers to educate, equip and empower them. They endeavor to elevate the academic pursuits of ambitious students by guaranteeing awareness about opportunities, followed by constant guidance, and help women embrace technology.
+
 ### DevelopHER
 [DevelopHER](https://developher.com/about/) to champion tech women and mentor fellow female engineers on the importance of negotiation and building their worth.
 
@@ -282,6 +285,7 @@ Comprehensive image by [The Next Generation](/documents/info/images/women.jpg). 
 ![Women](documents/info/images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 - Chatting/Discussions on [Discord](https://discord.gg/xvzbAXk) :speech_balloon:
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBSl9jUCV37CAVje7573efwuvaDPTNAC8) :information_desk_person:
+- We have collaborated with **SheGazette** to provide newsletters to all members of the community! Subscribe [here](https://marvelous-mover-3921.ck.page/9d887f89cf) now!
 
 ---
 
