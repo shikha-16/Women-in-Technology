@@ -1,9 +1,9 @@
-import React from 'react';
-import './organizationComponentStyles.css';
-import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import React from "react";
+import "./organizationComponentStyles.css";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 // importing organisations data
-import { organizations } from '../../data/organization';
+import { organizations } from "../../data/organization";
 
 // image
 // import image from '../../images/example-image.jpg';
@@ -16,7 +16,7 @@ export default function OrganisationComponent() {
           <div className="row">
             <div
               className="col text-center page-title"
-              style={{ marginTop: '13%' }}
+              style={{ marginTop: "13%" }}
             >
               <h1>Organizations promoting women in technology</h1>
             </div>
@@ -53,21 +53,37 @@ const LeftImageBox = ({ image, title, text, link, href }) => (
     <div className="row no-gutters">
       <div className="col-md-4">
         <div className="card">
-          <img src={image} className="card-img-top" alt={title} style={{width:"350px", height:"200px"}} />
+          <img
+            src={image}
+            className="card-img-top"
+            alt={title}
+            style={{ width: "350px", height: "200px" }}
+          />
           <div className="card-body org-details">
-            <h6 className="card-title" style={{ color: 'black' }}>{title}</h6>
-            <a href={href} target="_blank" style={{ color: 'blue' }}>
-              See More {'>'}
+            <h6 className="card-title" style={{ color: "black" }}>
+              {title}
+            </h6>
+            <a
+              href={href}
+              target="_blank"
+              rel="noreferrer"
+              style={{ color: "blue" }}
+            >
+              See More {">"}
             </a>
           </div>
         </div>
       </div>
       <div className="col-md-8 org-info">
         <div className="card-body">
-          <a href={link} target="_blank">
-            <h3 className="card-title" style={{ color: 'black' }}>{title}</h3>
+          <a href={link} target="_blank" rel="noreferrer">
+            <h3 className="card-title" style={{ color: "black" }}>
+              {title}
+            </h3>
           </a>
-          <p className="card-text" style={{ color: 'black' }}>{text}</p>
+          <p className="card-text" style={{ color: "black" }}>
+            {text}
+          </p>
         </div>
       </div>
     </div>
@@ -79,21 +95,37 @@ const RightImageBox = ({ image, title, text, link, href }) => (
     <div className="row no-gutters">
       <div className="col-md-8 org-info">
         <div className="card-body">
-          <a href={link}>
-            <h3 className="card-title" style={{ color: 'black' }}>{title}</h3>
+          <a href={link} target="_blank" rel="noreferrer">
+            <h3 className="card-title" style={{ color: "black" }}>
+              {title}
+            </h3>
           </a>
-          <p className="card-text" style={{ color: 'black' }}>{text}</p>
+          <p className="card-text" style={{ color: "black" }}>
+            {text}
+          </p>
         </div>
       </div>
       <div className="col-md-4 order-first order-md-last">
         <div className="card">
-          <img src={image} className="card-img-top" alt={title}  style={{width:"300px" , height:"200px"}} />
+          <img
+            src={image}
+            className="card-img-top"
+            alt={title}
+            style={{ width: "300px", height: "200px" }}
+          />
           <div className="card-body org-details">
-            <a href={link}>
-              <h6 className="card-title" style={{ color: 'black' }}>{title}</h6>
+            <a href={link} target="_blank" rel="noreferrer">
+              <h6 className="card-title" style={{ color: "black" }}>
+                {title}
+              </h6>
             </a>
-            <a href={href} style={{ color: 'blue' }}>
-              See More {'>'}
+            <a
+              href={href}
+              target="_blank"
+              rel="noreferrer"
+              style={{ color: "blue" }}
+            >
+              See More {">"}
             </a>
           </div>
         </div>

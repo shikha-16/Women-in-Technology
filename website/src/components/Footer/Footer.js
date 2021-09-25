@@ -6,10 +6,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 import { faGoogle } from "@fortawesome/free-brands-svg-icons";
-import DarkMode from '../DarkMode';
+import DarkMode from "../DarkMode";
 export default function Footer() {
   return (
-    <footer class="site-footer">
+    <footer className="site-footer">
       <div className="container">
         <div className="row">
           <div className="col-sm-12 col-md-6">
@@ -48,20 +48,26 @@ export default function Footer() {
           <div className="col-md-8 col-sm-6 col-xs-12">
             <p className="copyright-text">
               Copyright &copy; 2021 All Rights Reserved by
-              <a href="https://women-in-technology-wit.web.app/"> Women in Technology</a>.
+              <a href="https://women-in-technology-wit.web.app/">
+                {" "}
+                Women in Technology
+              </a>
+              .
             </p>
           </div>
 
           <div className="col-md-4 col-sm-6 col-xs-12">
             <ul className="social-icons">
-              <li><a>
-              <DarkMode/> 
-              </a>
+              <li>
+                <a>
+                  <DarkMode />
+                </a>
               </li>
               <li>
                 <a
                   className="github"
                   target="_blank"
+                  rel="noreferrer noopener"
                   href="https://github.com/shikha-16/Women-in-Technology"
                 >
                   <FontAwesomeIcon icon={faGithub} />
@@ -71,6 +77,7 @@ export default function Footer() {
                 <a
                   className="discord"
                   target="_blank"
+                  rel="noreferrer noopener"
                   href="https://discord.com/invite/xvzbAXk"
                 >
                   <FontAwesomeIcon icon={faDiscord} />
@@ -80,6 +87,7 @@ export default function Footer() {
                 <a
                   className="gmail"
                   target="_blank"
+                  rel="noreferrer noopener"
                   href="mailto:shikhabhat1608@gmail.com?subject=Test email, please change this"
                 >
                   <FontAwesomeIcon icon={faGoogle} />
