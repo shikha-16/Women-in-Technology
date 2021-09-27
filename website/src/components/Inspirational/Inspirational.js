@@ -8,7 +8,7 @@ import image5 from "../../images/inspiring/geetha.png";
 import image6 from "../../images/inspiring/ashni.png";
 import image7 from "../../images/inspiring/ashwini.png";
 import image8 from "../../images/inspiring/roshni.png";
-import Divider from "../Divider";
+
 import "../Contributing/ss.css";
 
 const content = [
