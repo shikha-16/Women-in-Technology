@@ -1,8 +1,14 @@
 import React from "react";
-import { Card, CardContent, Divider } from "@material-ui/core";
-
+import {
+  Box,
+  Card,
+  CardActions,
+  CardContent,
+  Divider,
+} from "@material-ui/core";
+import Header from "../components/Header/Header";
 import CarouselComponent from "../components/CarouselComponent/CarouselComponent";
-
+import Footer from "../components/Footer/Footer";
 import "./infographics.css";
 
 import pdf1 from "../pdf/Competitive Programming_WiT.pdf";

@@ -9,15 +9,16 @@ import image8 from "../images/organization/built.png";
 import image9 from "../images/organization/gdi.png";
 import image10 from "../images/organization/techgirlz.png";
 import image11 from "../images/organization/codess.png";
-
+import image12 from "../images/organization/codewith.png";
 import image13 from "../images/organization/she-.png";
 import image14 from "../images/organization/acm-w.png";
 import image15 from "../images/organization/stem4girls.png";
 import image16 from "../images/organization/girlscript.png";
-
+import image17 from "../images/organization/develop.png";
 import image18 from "../images/organization/shecodes.png";
 import image19 from "../images/organization/step_up.png";
 import image20 from "../images/organization/rewriting.png";
+import image21 from "../images/organization/hacker-ramp.png";
 
 export const organizations = [
   {

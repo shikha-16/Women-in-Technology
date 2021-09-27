@@ -1,5 +1,6 @@
 import React from "react";
-
+// change the carousel image here //
+import { Carousel } from "react-responsive-carousel";
 import "./carousel.css";
 
 import slide1 from "../../images/carousel/carousel1.png";

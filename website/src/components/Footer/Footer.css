@@ -108,7 +108,7 @@
 .social-icons a:focus,
 .social-icons a:hover {
   color: #fff;
-  /*changed color to match black background*/
+  /*changed color to match black backgroun*/
   background-color: #000;
 }
 .social-icons.size-sm a {

@@ -7,7 +7,6 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 import { faGoogle } from "@fortawesome/free-brands-svg-icons";
 import DarkMode from "../DarkMode";
-
 export default function Footer() {
   return (
     <footer className="site-footer">
@@ -31,13 +30,7 @@ export default function Footer() {
                 <a href="/community">About Us</a>
               </li>
               <li>
-                <a
-                  href="https://discord.com/invite/xvzbAXk"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Contact Us
-                </a>
+                <a href="https://discord.com/invite/xvzbAXk">Contact Us</a>
               </li>
               <li>
                 <a href="/contributing">Contribute</a>
@@ -56,6 +49,7 @@ export default function Footer() {
             <p className="copyright-text">
               Copyright &copy; 2021 All Rights Reserved by
               <a href="https://women-in-technology-wit.web.app/">
+                {" "}
                 Women in Technology
               </a>
               .

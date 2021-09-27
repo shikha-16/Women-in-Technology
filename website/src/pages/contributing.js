@@ -1,7 +1,8 @@
 import React from "react";
-
+import BeginnersLinks from "../components/BeginnersLinks/BeginnersLinks";
 import Contributing from "../components/Contributing";
 import Layout from "../components/Layout";
+import Separator from "../components/Separator";
 
 export default function ContributingPage() {
   return (
