@@ -5,7 +5,7 @@ import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 // image
 import image from "../../images/scholarship/ggs.jpg";
-import image1 from "../../images/scholarship/venkat.png";
+
 import image2 from "../../images/scholarship/gcs.png";
 import image3 from "../../images/scholarship/adobe.png";
 import image4 from "../../images/scholarship/adobe_india.png";
