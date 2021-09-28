@@ -11,7 +11,7 @@ export default function Footer() {
   return (
     <footer class="site-footer">
       <div className="container">
-        <div className="row">
+        <div className="row justify-content-between">
           <div className="col-sm-12 col-md-6">
             <h6>About</h6>
             <p className="text-justify">
