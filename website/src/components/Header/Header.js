@@ -9,7 +9,7 @@ export default function Header() {
         <div>
             <nav 
                 className='navbar fixed-top navbar-expand-lg navbar-light'
-                style={{ backgroundColor: ' #FFCC66 ', paddingLeft: '10px'}}
+                style={{ backgroundColor: ' #FFCC66 ', paddingLeft: '5px'}}
             >
                 <a className='navbar-brand' href='/'>
                     <img
@@ -31,7 +31,7 @@ export default function Header() {
                     aria-controls='navbarSupportedContent'
                     aria-expanded='false'
                     aria-label='Toggle navigation'
-                    style={{marginRight:'10px'}}
+                    style={{marginRight:'5px'}}
                 >
                     <span className='navbar-toggler-icon' />
                 </button>
