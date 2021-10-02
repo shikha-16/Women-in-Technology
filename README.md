@@ -179,6 +179,13 @@ The Women at Microsoft Scholarship seeks to empower and enable high school women
 16. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
 17. [Flipkart Girls Wanna Code](https://dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093)
 18. [LinkedIn CoachIn Program](https://coachin2021.splashthat.com/)
+19. [Alexa Student Influencers](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)
+20. [WomenTechmakers Ambassador](https://www.womentechmakers.com/ambassadors)
+21. [Google Developer Student Clubs](https://developers.google.com/community/gdsc)
+22. [Microsoft Student Learn Ambassadors Program](https://studentambassadors.microsoft.com/)
+23. [MLH Fellowship](https://fellowship.mlh.io/)
+24. [Github Campus Expert](https://education.github.com/experts)
+
 
 _Keep a lookout for these events every year! These links may be unavailable because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results.  I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
 
