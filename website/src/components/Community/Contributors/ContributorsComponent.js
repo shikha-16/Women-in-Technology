@@ -1,5 +1,4 @@
 import React from 'react';
-import Button from '@material-ui/core/Button';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
@@ -33,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: 'column',
   },
   cardMedia: {
-    paddingTop: '90.25%', // 16:9
+    paddingTop: '80.25%', // 16:9
   },
   cardContent: {
     flexGrow: 1,
@@ -88,17 +87,17 @@ export default function MemberComponent() {
                   <h6 style={{ textAlign: 'center' }}>
                     {a.contribution}
                   </h6>
-                  <div className={classes.linkss} style={{padding:"3px" , margin:"3px", fontSize:"15px"}}>
+                  <div className={classes.linkss} style={{padding:"3px" , margin:"3px", fontSize:"5px"}}>
                     <a href={a.github}>
                       <img
-                        className="links__item"
+                        style={{width:"50px", margin:"3px"}}
                         src={github}
                         alt="github profile"
                       />
                     </a>
                     <a href={a.linkedin}>
                       <img
-                        className="links__item"
+                         style={{width:"50px", margin:"3px"}}
                         src={linkedin}
                         alt="linkedin profile"
                       />
