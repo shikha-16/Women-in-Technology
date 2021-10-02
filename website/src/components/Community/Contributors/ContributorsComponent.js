@@ -11,6 +11,7 @@ import linkedin from '../../../images/social/linkedin.png';
 import github from '../../../images/social/github.png';
 import {members} from "../../../data/members";
 
+
 const useStyles = makeStyles((theme) => ({
   icon: {
     marginRight: theme.spacing(2),
