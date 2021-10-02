@@ -6,3 +6,9 @@
 .containerss {
   text-align: left;
 }
+
+@media only screen and (max-width: 934px){
+.content{
+  padding: 40px;
+}
+}
