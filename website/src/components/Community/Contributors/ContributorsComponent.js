@@ -1,3 +1,4 @@
+
 import React from 'react';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
@@ -9,6 +10,7 @@ import Container from '@material-ui/core/Container';
 import linkedin from '../../../images/social/linkedin.png';
 import github from '../../../images/social/github.png';
 import {members} from "../../../data/members";
+
 
 const useStyles = makeStyles((theme) => ({
   icon: {
@@ -27,9 +29,9 @@ const useStyles = makeStyles((theme) => ({
     paddingBottom: theme.spacing(4),
   },
   card: {
-    height: '100%',
-    display: 'flex',
-    flexDirection: 'column',
+    height: "100%",
+    display: "flex",
+    flexDirection: "column",
   },
   cardMedia: {
     paddingTop: '80.25%', // 16:9

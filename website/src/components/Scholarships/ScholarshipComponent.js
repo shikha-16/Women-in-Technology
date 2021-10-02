@@ -1,17 +1,17 @@
 /* eslint-disable react/jsx-no-target-blank */
-import React from 'react';
-import './ScholarshipComponent.css';
-import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import React from "react";
+import "./ScholarshipComponent.css";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 // image
-import image from '../../images/scholarship/ggs.jpg';
-import image1 from '../../images/scholarship/venkat.png';
-import image2 from '../../images/scholarship/gcs.png';
-import image3 from '../../images/scholarship/adobe.png';
-import image4 from '../../images/scholarship/adobe_india.png';
-import image5 from '../../images/scholarship/palantir.png';
-import image6 from '../../images/scholarship/nutanix.png';
-import image7 from '../../images/scholarship/ghc.png';
+import image from "../../images/scholarship/ggs.jpg";
+
+import image2 from "../../images/scholarship/gcs.png";
+import image3 from "../../images/scholarship/adobe.png";
+import image4 from "../../images/scholarship/adobe_india.png";
+import image5 from "../../images/scholarship/palantir.png";
+import image6 from "../../images/scholarship/nutanix.png";
+import image7 from "../../images/scholarship/ghc.png";
 
 export default function ScholarshipComponent() {
   return (
@@ -21,7 +21,7 @@ export default function ScholarshipComponent() {
           <div className="row">
             <div
               className="col text-center page-title"
-              style={{ marginTop: '13%' }}
+              style={{ marginTop: "13%" }}
             >
               <h1>Scholarships for Women in Technology</h1>
             </div>
@@ -31,14 +31,28 @@ export default function ScholarshipComponent() {
               <a
                 href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
                 target="_blank"
+                rel="noreferrer noopener"
               >
                 <h4>Generation Google Scholarship</h4>
               </a>
               <p>
-                Generation Google Scholarship: for women in computer science (formerly known as Women Techmakers Scholarship) was established to help aspiring students pursuing computer science degrees excel in technology and become leaders in the field. Selected students will receive $1,000 USD for the 2021-2022 school year. Generation Google Scholarship: for women in computer science will be awarded based on the strength of each candidate's commitment to diversity, equity, and inclusion, demonstrated leadership, and academic performance. 
-                Note - This scholarship is also available in North America region, and is aimed at groups historically excluded from the technology industry, including Women, Black/African American, Hispanic/Latinx, American Indian, Native Hawaiian/Pacific Islander.
-
-                Read previous scholars experience <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052">here. </a>
+                Generation Google Scholarship: for women in computer science
+                (formerly known as Women Techmakers Scholarship) was established
+                to help aspiring students pursuing computer science degrees
+                excel in technology and become leaders in the field. Selected
+                students will receive $1,000 USD for the 2021-2022 school year.
+                Generation Google Scholarship: for women in computer science
+                will be awarded based on the strength of each candidate's
+                commitment to diversity, equity, and inclusion, demonstrated
+                leadership, and academic performance. Note - This scholarship is
+                also available in North America region, and is aimed at groups
+                historically excluded from the technology industry, including
+                Women, Black/African American, Hispanic/Latinx, American Indian,
+                Native Hawaiian/Pacific Islander. Read previous scholars
+                experience{" "}
+                <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052">
+                  here.{" "}
+                </a>
               </p>
             </div>
             <div className="col-md-4">
@@ -47,7 +61,7 @@ export default function ScholarshipComponent() {
                   className="card-img-top w-100"
                   src={image}
                   alt="card"
-                  style={{ width: '350px', height: '200px' }}
+                  style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title ">Generation Google Scholarship</h6>
@@ -55,8 +69,9 @@ export default function ScholarshipComponent() {
                     href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
                     // eslint-disable-next-line react/jsx-no-target-blank
                     target="_blank"
+                    rel="noreferrer noopener"
                   >
-                    See More {'>'}
+                    See More {">"}
                   </a>
                 </div>
               </div>
@@ -69,7 +84,7 @@ export default function ScholarshipComponent() {
                   className="card-img-top w-100"
                   src={image2}
                   alt="card"
-                  style={{ width: '350px', height: '200px' }}
+                  style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title ">
@@ -79,8 +94,9 @@ export default function ScholarshipComponent() {
                   <a
                     href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/"
                     target="_blank"
+                    rel="noreferrer noopener"
                   >
-                    See More {'>'}
+                    See More {">"}
                   </a>
                 </div>
               </div>
@@ -89,6 +105,7 @@ export default function ScholarshipComponent() {
               <a
                 href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/"
                 target="_blank"
+                rel="noreferrer noopener"
               >
                 <h4>Google Conference and Travel Scholarships</h4>
               </a>
@@ -107,7 +124,11 @@ export default function ScholarshipComponent() {
           </div>
           <div className="row content-box">
             <div className="col-md-8">
-              <a href="https://research.adobe.com/scholarship/" target="_blank">
+              <a
+                href="https://research.adobe.com/scholarship/"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 <h4>Adobe Research Women-in-Technology Scholarship</h4>
               </a>
               <p>
@@ -125,7 +146,7 @@ export default function ScholarshipComponent() {
                   className="card-img-top w-100"
                   src={image3}
                   alt="card"
-                  style={{ width: '350px', height: '200px' }}
+                  style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title ">
@@ -135,8 +156,9 @@ export default function ScholarshipComponent() {
                   <a
                     href="https://research.adobe.com/scholarship/"
                     target="_blank"
+                    rel="noreferrer noopener"
                   >
-                    See More {'>'}
+                    See More {">"}
                   </a>
                 </div>
               </div>
@@ -149,7 +171,7 @@ export default function ScholarshipComponent() {
                   className="card-img-top w-100"
                   src={image4}
                   alt="card"
-                  style={{ width: '350px', height: '200px' }}
+                  style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title ">
@@ -159,8 +181,9 @@ export default function ScholarshipComponent() {
                   <a
                     href="https://research.adobe.com/adobe-india-women-in-technology-scholarship/"
                     target="_blank"
+                    rel="noreferrer noopener"
                   >
-                    See More {'>'}
+                    See More {">"}
                   </a>
                 </div>
               </div>
@@ -169,6 +192,7 @@ export default function ScholarshipComponent() {
               <a
                 href="https://research.adobe.com/adobe-india-women-in-technology-scholarship/"
                 target="_blank"
+                rel="noreferrer noopener"
               >
                 <h4>Adobe India Women-in-Technology Scholarship</h4>
               </a>
@@ -186,6 +210,7 @@ export default function ScholarshipComponent() {
               <a
                 href="https://www.palantir.com/students/scholarship/global-impact/"
                 target="_blank"
+                rel="noreferrer noopener"
               >
                 <h4>Palantir Global Impact Scholarship</h4>
               </a>
@@ -206,7 +231,7 @@ export default function ScholarshipComponent() {
                   className="card-img-top w-100"
                   src={image5}
                   alt="card"
-                  style={{ width: '350px', height: '200px' }}
+                  style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title ">
@@ -217,8 +242,9 @@ export default function ScholarshipComponent() {
                     href="https://www.palantir.com/students/scholarship/global-impact/"
                     // eslint-disable-next-line react/jsx-no-target-blank
                     target="_blank"
+                    rel="noreferrer noopener"
                   >
-                    See More {'>'}
+                    See More {">"}
                   </a>
                 </div>
               </div>
@@ -231,7 +257,7 @@ export default function ScholarshipComponent() {
                   className="card-img-top w-100"
                   src={image6}
                   alt="card"
-                  style={{ width: '350px', height: '200px' }}
+                  style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title ">
@@ -242,14 +268,19 @@ export default function ScholarshipComponent() {
                     href="https://www.nutanix.com/scholarships"
                     // eslint-disable-next-line react/jsx-no-target-blank
                     target="_blank"
+                    rel="noreferrer noopener"
                   >
-                    See More {'>'}
+                    See More {">"}
                   </a>
                 </div>
               </div>
             </div>
             <div className="col-md-8">
-              <a href="https://www.nutanix.com/scholarships" target="_blank">
+              <a
+                href="https://www.nutanix.com/scholarships"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 <h4>Nutanix .heart Women in Technology Scholarship</h4>
               </a>
               <p>
@@ -266,7 +297,11 @@ export default function ScholarshipComponent() {
           </div>
           <div className="row content-box">
             <div className="col-md-8">
-              <a href="https://ghc.anitab.org/scholarships-2/" target="_blank">
+              <a
+                href="https://ghc.anitab.org/scholarships-2/"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 <h4>Grace Hopper Celebration Scholarships</h4>
               </a>
               <p>
@@ -283,7 +318,7 @@ export default function ScholarshipComponent() {
                   className="card-img-top w-100"
                   src={image7}
                   alt="card"
-                  style={{ width: '350px', height: '200px' }}
+                  style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title ">
@@ -293,8 +328,9 @@ export default function ScholarshipComponent() {
                   <a
                     href="https://ghc.anitab.org/scholarships-2/"
                     target="_blank"
+                    rel="noreferrer noopener"
                   >
-                    See More {'>'}
+                    See More {">"}
                   </a>
                 </div>
               </div>

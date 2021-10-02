@@ -33,7 +33,7 @@
   display: block;
 }
 .footer-links a {
-  color: black ;
+  color: black;
 }
 .footer-links a:active,
 .footer-links a:focus,
@@ -108,7 +108,8 @@
 .social-icons a:focus,
 .social-icons a:hover {
   color: #fff;
-  background-color: #29aafe;
+  /*changed color to match black background*/
+  background-color: #000;
 }
 .social-icons.size-sm a {
   line-height: 34px;

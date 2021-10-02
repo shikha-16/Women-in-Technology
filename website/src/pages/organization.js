@@ -1,7 +1,6 @@
-import React from 'react';
-import Header from '../components/Header/Header';
-import OrganisationComponent from '../components/Organization/organizationComponent';
-import Footer from '../components/Footer/Footer';
+import React from "react";
+
+import OrganisationComponent from "../components/Organization/organizationComponent";
 
 export default function ScholarshipPage() {
   return (

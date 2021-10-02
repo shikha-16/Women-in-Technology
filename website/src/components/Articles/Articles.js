@@ -1,6 +1,6 @@
-import React from 'react';
-import { blogs } from '../../data/blogs';
-import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import React from "react";
+import { blogs } from "../../data/blogs";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 export default function ArticlesComponent() {
   return (
@@ -10,7 +10,7 @@ export default function ArticlesComponent() {
 
         <div>
           {blogs.map((blog, index) => (
-            <ArticleContainer blog={blog} />
+            <ArticleContainer blog={blog} key={index} />
           ))}
         </div>
       </div>
@@ -27,13 +27,13 @@ const ArticleContainer = ({ blog }) => (
             src={blog.image}
             className="card-img-top"
             alt={blog.title}
-            style={{ width: '70%', height: '40%' }}
+            style={{ width: "70%", height: "40%" }}
           />
         </div>
       </div>
       <div className="col-md-8 article-details">
         <div className="card-body">
-          <a href={blog.link}>
+          <a href={blog.link} target="_blank" rel="noreferrer">
             <h3 className="card-title title">{blog.title}</h3>
           </a>
           {/* <p className="card-text">{blog.text}</p> */}
