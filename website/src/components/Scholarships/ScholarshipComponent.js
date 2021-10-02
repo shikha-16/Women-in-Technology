@@ -33,13 +33,9 @@ export default function ScholarshipComponent() {
                 target="_blank"
                 rel="noreferrer noopener"
               >
-                <h4 className="scholarship-name">
-                  Generation Google Scholarship
-                </h4>
+                <h4>Generation Google Scholarship</h4>
               </a>
-
-              {/*added className information to p tag in order to justify it*/}
-              <p className="information">
+              <p>
                 Generation Google Scholarship: for women in computer science
                 (formerly known as Women Techmakers Scholarship) was established
                 to help aspiring students pursuing computer science degrees
@@ -53,11 +49,9 @@ export default function ScholarshipComponent() {
                 historically excluded from the technology industry, including
                 Women, Black/African American, Hispanic/Latinx, American Indian,
                 Native Hawaiian/Pacific Islander. Read previous scholars
-                experience
-                <br />
+                experience{" "}
                 <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052">
-                  here.
-                experience
+                  here.{" "}
                 </a>
               </p>
             </div>
@@ -70,7 +64,7 @@ export default function ScholarshipComponent() {
                   style={{ width: "350px", height: "200px" }}
                 />
                 <div className="card-body ">
-                  <h6 className="card-title">Generation Google Scholarship</h6>
+                  <h6 className="card-title ">Generation Google Scholarship</h6>
                   <a
                     href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
                     // eslint-disable-next-line react/jsx-no-target-blank
@@ -115,7 +109,7 @@ export default function ScholarshipComponent() {
               >
                 <h4>Google Conference and Travel Scholarships</h4>
               </a>
-              <p className="information">
+              <p>
                 At Google, we believe a diversity of attributes, experiences,
                 and perspectives are needed to build tools that can change the
                 world. Everyone deserves an opportunity to pursue connections in
@@ -137,7 +131,7 @@ export default function ScholarshipComponent() {
               >
                 <h4>Adobe Research Women-in-Technology Scholarship</h4>
               </a>
-              <p className="information">
+              <p>
                 To bring more gender diversity to the technology industry, we
                 are pleased to invite applications to the Adobe Research
                 Women-in-Technology Scholarship. The Adobe Research
@@ -202,7 +196,7 @@ export default function ScholarshipComponent() {
               >
                 <h4>Adobe India Women-in-Technology Scholarship</h4>
               </a>
-              <p className="information">
+              <p>
                 Through the Adobe India Women-in-Technology Scholarship, we are
                 striving towards creating gender equality in science, technology
                 and engineering domains by encouraging women to showcase their
@@ -220,7 +214,7 @@ export default function ScholarshipComponent() {
               >
                 <h4>Palantir Global Impact Scholarship</h4>
               </a>
-              <p className="information">
+              <p>
                 Palantir has launched the Global Impact Scholarship to celebrate
                 and support students from across the globe who are beginning
                 careers in technology. We hope to encourage these students in
@@ -289,7 +283,7 @@ export default function ScholarshipComponent() {
               >
                 <h4>Nutanix .heart Women in Technology Scholarship</h4>
               </a>
-              <p className="information">
+              <p>
                 Nutanix strongly believes in the power of diversity and we want
                 to increase the ratio of women on our engineering teams. So,
                 we’re creating scholarships to help young women develop the
@@ -310,7 +304,7 @@ export default function ScholarshipComponent() {
               >
                 <h4>Grace Hopper Celebration Scholarships</h4>
               </a>
-              <p className="information">
+              <p>
                 The GHC Scholars Program provides funds for women who are either
                 undergraduate students, graduate students, or faculty to attend
                 our Celebration. Women who get selected as scholars gain access
