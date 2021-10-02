@@ -5,34 +5,36 @@ import "font-awesome/css/font-awesome.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 
 export default function Header() {
-  return (
-    <div>
-      <nav
-        className="navbar fixed-top navbar-expand-lg navbar-light"
-        style={{ backgroundColor: " #FFCC66 " }}
-      >
-        <a className="navbar-brand" href="/">
-          <img
-            src={logo}
-            width="30"
-            height="30"
-            className="d-inline-block align-top"
-            alt=""
-            loading="lazy"
-          />
-          Women in Technology
-        </a>
-        <button
-          className="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span className="navbar-toggler-icon" />
-        </button>
+    return (
+        <div>
+            <nav 
+                className='navbar fixed-top navbar-expand-lg navbar-light'
+                style={{ backgroundColor: ' #FFCC66 ', paddingLeft: '5px'}}
+            >
+                <a className='navbar-brand' href='/'>
+                    <img
+                        src={logo}
+                        width='30'
+                        height='30'
+                        className='d-inline-block align-top'
+                        alt=''
+                        loading='lazy'
+                        style={{marginRight: '10px'}}
+                    />
+                    Women in Technology
+                </a>
+                <button
+                    className='navbar-toggler'
+                    type='button'
+                    data-bs-toggle='collapse'
+                    data-bs-target='#navbarSupportedContent'
+                    aria-controls='navbarSupportedContent'
+                    aria-expanded='false'
+                    aria-label='Toggle navigation'
+                    style={{marginRight:'5px'}}
+                >
+                    <span className='navbar-toggler-icon' />
+                </button>
 
         <div
           className="collapse navbar-collapse my-2 my-lg-0"
