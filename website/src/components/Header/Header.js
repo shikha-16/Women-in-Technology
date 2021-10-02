@@ -35,6 +35,7 @@ export default function Header() {
                 >
                     <span className='navbar-toggler-icon' />
                 </button>
+
         <div
           className="collapse navbar-collapse my-2 my-lg-0"
           id="navbarSupportedContent"

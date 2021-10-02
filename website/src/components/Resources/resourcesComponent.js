@@ -33,10 +33,9 @@ export default function ResourcesComponent() {
             return null;
           })}
         </div>
-        {/*changed links color from dark blue to light blue for 
-        better visibility.*/}
+
         <div className="see-more">
-          <a href="/articless" style={{ color: "#00adff" }}>
+          <a href="/articless" style={{ color: "blue" }}>
             <h4>See More &gt; </h4>
           </a>
         </div>
@@ -55,7 +54,7 @@ export default function ResourcesComponent() {
         </div>
 
         <div className="see-more">
-          <a href="/github" style={{ color: "#00adff" }}>
+          <a href="/github" style={{ color: "blue" }}>
             <h4>See More &gt; </h4>
           </a>
         </div>
