@@ -121,7 +121,7 @@ export default function Inspirational() {
           <a
             href="https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world"
             target="_blank"
-            rel="noreferrer "
+            rel="noreferrer"
             style={{ color: "#00adff" }}
           >
             The Women Who Changed The Tech World

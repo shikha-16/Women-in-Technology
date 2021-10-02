@@ -37,6 +37,7 @@ export default function ScholarshipComponent() {
                   Generation Google Scholarship
                 </h4>
               </a>
+
               {/*added className information to p tag in order to justify it*/}
               <p className="information">
                 Generation Google Scholarship: for women in computer science
@@ -56,6 +57,7 @@ export default function ScholarshipComponent() {
                 <br />
                 <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052">
                   here.
+                experience
                 </a>
               </p>
             </div>
