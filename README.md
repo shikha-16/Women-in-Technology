@@ -162,12 +162,26 @@ The Women at Microsoft Scholarship seeks to empower and enable high school women
 
 ## Tech Events and Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
+ Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition. The top 150 on the scoreboard will receive a ticket and a stipend to participate in virtual Google I/O.
+
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
+STEP (Student Training in Engineering Program), formerly known as Engineering Practicum, is a 12-week internship for first and second-year undergraduate students with a passion for computer science.
+
 3. [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
+GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors. Top participants get exciting goodies and opportunities.
+
 4. [Google Summer of Code](https://summerofcode.withgoogle.com/)
+Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project.
+
 5. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
+Indeed invites women developers to join the coding sprint. This event gives women an opportunity to showcase their skills by solving real-world problems and win some cool prizes. The coding sprint is an online event and includes several open-ended problem statements related to Indeed business.
+
 6. [Outreachy](https://www.outreachy.org/)
+Outreachy is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.
+
 7. [DE Shaw Ascend](https://www.deshawindia.com/desis-ascend-educare/about.pdf)
+This fellowships include an introduction to their firm, insights into rigorous approach to finance, and several professional and social networking opportunities.
+
 8. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
 9. [HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) 
 10. [Society of Women Engineers India](https://india.swe.org/)
