@@ -9,6 +9,9 @@ import Container from '@material-ui/core/Container';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import image from '../../images/members/shikha.jpeg';
+import "./Founder.css";
+import linkedin from '../../images/social/linkedin.png';
+import github from '../../images/social/github.png';
 
 const useStyles = makeStyles((theme) => ({
   icon: {
@@ -39,7 +42,7 @@ const useStyles = makeStyles((theme) => ({
   },
   cardContent: {
     flexGrow: 1,
-    marginTop: '6%',
+    // marginTop: '3%',
   },
   footer: {
     backgroundColor: theme.palette.background.paper,
@@ -93,19 +96,19 @@ export default function MemberComponent() {
                     />
                   </a>
                 </div> */}
-                <ul className="sociall-icons">
+                <ul className="links">
                   <a href="https://github.com/shikha-16">
-                    <FontAwesomeIcon
-                      icon={faGithub}
-                      className="follow-icon-1"
-                    />
+                    
+                  <img className="links__item" src={github} alt="github profile" />
                   </a>
                   <a href="https://www.linkedin.com/in/shikha-b/">
-                    <FontAwesomeIcon
-                      icon={faLinkedin}
-                      className="follow-icon-1"
-                    />
-                  </a>
+                   
+              <img
+                className="links__item"
+                src={linkedin}
+                alt="linkedin profile"
+              />
+            </a>
                 </ul>
 
                 <CardContent className={classes.cardContent}>
