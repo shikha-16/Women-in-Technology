@@ -27,6 +27,12 @@ export default function EventsPage() {
       <li className="eventName"><a className="eventLink" href="https://www.uber.com/us/en/careers/teams/university/">Uber She++</a></li>
       <li className="eventName"><a className="eventLink" href="https://dare2compete.com/hackathon/flipkart-girls-wanna-code-30-flipkart-145093">Flipkart Girls Wanna Code</a></li>
       <li className="eventName"><a className="eventLink" href="https://coachin2021.splashthat.com/">LinkedIn CoachIn Program</a></li>
+      <li className="eventName"><a className="eventLink" href="https://developer.amazon.com/en-IN/alexa/alexa-student-influencer">Alexa Student Influencers</a></li>
+      <li className="eventName"><a className="eventLink" href="https://www.womentechmakers.com/ambassadors">WomenTechmakers Ambassador</a></li>
+      <li className="eventName"><a className="eventLink" href="https://developers.google.com/community/gdsc">Google Developer Student Clubs</a></li>
+      <li className="eventName"><a className="eventLink" href="https://studentambassadors.microsoft.com/">Microsoft Student Learn Ambassadors Program</a></li>
+      <li className="eventName"><a className="eventLink" href="https://fellowship.mlh.io/">MLH Fellowship</a></li>
+      <li className="eventName"><a className="eventLink" href="https://education.github.com/experts">Github Campus Expert</a></li>
 
       </ol>
  
