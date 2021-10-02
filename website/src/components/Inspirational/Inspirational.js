@@ -88,11 +88,13 @@ export default function Inspirational() {
         */}
         <div className="containerss">
           1.
+          {/*changed link's color to light blue to maintain 
+            contrast ratio*/}
           <a
             href="https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf"
             target="_blank"
             rel="noreferrer "
-            style={{ color: "blue" }}
+            style={{ color: "#00adff" }}
           >
             A STUDY:Women in tech careers yearn for female role models and
             flexibility in the workplace
@@ -104,7 +106,7 @@ export default function Inspirational() {
             href="https://obamawhitehouse.archives.gov/women-in-stem"
             target="_blank"
             rel="noreferrer noopener"
-            style={{ color: "blue" }}
+            style={{ color: "#00adff" }}
           >
             The Untold History of Women in Science and Technology
           </a>
@@ -119,8 +121,8 @@ export default function Inspirational() {
           <a
             href="https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world"
             target="_blank"
-            rel="noreferrer "
-            style={{ color: "blue" }}
+            rel="noreferrer"
+            style={{ color: "#00adff" }}
           >
             The Women Who Changed The Tech World
           </a>
@@ -167,7 +169,7 @@ export default function Inspirational() {
             <a
               target="_blank"
               rel="noreferrer "
-              style={{ color: "blue", marginLeft: "15px" }}
+              style={{ color: "#00adff", marginLeft: "15px" }}
               href={a.li}
             >
               Read More
