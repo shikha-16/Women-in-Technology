@@ -130,7 +130,9 @@ Through community-based programs and philanthropy, Google works to connect stude
 
   *Read previous scholars experience [here](https://medium.com/@felixjosemon/how-i-won-google-scholarship-cd3d44fd814a).*
   
-  - [Google Conference and Travel Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/) At Google, we believe a diversity of attributes, experiences, and perspectives are needed to build tools that can change the world. Everyone deserves an opportunity to pursue connections in the industry, networking with peers, and a career path in technology. To help break down the barriers that prevent underrepresented groups in technology and business from attending leading conferences, we're excited to offer Google Conference and Travel Scholarships for selected conferences in the tech industry and related fields.
+  - [Google Conference and Travel Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/): At Google, we believe a diversity of attributes, experiences, and perspectives are needed to build tools that can change the world. Everyone deserves an opportunity to pursue connections in the industry, networking with peers, and a career path in technology. To help break down the barriers that prevent underrepresented groups in technology and business from attending leading conferences, we're excited to offer Google Conference and Travel Scholarships for selected conferences in the tech industry and related fields.
+
+  - [Google’s Women Techmakers program](https://www.womentechmakers.com/): Google’s Women Techmakers program provides visibility, community, and resources for women in technology.They aim to share the knowledge gained with the ecosystem and get a better understanding of how to strategically uplift more Indian women in technology across all career levels.
 
 #### 2. Adobe Scholarships
   - [Adobe Research Women in Technology Scholarship](https://research.adobe.com/scholarship/) :  To bring more gender diversity to the technology industry, we are pleased to invite applications to the Adobe Research Women-in-Technology Scholarship. The Adobe Research Women-in-Technology Scholarship recognizes outstanding undergraduate and masters female students anywhere in the world who are studying computer science.
@@ -193,6 +195,7 @@ The Carolyn Leighton Scholarship is offered to students in the APAC region to at
 22. [Microsoft Student Learn Ambassadors Program](https://studentambassadors.microsoft.com/)
 23. [MLH Fellowship](https://fellowship.mlh.io/)
 24. [Github Campus Expert](https://education.github.com/experts)
+25. [LinkedIn CoachIn](https://coachin2021.splashthat.com/)
 
 
 _Keep a lookout for these events every year! These links may be unavailable because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results.  I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
