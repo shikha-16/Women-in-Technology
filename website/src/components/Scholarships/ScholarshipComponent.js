@@ -224,6 +224,7 @@ export default function ScholarshipComponent() {
                 historically underrepresented in the field of technology to
                 apply.
               </p>
+             
             </div>
             <div className="col-md-4 order-first order-md-last">
               <div className="card">
