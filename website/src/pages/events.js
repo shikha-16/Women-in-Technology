@@ -1,374 +1,56 @@
-import React from "react";
+import React from 'react';
+import { makeStyles } from '@material-ui/core/styles';
+import Card from '@material-ui/core/Card';
+import CardActionArea from '@material-ui/core/CardActionArea';
+import CardContent from '@material-ui/core/CardContent';
+import Typography from '@material-ui/core/Typography';
 import "./events.css";
+import {eventList} from "../data/eventList.js"
+
+const useStyles = makeStyles({
+    root: {
+        maxWidth: 345,
+        marginBottom:'8px',
+        marginTop:"8px",
+        justifyContent:"center",
+        textAlign:"center",
+    },
+    media: {
+        height: 140,
+    },
+});
 
 export default function EventsPage() {
+  const classes = useStyles();
+
   return (
-    <div className="eventList">
-      <h1 className="eventHeading" style={{ paddingTop: 20 }}>
-        Events/Programs
-      </h1>
-      <ol>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
+      <h1 className="eventHeading" style={{ paddingTop: 60 }}>
+      Events/Programs
+    </h1>
+<div className="cardevent">
+{eventList.map((a, i) => (
+    <Card className={classes.root}>
+      <CardActionArea>
+        <CardContent>
+        <a href = {a.link}   
+          style={{
               color: "inherit",
               textDecoration: "underline",
               fontWeight: "bold",
             }}
-            rel="noreferrer"
-            href="https://codingcompetitions.withgoogle.com/codejamio"
-          >
-            Google Codejam io for Women
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://buildyourfuture.withgoogle.com/programs/step/"
-          >
-            Google STEP Internship
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://gssoc.girlscript.tech/"
-          >
-            Girlscript Summer of Code
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://summerofcode.withgoogle.com/"
-          >
-            Google Summer of Code
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.shecodesindeed.com/"
-          >
-            She Codes by Indeed
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.outreachy.org/"
-          >
-            Outreachy
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html"
-          >
-            Goldman Sachs Women Possibilities Summit: Finance
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.intuit.com/careers/programs/tech-women-at-intuit/"
-          >
-            Tech Women at Intuit
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.womenwhocode.com/delhi"
-          >
-            Women Who Code: Delhi
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://india.swe.org/"
-          >
-            Society of Women Engineers India
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://developher.com/"
-          >
-            DevelopHER
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://wintathon2020.splashthat.com/"
-          >
-            LinkedIn Wintathon
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html"
-          >
-            Adobe Codiva
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/"
-          >
-            Visa Code Your Way
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://careers.microsoft.com/students/us/en/ind-programs"
-          >
-            Microsoft Codess
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.uber.com/us/en/careers/teams/university/"
-          >
-            Uber She++
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://dare2compete.com/hackathon/flipkart-girls-wanna-code-30-flipkart-145093"
-          >
-            Flipkart Girls Wanna Code
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://coachin2021.splashthat.com/"
-          >
-            LinkedIn CoachIn Program
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://developer.amazon.com/en-IN/alexa/alexa-student-influencer"
-          >
-            Alexa Student Influencers
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://www.womentechmakers.com/ambassadors"
-          >
-            WomenTechmakers Ambassador
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://developers.google.com/community/gdsc"
-          >
-            Google Developer Student Clubs
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://studentambassadors.microsoft.com/"
-          >
-            Microsoft Student Learn Ambassadors Program
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://fellowship.mlh.io/"
-          >
-            MLH Fellowship
-          </a>
-        </li>
-        <li className="eventName">
-          <a
-            className="eventLink"
-            target="_blank"
-            style={{
-              color: "inherit",
-              textDecoration: "underline",
-              fontWeight: "bold",
-            }}
-            rel="noreferrer"
-            href="https://education.github.com/experts"
-          >
-            Github Campus Expert
-          </a>
-        </li>
-      </ol>
-    </div>
-  );
+          target="_blank"
+          rel="noreferrer"
+        >
+          <Typography gutterBottom variant="h5" component="h2">
+           {a.topic}
+          </Typography>
+           </a>        
+        </CardContent>
+      </CardActionArea>
+    </Card>
+))}
+</div>
+
 }
+
+
