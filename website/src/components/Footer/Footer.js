@@ -7,13 +7,18 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 import { faGoogle } from "@fortawesome/free-brands-svg-icons";
 import DarkMode from "../DarkMode";
+import logo from "../../images/logos/WITfivicon.png";
+
 
 export default function Footer() {
   return (
     <footer className="site-footer">
       <div className="container">
         <div className="row justify-content-between">
-          <div className="col-sm-12 col-md-6">
+        <div className='col-sm-5 col-md-2'>
+              <img src={logo} alt='' className='imgg' />
+        </div>
+          <div className="col-sm-2 col-md-6">
             <h6>About</h6>
             <p className="text-justify">
               Women in Technology empowers women and young girls wanting to
@@ -24,7 +29,7 @@ export default function Footer() {
             </p>
           </div>
 
-          <div className="col-xs-6 col-md-3">
+          <div className="col-sm-2 col-md-28">
             <h6>Quick Links</h6>
             <ul className="footer-links">
               <li>
