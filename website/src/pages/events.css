@@ -15,3 +15,25 @@
 .eventLink{
     text-decoration: none;
 }
+
+
+.cardevent{
+    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+/* .cardpara{
+    margin-top: 13px;
+    margin-bottom:20px;
+    margin-left: 5px;
+    margin-right: 5px;
+} */
+
+@media screen and (max-width: 758px) {
+    .cardevent{
+        flex-direction: column;
+        display: grid;
+        grid-template-columns:  1fr;
+    }
+ }
