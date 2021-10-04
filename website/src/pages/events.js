@@ -24,7 +24,6 @@ export default function EventsPage() {
   const classes = useStyles();
 
   return (
-     <div>
       <h1 className="eventHeading" style={{ paddingTop: 60 }}>
       Events/Programs
     </h1>
@@ -33,21 +32,25 @@ export default function EventsPage() {
     <Card className={classes.root}>
       <CardActionArea>
         <CardContent>
-        <a href = {a.link} target="_blank">
+        <a href = {a.link}   
+          style={{
+              color: "inherit",
+              textDecoration: "underline",
+              fontWeight: "bold",
+            }}
+          target="_blank"
+          rel="noreferrer"
+        >
           <Typography gutterBottom variant="h5" component="h2">
            {a.topic}
           </Typography>
-           </a>
-          
+           </a>        
         </CardContent>
       </CardActionArea>
     </Card>
 ))}
+</div>
 
-</div>
- 
-</div>
-  );
 }
 
 
