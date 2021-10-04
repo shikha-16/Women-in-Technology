@@ -33,9 +33,9 @@ export default function ResourcesComponent() {
             return null;
           })}
         </div>
-        {/*changed links color from dark blue to light blue for 
-        better visibility.*/}
+
         <div className="see-more">
+
           <a href="/articless" style={{ color: "inherit", fontWeight: "bold" }}>
             <h4>See More &gt; </h4>
           </a>
@@ -55,7 +55,9 @@ export default function ResourcesComponent() {
         </div>
 
         <div className="see-more">
+
           <a href="/github" style={{ color: "inherit", fontWeight: "bold" }}>
+
             <h4>See More &gt; </h4>
           </a>
         </div>

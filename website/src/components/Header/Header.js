@@ -35,6 +35,7 @@ export default function Header() {
                 >
                     <span className='navbar-toggler-icon' />
                 </button>
+
         <div
           className="collapse navbar-collapse my-2 my-lg-0"
           id="navbarSupportedContent"
@@ -128,9 +129,6 @@ export default function Header() {
                 Contribute
               </a>
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a className="dropdown-item" href="/beginners">
-                  Beginners
-                </a>
                 <a className="dropdown-item" href="/contributing">
                   Guidelines
                 </a>

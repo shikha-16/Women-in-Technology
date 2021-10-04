@@ -143,7 +143,7 @@ export default function ScholarshipComponent() {
                   Google Conference and Travel Scholarships
                 </a>
               </h4>
-              <p className="information">
+              <p>
                 At Google, we believe a diversity of attributes, experiences,
                 and perspectives are needed to build tools that can change the
                 world. Everyone deserves an opportunity to pursue connections in
@@ -176,8 +176,7 @@ export default function ScholarshipComponent() {
                   Adobe Research Women-in-Technology Scholarship
                 </a>
               </h4>
-
-              <p className="information">
+              <p>
                 To bring more gender diversity to the technology industry, we
                 are pleased to invite applications to the Adobe Research
                 Women-in-Technology Scholarship. The Adobe Research
@@ -252,7 +251,7 @@ export default function ScholarshipComponent() {
                   Adobe India Women-in-Technology Scholarship
                 </a>
               </h4>
-              <p className="information">
+              <p>
                 Through the Adobe India Women-in-Technology Scholarship, we are
                 striving towards creating gender equality in science, technology
                 and engineering domains by encouraging women to showcase their
@@ -269,6 +268,7 @@ export default function ScholarshipComponent() {
                   setHovered([{ ...hovered, hovered5: false }])
                 }
               >
+
                 <a
                   href="https://www.palantir.com/students/scholarship/global-impact/"
                   target="_blank"
@@ -281,8 +281,6 @@ export default function ScholarshipComponent() {
                   Palantir Global Impact Scholarship
                 </a>
               </h4>
-
-              <p className="information">
                 Palantir has launched the Global Impact Scholarship to celebrate
                 and support students from across the globe who are beginning
                 careers in technology. We hope to encourage these students in
@@ -350,6 +348,7 @@ export default function ScholarshipComponent() {
                   setHovered([{ ...hovered, hovered6: false }])
                 }
               >
+
                 <a
                   href="https://www.nutanix.com/scholarships"
                   target="_blank"
@@ -362,8 +361,7 @@ export default function ScholarshipComponent() {
                   Nutanix Heart Women in Technology Scholarship
                 </a>
               </h4>
-
-              <p className="information">
+              <p>
                 Nutanix strongly believes in the power of diversity and we want
                 to increase the ratio of women on our engineering teams. So,
                 we’re creating scholarships to help young women develop the
@@ -383,6 +381,7 @@ export default function ScholarshipComponent() {
                   setHovered([{ ...hovered, hovered7: false }])
                 }
               >
+
                 <a
                   href="https://ghc.anitab.org/scholarships-2/"
                   target="_blank"
@@ -396,7 +395,9 @@ export default function ScholarshipComponent() {
                 </a>
               </h4>
 
-              <p className="information">
+           
+              <p>
+
                 The GHC Scholars Program provides funds for women who are either
                 undergraduate students, graduate students, or faculty to attend
                 our Celebration. Women who get selected as scholars gain access

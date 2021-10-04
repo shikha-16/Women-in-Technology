@@ -13,7 +13,6 @@ import infographics from "./pages/infographics";
 import CommunityPage from "./pages/community";
 import ContributingPage from "./pages/contributing";
 import GithubPage from "./pages/github";
-import BeginnersPage from "./pages/beginners";
 import EventsPage from "./pages/events";
 
 import ScrollButton from "./components/Scroll/ScrollButton";
@@ -34,7 +33,6 @@ function App() {
           <Route path="/inspirations" exact component={inspirations} />
           <Route path="/contributing" exact component={ContributingPage} />
           <Route path="/github" exact component={GithubPage} />
-          <Route path="/beginners" exact component={BeginnersPage} />
           <Route path="/events" exact component={EventsPage} />
         </Switch>
         <Footer />
