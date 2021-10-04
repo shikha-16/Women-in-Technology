@@ -281,6 +281,7 @@ export default function ScholarshipComponent() {
                   Palantir Global Impact Scholarship
                 </a>
               </h4>
+              <p>
                 Palantir has launched the Global Impact Scholarship to celebrate
                 and support students from across the globe who are beginning
                 careers in technology. We hope to encourage these students in
@@ -290,6 +291,7 @@ export default function ScholarshipComponent() {
                 historically underrepresented in the field of technology to
                 apply.
               </p>
+             
             </div>
             <div className="col-md-4 order-first order-md-last">
               <div className="card">

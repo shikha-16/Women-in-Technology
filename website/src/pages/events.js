@@ -24,10 +24,10 @@ export default function EventsPage() {
   const classes = useStyles();
 
   return (
+<div className="cardevent">
       <h1 className="eventHeading" style={{ paddingTop: 60 }}>
       Events/Programs
     </h1>
-<div className="cardevent">
 {eventList.map((a, i) => (
     <Card className={classes.root}>
       <CardActionArea>
@@ -51,6 +51,7 @@ export default function EventsPage() {
 ))}
 </div>
 
+  )
 }
 
 
