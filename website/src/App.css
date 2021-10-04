@@ -7,8 +7,10 @@
 }
 
 :root {
-  --gray: rgba(29, 28, 28);
+  --gray: rgb(29, 28, 28);
   --white: white;
+  --black: black;
+
 }
 
 body.light{
@@ -29,7 +31,6 @@ body {
   font-weight: var(--font-weight);
   transition: backgrounf 0.3s ease-in-out, color 0.6s ease-in-out;
 }
-
 nav{
   background: var(--text-color);
 }
