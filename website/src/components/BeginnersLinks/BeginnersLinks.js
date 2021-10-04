@@ -13,6 +13,7 @@ export default function BeginnersLinks() {
         <a
           href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/Fifth%20Session"
           target="_blank"
+          rel="noreferrer noopener"
           rel="noreferrer"
           className="BeginnersLinks__github-link"
         >
@@ -22,6 +23,7 @@ export default function BeginnersLinks() {
         <a
           href="https://opensource.guide/how-to-contribute/"
           target="_blank"
+          rel="noreferrer noopener"
           rel="noreferrer"
           className="BeginnersLinks__open-source-link"
         >
