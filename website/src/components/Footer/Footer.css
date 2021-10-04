@@ -33,7 +33,7 @@
   display: block;
 }
 .footer-links a {
-  color: black ;
+  color: black;
 }
 .footer-links a:active,
 .footer-links a:focus,
@@ -47,6 +47,23 @@
 .site-footer .social-icons {
   text-align: right;
 }
+
+.imgg {
+  width: 100px;
+  height: 100px;
+  margin-left: 8px;
+}
+
+.coll {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 0px;
+margin-right: 4px;
+  width:10px;
+ 
+  
+}
+
 .site-footer .social-icons a {
   width: 40px;
   height: 40px;
@@ -108,7 +125,8 @@
 .social-icons a:focus,
 .social-icons a:hover {
   color: #fff;
-  background-color: #29aafe;
+  /*changed color to match black background*/
+  background-color: #000;
 }
 .social-icons.size-sm a {
   line-height: 34px;

@@ -1,21 +1,28 @@
-#darkMode{
-    background: transparent url(./images/others/moon.png) no-repeat center;
-    background-size: 25px 25px;
-    width: 25px;
-    height: 25px;
-    filter: grayscale(100%); 
-    border: none;
-    border-radius: 50%;
-    transition: background-color 0.3s ease-in-out, filter 0.3s ease-in-out;
+#darkMode {
+  background: transparent url(./images/others/moon.png) no-repeat center;
+  background-size: 25px 25px;
+  width: 25px;
+  height: 25px;
+  filter: grayscale(100%);
+  border: none;
+  border-radius: 50%;
+  padding-bottom: 6px;
+  transition: background-color 0.3s ease-in-out, filter 0.3s ease-in-out;
 }
-
+/*added padding to align dark icon to center because padding-bottom
+doesn't work in firefox*/
+@supports (-moz-appearance: none) {
+  #darkMode {
+    padding-top: 18px;
+  }
+}
 #darkMode:hover,
 #darkMode:focus {
-    filter: none;
-    background-color: black;
-    cursor: pointer
+  filter: none;
+  background-color: black;
+  cursor: pointer;
 }
 #darkMode.clicked {
-    filter: none !important;
-    background-color: black;
+  filter: none !important;
+  background-color: black;
 }

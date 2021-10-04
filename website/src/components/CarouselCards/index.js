@@ -107,7 +107,9 @@ CarouselCards.propTypes = {
       image: PropTypes.node.isRequired,
       title: PropTypes.string.isRequired,
       alt: PropTypes.string,
-      description: PropTypes.string.isRequired,
+      /*changed description prop to not required since description props
+      is not passed */
+      description: PropTypes.string,
       link: PropTypes.string.isRequired,
     })
   ),

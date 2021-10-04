@@ -1,9 +1,8 @@
-import React from 'react';
-import Header from '../components/Header/Header';
-import ArticlesComponent from '../components/Articles/Articles';
-import Footer from '../components/Footer/Footer';
+import React from "react";
 
-import './resources.css';
+import ArticlesComponent from "../components/Articles/Articles";
+
+import "./resources.css";
 
 export default function ArticlesPage() {
   return (

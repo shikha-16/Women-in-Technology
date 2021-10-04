@@ -9,7 +9,7 @@ export const members = [
     {
         image: Neha,
         name: 'Neha Kalbande',
-        about: 'Full Stack Web & Android Developer, ML/AI Enthusiast',
+        about: ' ML/AI Enthusiast, Web & Android Developer,',
         contribution: 'Women In Technology Website Developer',
         github: 'https://github.com/nehakalbande/',
         linkedin: 'https://www.linkedin.com/in/neha-kalbande-314ab71a7/',

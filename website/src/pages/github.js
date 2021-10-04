@@ -1,9 +1,8 @@
-import React from 'react';
-import Header from '../components/Header/Header';
-import Githubcomponent from '../components/Github/Githubcomponent.js';
-import Footer from '../components/Footer/Footer';
+import React from "react";
 
-import './resources.css';
+import Githubcomponent from "../components/Github/Githubcomponent.js";
+
+import "./resources.css";
 
 export default function GithubPage() {
   return (

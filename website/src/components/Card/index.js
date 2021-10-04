@@ -23,7 +23,12 @@ export default function Card({
       </a>
       <div className="card-block__body">
         <div>
-          <a href={link} target="_blank" style={{ textDecoration: "none" }}>
+          <a
+            href={link}
+            target="_blank"
+            rel="noreferrer "
+            style={{ textDecoration: "none" }}
+          >
             <div className="card-block__title">{`${title}`}</div>
           </a>
           {/* <p className="card-block__desc">{title}</p> */}

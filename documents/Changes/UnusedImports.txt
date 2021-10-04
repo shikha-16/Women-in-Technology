@@ -1,0 +1,37 @@
+// IN App.js
+import { Fragment } from 'react';
+import { Content, Heading } from './components/Scroll/Styles';
+
+//IN CarouselComponent.js
+// change the carousel image here //
+import { Carousel } from "react-responsive-carousel";
+
+//IN src\components\ComputerScienceSection\index.js
+import image7 from '../../images/carousel-slider/image7.jpg';
+import image8 from '../../images/carousel-slider/8.png';
+import image9 from '../../images/carousel-slider/9.jpg';
+
+//IN src\components\Inspirational\Inspirational.js
+import Divider from "../Divider";
+
+//IN src\components\Scholarships\ScholarshipComponent.js
+import image1 from "../../images/scholarship/venkat.png";
+
+//IN src\data\organization.js
+import image17 from "../images/organization/develop.png";
+import image12 from "../images/organization/codewith.png";
+import image21 from "../images/organization/hacker-ramp.png";
+
+//IN src\pages\contributing.js
+import Separator from "../components/Separator";
+import BeginnersLinks from "../components/BeginnersLinks/BeginnersLinks";
+
+//IN src\pages\infographics.js
+import {CardActions,Box} from "@material-ui/core";
+
+//IN src\pages\inspirations.js,infographics.js, github.js,articles.js,
+organization.js,scholarship.js,src\components\Layout.js
+import Footer from '../components/Footer/Footer';
+import Header from '../components/Header/Header';
+
+

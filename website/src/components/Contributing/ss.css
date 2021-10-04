@@ -5,4 +5,12 @@
 
 .containerss {
   text-align: left;
+  /*Added margin-bottom to add spacing*/
+  margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 934px){
+.content{
+  padding: 40px;
+}
 }
