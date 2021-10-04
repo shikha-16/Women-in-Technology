@@ -142,11 +142,11 @@ export default function Inspirational() {
           <div className="rows">
             <img
               src={a.image}
+              alt=""
               style={{
                 height: "240px",
                 width: "240px",
                 marginTop: "10px",
-                // marginBottom: '5px',
                 marginLeft: "15px",
                 marginRight: "15px",
               }}
