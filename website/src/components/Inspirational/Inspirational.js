@@ -88,15 +88,14 @@ export default function Inspirational() {
         */}
         <div className="containerss">
           1.
-          {/*changed link's color to light blue to maintain 
-            contrast ratio*/}
+          {/*changed link's color to theme color as per requirements*/}
           <a
             href="https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf"
             target="_blank"
             rel="noreferrer "
-            style={{ color: "#00adff" }}
+            style={{ color: "inherit", fontWeight: "bold" }}
           >
-            A STUDY:Women in tech careers yearn for female role models and
+            A STUDY: Women in tech careers yearn for female role models and
             flexibility in the workplace
           </a>
         </div>
@@ -106,10 +105,10 @@ export default function Inspirational() {
             href="https://obamawhitehouse.archives.gov/women-in-stem"
             target="_blank"
             rel="noreferrer noopener"
-            style={{ color: "#00adff" }}
+            style={{ color: "inherit", fontWeight: "bold" }}
           >
             The Untold History of Women in Science and Technology
-          </a>
+          </a>{" "}
           : Listen to women from across the Administration tell the stories of
           their personal heroes across the fields of science, technology,
           engineering, and math (STEM). Share them yourself. Add your own. And
@@ -122,9 +121,9 @@ export default function Inspirational() {
             href="https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world"
             target="_blank"
             rel="noreferrer"
-            style={{ color: "#00adff" }}
+            style={{ color: "inherit", fontWeight: "bold" }}
           >
-            The Women Who Changed The Tech World
+            The Women Who Changed The Tech World :
           </a>
         </div>
       </div>
@@ -144,6 +143,7 @@ export default function Inspirational() {
           <div className="rows">
             <img
               src={a.image}
+              alt=""
               style={{
                 height: "240px",
                 width: "240px",
@@ -162,14 +162,18 @@ export default function Inspirational() {
           >
             {a.h31}
           </h5>
-          <p style={{ border: "20px", color: "black", marginLeft: "15px" }}>
+          <p style={{ border: "20px", color: "inherit", marginLeft: "15px" }}>
             {a.p1}
           </p>
           <p>
             <a
               target="_blank"
               rel="noreferrer "
-              style={{ color: "#00adff", marginLeft: "15px" }}
+              style={{
+                color: "inherit",
+                fontWeight: "bold",
+                marginLeft: "15px",
+              }}
               href={a.li}
             >
               Read More
