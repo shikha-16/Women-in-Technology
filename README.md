@@ -170,29 +170,77 @@ The Carolyn Leighton Scholarship is offered to students in the APAC region to at
 
 ## Tech Events and Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
+ Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition. The top 150 on the scoreboard will receive a ticket and a stipend to participate in virtual Google I/O.
+
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
+STEP (Student Training in Engineering Program), formerly known as Engineering Practicum, is a 12-week internship for first and second-year undergraduate students with a passion for computer science.
+
 3. [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
+GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors. Top participants get exciting goodies and opportunities.
+
 4. [Google Summer of Code](https://summerofcode.withgoogle.com/)
+Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project.
+
 5. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
+Indeed invites women developers to join the coding sprint. This event gives women an opportunity to showcase their skills by solving real-world problems and win some cool prizes. The coding sprint is an online event and includes several open-ended problem statements related to Indeed business.
+
 6. [Outreachy](https://www.outreachy.org/)
+Outreachy is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.
+
 7. [DE Shaw Ascend](https://www.deshawindia.com/desis-ascend-educare/about.pdf)
-8. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
-9. [HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) 
-10. [Society of Women Engineers India](https://india.swe.org/)
-11. Twitter DevelopHER
-12. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
-13. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
-14. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
-15. Microsoft Engage (previously Codess)
-16. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
-17. [Flipkart Girls Wanna Code](https://dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093)
-18. [LinkedIn CoachIn Program](https://coachin2021.splashthat.com/)
-19. [Alexa Student Influencers](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)
-20. [WomenTechmakers Ambassador](https://www.womentechmakers.com/ambassadors)
-21. [Google Developer Student Clubs](https://developers.google.com/community/gdsc)
-22. [Microsoft Student Learn Ambassadors Program](https://studentambassadors.microsoft.com/)
-23. [MLH Fellowship](https://fellowship.mlh.io/)
-24. [Github Campus Expert](https://education.github.com/experts)
+This fellowships include an introduction to their firm, insights into rigorous approach to finance, and several professional and social networking opportunities.
+
+8. [Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html)
+An initiative to identify women from target campuses across India, understand their interests and provide a perspective on what it takes to have a successful career in the financial services sector. Applicable for 27 institutes mentioned in the website.
+
+9. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
+Diversity and inclusion program by Intuit
+
+10. [HackerRamp: WeForShe](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942) 
+This is an opportunity for all women coders from engineering colleges across the country to create and innovate through technology.
+
+11. [Society of Women Engineers India](https://india.swe.org/)
+Be part of a global network of thousands of women engineers and partners who want to help you excel as an engineer and leader.
+
+12. Twitter DevelopHER
+13. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
+Hackathon for Women.
+14. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
+International Women’s Day Hackathon.
+
+15. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
+Visa Code UR Way to solve algorithm coding challenges, win exciting prizes and stand a chance to win an all-expenses-paid trip to meet to Visa team in Bangalore! Visa is recruiting students for internship and new graduate engineering opportunities. 
+
+16. Microsoft Engage (previously Codess)
+
+17. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
+To promote the advancement of women at Uber through our network, access to leadership, professional development, and peer mentoring.
+
+18. [Flipkart Girls Wanna Code](https://dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093)
+It is an initiative that started out in 2018 with an objective to promote women's tech talent and give them an opportunity to work with the best minds in technology in India. The initiative aims to target women's tech talent outside premier technology campuses like IITs, NITs, etc. to ensure more equitable participation.
+
+19. [LinkedIn CoachIn Program](https://coachin2021.splashthat.com/)
+ Opportunity to network with senior leaders in the industry and women students from engineering colleges across India and get chance for interview.
+
+20. [Alexa Student Influencers](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)
+The Alexa Student Influencers Program is a campus connect program that aims to form a network of like-minded students across India. 
+
+21. [WomenTechmakers Ambassador](https://www.womentechmakers.com/ambassadors)
+Women Techmakers Ambassadors are community leaders around the world passionate about achieving gender parity in technology. 
+
+22. [Google Developer Student Clubs](https://developers.google.com/community/gdsc)
+Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.
+
+23. [Microsoft Student Learn Ambassadors Program](https://studentambassadors.microsoft.com/)
+Student Ambassadors get access to unique resources like our global student network on Microsoft Teams and a Microsoft 365 account, and can earn badges for activities and contributions to unlock additional benefits such as cloud credits.
+24. [MLH Fellowship](https://fellowship.mlh.io/)
+The MLH Fellowship is a remote internship alternative for aspiring technologists. Spend 12 weeks building your skills by collaborating on real-world projects.
+
+25. [Github Campus Expert](https://education.github.com/experts)
+Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects.
+
+26. [Women Who Code: Delhi](https://www.womenwhocode.com/delhi)
+Opportunity to empower women to excel in technology careers.
 
 
 _Keep a lookout for these events every year! These links may be unavailable because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results.  I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
