@@ -24,6 +24,7 @@ export default function EventsPage() {
   const classes = useStyles();
 
   return (
+    <>
       <h1 className="eventHeading" style={{ paddingTop: 60 }}>
       Events/Programs
     </h1>
@@ -50,6 +51,7 @@ export default function EventsPage() {
     </Card>
 ))}
 </div>
+</>
 
 }
 

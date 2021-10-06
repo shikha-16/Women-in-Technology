@@ -268,7 +268,6 @@ export default function ScholarshipComponent() {
                   setHovered([{ ...hovered, hovered5: false }])
                 }
               >
-
                 <a
                   href="https://www.palantir.com/students/scholarship/global-impact/"
                   target="_blank"
@@ -281,6 +280,7 @@ export default function ScholarshipComponent() {
                   Palantir Global Impact Scholarship
                 </a>
               </h4>
+              <p>
                 Palantir has launched the Global Impact Scholarship to celebrate
                 and support students from across the globe who are beginning
                 careers in technology. We hope to encourage these students in
@@ -348,7 +348,6 @@ export default function ScholarshipComponent() {
                   setHovered([{ ...hovered, hovered6: false }])
                 }
               >
-
                 <a
                   href="https://www.nutanix.com/scholarships"
                   target="_blank"
@@ -381,7 +380,6 @@ export default function ScholarshipComponent() {
                   setHovered([{ ...hovered, hovered7: false }])
                 }
               >
-
                 <a
                   href="https://ghc.anitab.org/scholarships-2/"
                   target="_blank"
@@ -395,9 +393,7 @@ export default function ScholarshipComponent() {
                 </a>
               </h4>
 
-           
               <p>
-
                 The GHC Scholars Program provides funds for women who are either
                 undergraduate students, graduate students, or faculty to attend
                 our Celebration. Women who get selected as scholars gain access
