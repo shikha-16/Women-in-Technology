@@ -11,7 +11,7 @@ import Layout from '../components/Layout';
 import './index.css';
 import CarouselComponent from '../components/CarouselComponent/CarouselComponent';
 import Divider from '../components/Divider';
-import ComputerScienceSection from '../components/ComputerScienceSection';
+// import ComputerScienceSection from '../components/ComputerScienceSection';
 
 export default function IndexPage() {
   return (
@@ -31,8 +31,8 @@ export default function IndexPage() {
         </div>
       </div>
       <Divider />
-      <ComputerScienceSection />
-      <Divider />
+      {/* <ComputerScienceSection />
+      <Divider /> */}
       <div style={{ marginTop: '60px' }}>
         <h3 style={{ textAlign: 'center' }} className="h33">
           Why Women In Technology?

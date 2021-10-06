@@ -72,7 +72,7 @@ export default function Header() {
                   Infographics
                 </a>
                 <a className="dropdown-item" href="/resources">
-                  Other Resources
+                  Study Resources
                 </a>
                 <a className="dropdown-item" href="/events">
                   Events/Programs

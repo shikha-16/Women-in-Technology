@@ -7,6 +7,7 @@ import Divider from "../Divider";
 // image
 import image from "../../images/social/github.png";
 
+
 export default function ResourcesComponent() {
   return (
     <div className="resources">
@@ -21,7 +22,7 @@ export default function ResourcesComponent() {
           <h1>World of CS Page &gt; </h1>
         </Link>
       </div> */}
-
+      <Divider />
       <div className="articles">
         <h1>Articles & Blogs</h1>
 
