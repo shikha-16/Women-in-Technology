@@ -92,7 +92,7 @@ export default function Inspirational() {
             href="https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf"
             target="_blank"
             rel="noreferrer "
-            style={{ color: "inherit" }}
+            style={{ color: "inherit", fontWeight: "bold" }}
           >
             A STUDY:Women in tech careers yearn for female role models and
             flexibility in the workplace
@@ -104,7 +104,7 @@ export default function Inspirational() {
             href="https://obamawhitehouse.archives.gov/women-in-stem"
             target="_blank"
             rel="noreferrer noopener"
-            style={{ color: "inherit" }}
+            style={{ color: "inherit", fontWeight: "bold" }}
           >
             The Untold History of Women in Science and Technology
           </a>
@@ -120,7 +120,7 @@ export default function Inspirational() {
             href="https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world"
             target="_blank"
             rel="noreferrer "
-            style={{ color: "inherit" }}
+            style={{ color: "inherit", fontWeight: "bold" }}
           >
             The Women Who Changed The Tech World
           </a>
@@ -161,14 +161,18 @@ export default function Inspirational() {
           >
             {a.h31}
           </h5>
-          <p style={{ border: "20px", color: "black", marginLeft: "15px" }}>
+          <p style={{ border: "20px", color: "inherit", marginLeft: "15px" }}>
             {a.p1}
           </p>
           <p>
             <a
               target="_blank"
               rel="noreferrer "
-              style={{ color: "inherit", marginLeft: "15px" }}
+              style={{
+                color: "inherit",
+                fontWeight: "bold",
+                marginLeft: "15px",
+              }}
               href={a.li}
             >
               Read More
