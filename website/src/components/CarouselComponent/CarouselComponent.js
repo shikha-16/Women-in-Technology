@@ -27,7 +27,10 @@ export default function ControlledCarousel() {
           </a>
         </div>
         <div className="carousel-item">
-          <img src={slide4} className="d-block w-100" alt="..." id="logss" />
+          {/*removed id="logss" because it was causing first image to
+            become small
+          */}
+          <img src={slide4} className="d-block w-100" alt="..." />
         </div>
       </div>
       <button
