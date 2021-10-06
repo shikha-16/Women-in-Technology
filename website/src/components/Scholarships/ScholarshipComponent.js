@@ -15,7 +15,6 @@ import image7 from "../../images/scholarship/ghc.png";
 import "../../DarkMode.css";
 
 export default function ScholarshipComponent() {
-  // const [hovered, setHovered] = useState(false);
   const [hovered, setHovered] = useState([{ hovered1: false }]);
   return (
     <div>
