@@ -150,6 +150,7 @@ export default function Inspirational() {
                 marginLeft: "15px",
                 marginRight: "15px",
               }}
+              alt=""
             />
             <div>
               <h3 style={{ marginLeft: "45px" }}>{a.h3}</h3>
