@@ -129,6 +129,9 @@ export default function Header() {
                 Contribute
               </a>
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a className="dropdown-item" href="/beginners">
+                  Beginners
+                </a>
                 <a className="dropdown-item" href="/contributing">
                   Guidelines
                 </a>

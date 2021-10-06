@@ -14,6 +14,7 @@ import CommunityPage from "./pages/community";
 import ContributingPage from "./pages/contributing";
 import GithubPage from "./pages/github";
 import EventsPage from "./pages/events";
+import BeginnersPage from "./pages/beginners";
 
 import ScrollButton from "./components/Scroll/ScrollButton";
 
@@ -34,6 +35,7 @@ function App() {
           <Route path="/contributing" exact component={ContributingPage} />
           <Route path="/github" exact component={GithubPage} />
           <Route path="/events" exact component={EventsPage} />
+          <Route path="/beginners" exact component={BeginnersPage} />
         </Switch>
         <Footer />
       </Router>
