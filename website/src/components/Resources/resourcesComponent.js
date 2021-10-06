@@ -35,7 +35,7 @@ export default function ResourcesComponent() {
         </div>
 
         <div className="see-more">
-          <a href="/articless" style={{ color: "blue" }}>
+          <a href="/articless" style={{ color: "inherit", fontWeight: "bold" }}>
             <h4>See More &gt; </h4>
           </a>
         </div>
@@ -54,7 +54,7 @@ export default function ResourcesComponent() {
         </div>
 
         <div className="see-more">
-          <a href="/github" style={{ color: "blue" }}>
+          <a href="/github" style={{ color: "inherit", fontWeight: "bold" }}>
             <h4>See More &gt; </h4>
           </a>
         </div>
