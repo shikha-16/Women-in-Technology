@@ -9,7 +9,7 @@ import ResourcesPage from "./pages/resources";
 import OrganisationComponent from "./pages/organization";
 import inspirations from "./pages/inspirations";
 import ArticlesPage from "./pages/articles";
-import infographics from "./pages/infographics";
+// import infographics from "./pages/infographics";
 import CommunityPage from "./pages/community";
 import ContributingPage from "./pages/contributing";
 import GithubPage from "./pages/github";
@@ -27,7 +27,7 @@ function App() {
           <Route path="/scholarship" exact component={ScholarshipPage} />
           <Route path="/resources" exact component={ResourcesPage} />
           <Route path="/organisation" exact component={OrganisationComponent} />
-          <Route path="/infographics" exact component={infographics} />
+          {/* <Route path="/infographics" exact component={infographics} /> */}
           <Route path="/articless" exact component={ArticlesPage} />
           <Route path="/community" exact component={CommunityPage} />
           <Route path="/inspirations" exact component={inspirations} />

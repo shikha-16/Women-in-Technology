@@ -3,6 +3,7 @@ import "./resourcesStyles.css";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import { GithubRepos } from "../../data/githubRepo";
 import { blogs } from "../../data/blogs";
+import Infographic from "../../components/inforgraphic/infographics"
 import Divider from "../Divider";
 // image
 import image from "../../images/social/github.png";
@@ -28,7 +29,7 @@ export default function ResourcesComponent() {
 
         <div>
           {blogs.map((blog, index) => {
-            if (index < 9) {
+            if (index < 4) {
               return <ArticleContainer blog={blog} key={index} />;
             }
             return null;
@@ -49,7 +50,8 @@ export default function ResourcesComponent() {
 
         <div>
           {GithubRepos.map((repo, index) => {
-            if (index < 9) return <GithubRepoStar key={index} repo={repo} />;
+            if (index < 4) return <GithubRepoStar key={index} repo={repo} />;
+           
             return null;
           })}
         </div>
@@ -60,24 +62,27 @@ export default function ResourcesComponent() {
           </a>
         </div>
       </div>
+      <Divider />
+      <Infographic />
     </div>
+    
   );
 }
 
 const GithubRepoStar = ({ repo }) => (
-  <div className="card mb-5">
-    <div className="row no-gutters">
-      <div className="col-md-4">
-        <div className="card img-box">
+  <div className="row justify-content-center">
+    <div className="col-md-6">
+    <div className="card border border-dark  p-3 mb-5">
+       <div className="card img-box">
           <img
             src={image}
             className="card-img-top"
             alt="title"
-            style={{ width: "60%", height: "30%" }}
+            // style={{ width: "60%", height: "30%" }}
           />
         </div>
-      </div>
-      <div className="col-md-8 article-details">
+     
+     
         <div className="card-body">
           <a href={repo.link} target="_blank" rel="noreferrer">
             <h3 className="card-title title">{repo.name}</h3>
@@ -86,35 +91,41 @@ const GithubRepoStar = ({ repo }) => (
             {repo.excerpt}
           </p>
         </div>
-      </div>
+      
     </div>
   </div>
+    </div>
+ 
 );
 
 const ArticleContainer = ({ blog }) => (
-  <div className="card mb-5">
-    <div className="row no-gutters">
-      <div className="col-md-4">
-        <div className="card img-box">
-          <img
-            src={blog.image}
-            className="card-img-top"
-            alt={blog.title}
-            style={{ width: "60%", height: "30%" }}
-          />
-        </div>
-      </div>
-      <div className="col-md-8 article-details">
-        <div className="card-body">
-          <a href={blog.link} target="_blank" rel="noreferrer">
-            <h3 className="card-title title">{blog.title}</h3>
-          </a>
-          <p className="card-text" style={{ color: "black" }}>
-            {blog.author}
-          </p>
-          {/* <cite title="Author Name">&nbsp;&nbsp;Thread * 10 Min Read</cite> */}
-        </div>
-      </div>
+ <div className="row justify-content-center">
+   <div className="col-md-6">
+   <div className="card border border-dark p-3 mb-5">
+    
+     
+    <div className="card img-box">
+      <img
+        src={blog.image}
+        className="d-block w-100 card-img-top"
+        alt={blog.title}
+        style={{ width: "60%", height: "25%" }}
+      />
     </div>
-  </div>
+ 
+ 
+    <div className="card-body">
+      <a href={blog.link} target="_blank" rel="noreferrer">
+        <h3 className="card-title title">{blog.title}</h3>
+      </a>
+      <p className="card-text" style={{ color: "black" }}>
+        {blog.author}
+      </p>
+      {/* <cite title="Author Name">&nbsp;&nbsp;Thread * 10 Min Read</cite> */}
+    </div>
+  
+</div>
+
+   </div>
+ </div>
 );

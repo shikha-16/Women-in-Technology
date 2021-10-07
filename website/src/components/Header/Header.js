@@ -68,9 +68,9 @@ export default function Header() {
                 <a className="dropdown-item" href="/scholarship">
                   Scholarships
                 </a>
-                <a className="dropdown-item" href="/infographics">
+                {/* <a className="dropdown-item" href="/infographics">
                   Infographics
-                </a>
+                </a> */}
                 <a className="dropdown-item" href="/resources">
                   Study Resources
                 </a>
