@@ -27,7 +27,7 @@ export default function ControlledCarousel() {
           </a>
         </div>
         <div className="carousel-item">
-          <img src={slide4} className="d-block w-100" alt="..." id="logss" />
+          <img src={slide4} className="d-block w-100" alt="..." />
         </div>
       </div>
       <button

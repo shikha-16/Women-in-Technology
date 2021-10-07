@@ -28,6 +28,7 @@ export default function EventsPage() {
       <h1 className="eventHeading" style={{ paddingTop: 60 }}>
       Events/Programs
     </h1>
+    <div className="cardevent">
 {eventList.map((a, i) => (
     <Card className={classes.root}>
       <CardActionArea>
@@ -42,10 +43,9 @@ export default function EventsPage() {
       </CardActionArea>
     </Card>
 ))}
+</div>
 
 </div>
  
   )
 }
-
-
