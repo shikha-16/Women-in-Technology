@@ -6,7 +6,9 @@ export const textToLink = (text) => {
 
   const parsedText = text.replace(
     linkRegex,
-    `<a href="${matched.groups.url}" target="_blank" rel="noreferrer">${
+    `<a href="${
+      matched.groups.url
+    }" target="_blank" rel="noreferrer" style="color:inherit;fontWeight:bold">${
       matched.groups.text || matched.groups.url
     }</a>`
   );
