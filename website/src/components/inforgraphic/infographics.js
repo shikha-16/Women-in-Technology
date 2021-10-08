@@ -17,7 +17,7 @@ import image3 from "../../images/carousel-slider/1.png";
 import image4 from "../../images/carousel-slider/4.png";
 import image5 from "../../images/carousel-slider/6.png";
 
-const infos = [
+const infos1 = [
   {
     image: image1,
     linkk: pdf1,
@@ -28,6 +28,10 @@ const infos = [
     linkk: pdf2,
     desc: "Cyber Security",
   },
+  
+];
+const infos2 = [
+  
   {
     image: image3,
     linkk: pdf3,
@@ -38,20 +42,25 @@ const infos = [
     linkk: pdf4,
     desc: "Open Source Projects",
   },
-  {
-    image: image5,
-    linkk: pdf5,
-    desc: "Software Engineering",
-  },
+  // {
+  //   image: image5,
+  //   linkk: pdf5,
+  //   desc: "Software Engineering",
+  // },
 ];
 
 export default function infographics() {
   return (
     <div className="about">
+       <h1>Infographics</h1>
       {/* <Header /> */}
       {/* <CarouselComponent /> */}
-      {infos.map((a, i) => (
-        <Card className="mycard">
+      
+       <div className="row">
+       {infos1.map((a, i) => (
+      
+         <div className="col-md-6">
+         <Card className="mycard  p-3 border border-dark">
           <CardContent className="mycard-inner">
             <div className="teams-name">
               <img src={a.image} alt="" style={{ width: "50%" }} />
@@ -74,7 +83,41 @@ export default function infographics() {
             </div>
           </CardContent>
         </Card>
-      ))}
+         </div>
+         ))}
+        {infos2.map((a,i)=>(
+          <div className="col-md-6">
+          <Card className="mycard  p-3 border border-dark">
+           <CardContent className="mycard-inner">
+             <div className="teams-name">
+               <img src={a.image} alt="" style={{ width: "50%" }} />
+             </div>
+             <Divider orientation="vertical" flexItem />
+             <div className="main-time-div">
+               <div>
+                 <h4 className="has">{a.desc}</h4>
+                 <a
+                   href={a.linkk}
+                   style={{ color: "blue" }}
+                   target="_blank"
+                   rel="noreferrer noopener"
+                   download
+                 >
+                   {" "}
+                   Download Pdf
+                 </a>
+               </div>
+             </div>
+           </CardContent>
+         </Card>
+          </div>
+        ))}
+        
+        
+      
+    
+       </div>
+      
       {/* <Footer /> */}
     </div>
   );
