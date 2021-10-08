@@ -28,17 +28,17 @@ export default function ResourcesComponent() {
         <h1>Articles & Blogs</h1>
 
         <div className="row">
-          <div className="col-md-6">
+          <div className="col-md-6 justify-content-center">
           {blogs.map((blog, index) => {
-            if (index < 4) {
+            if (index < 2) {
               return <ArticleContainer blog={blog} key={index} />;
             }
             return null;
           })}
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6 justify-content-center">
           {blogs.map((blog, index) => {
-            if ((index>=4)&(index<9)) {
+            if ((index>=3)&(index<5)) {
               return <ArticleContainer blog={blog} key={index} />;
             }
             return null;
@@ -61,15 +61,15 @@ export default function ResourcesComponent() {
         <h1>GITHUB Repositories to Star</h1>
 
         <div className="row">
-          <div className="col-md-6">
+          <div className="col-md-6 justify-content-center">
           {GithubRepos.map((repo, index) => {
-            if (index < 4) return <GithubRepoStar key={index} repo={repo} />;
+            if (index < 2) return <GithubRepoStar key={index} repo={repo} />;
             return null;
           })}
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6 justify-content-center">
           {GithubRepos.map((repo, index) => {
-            if ((index>=4)&(index<8)) return <GithubRepoStar key={index} repo={repo} />;
+            if ((index>=3)&(index<5)) return <GithubRepoStar key={index} repo={repo} />;
             return null;
           })}
           </div>
@@ -91,7 +91,7 @@ export default function ResourcesComponent() {
 const GithubRepoStar = ({ repo }) => (
   
    
-    <div className="card github-card border border-dark  p-3 my-3">
+    <div className="card text-align-center github-card border border-dark  p-3 my-3">
        <div className="card img-box">
           <img
             src={image}
@@ -120,13 +120,13 @@ const GithubRepoStar = ({ repo }) => (
 
 const ArticleContainer = ({ blog }) => (
   
-   <div className="card article-card border border-dark p-3 my-3">
+   <div className="card text-align-center article-card border border-dark p-3 m-3">
   <div className="row">  
    <div className="col-4">
    <div className="card img-box">
       <img
         src={blog.image}
-        className="d-block w-100 card-img-top m-2"
+        className="d-block w-100 card-img-top my-3 mx-3"
         alt={blog.title}
         
       />
