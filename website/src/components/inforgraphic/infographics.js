@@ -52,7 +52,7 @@ const infos2 = [
 export default function infographics() {
   return (
     <div className="about">
-       <h1>Infographics</h1>
+       <h1 className="p-3">Infographics</h1>
       {/* <Header /> */}
       {/* <CarouselComponent /> */}
       
@@ -60,10 +60,10 @@ export default function infographics() {
        {infos1.map((a, i) => (
       
          <div className="col-md-6">
-         <Card className="mycard  p-3 border border-dark">
+         <Card className="mycard m-3 p-3 border border-dark">
           <CardContent className="mycard-inner">
             <div className="teams-name">
-              <img src={a.image} alt="" style={{ width: "50%" }} />
+              <img src={a.image} alt="" style={{ width: "70%" }} />
             </div>
             <Divider orientation="vertical" flexItem />
             <div className="main-time-div">
@@ -86,11 +86,11 @@ export default function infographics() {
          </div>
          ))}
         {infos2.map((a,i)=>(
-          <div className="col-md-6">
-          <Card className="mycard  p-3 border border-dark">
+          <div className="col-md-6 ">
+          <Card className="mycard m-3 p-3 border border-dark">
            <CardContent className="mycard-inner">
              <div className="teams-name">
-               <img src={a.image} alt="" style={{ width: "50%" }} />
+               <img src={a.image} alt="" style={{ width: "70%" }} />
              </div>
              <Divider orientation="vertical" flexItem />
              <div className="main-time-div">

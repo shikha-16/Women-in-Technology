@@ -1,9 +1,10 @@
 .mycard {
-    max-width: 800px;
+    /* max-width: 800px;
     margin-top: 30px;
     margin-left: 20%;
     margin-right: 20%;
-    margin-bottom: 2%;
+    margin-bottom: 2%; */
+    height: 18rem;
 }
 
 .mycard-inner {

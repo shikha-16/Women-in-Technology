@@ -27,13 +27,25 @@ export default function ResourcesComponent() {
       <div className="articles">
         <h1>Articles & Blogs</h1>
 
-        <div>
+        <div className="row">
+          <div className="col-md-6">
           {blogs.map((blog, index) => {
             if (index < 4) {
               return <ArticleContainer blog={blog} key={index} />;
             }
             return null;
           })}
+          </div>
+          <div className="col-md-6">
+          {blogs.map((blog, index) => {
+            if ((index>=4)&(index<9)) {
+              return <ArticleContainer blog={blog} key={index} />;
+            }
+            return null;
+          })}
+          </div>
+
+         
         </div>
 
         <div className="see-more">
@@ -48,12 +60,19 @@ export default function ResourcesComponent() {
       <div className="articles">
         <h1>GITHUB Repositories to Star</h1>
 
-        <div>
+        <div className="row">
+          <div className="col-md-6">
           {GithubRepos.map((repo, index) => {
             if (index < 4) return <GithubRepoStar key={index} repo={repo} />;
-           
             return null;
           })}
+          </div>
+          <div className="col-md-6">
+          {GithubRepos.map((repo, index) => {
+            if ((index>=4)&(index<8)) return <GithubRepoStar key={index} repo={repo} />;
+            return null;
+          })}
+          </div>
         </div>
 
         <div className="see-more">
@@ -70,9 +89,9 @@ export default function ResourcesComponent() {
 }
 
 const GithubRepoStar = ({ repo }) => (
-  <div className="row justify-content-center">
-    <div className="col-md-6">
-    <div className="card border border-dark  p-3 mb-5">
+  
+   
+    <div className="card github-card border border-dark  p-3 my-3">
        <div className="card img-box">
           <img
             src={image}
@@ -93,28 +112,30 @@ const GithubRepoStar = ({ repo }) => (
         </div>
       
     </div>
-  </div>
-    </div>
+   
+    
+  
  
 );
 
 const ArticleContainer = ({ blog }) => (
- <div className="row justify-content-center">
-   <div className="col-md-6">
-   <div className="card border border-dark p-3 mb-5">
-    
-     
-    <div className="card img-box">
+  
+   <div className="card article-card border border-dark p-3 my-3">
+  <div className="row">  
+   <div className="col-4">
+   <div className="card img-box">
       <img
         src={blog.image}
-        className="d-block w-100 card-img-top"
+        className="d-block w-100 card-img-top m-2"
         alt={blog.title}
-        style={{ width: "60%", height: "25%" }}
+        
       />
     </div>
+    </div>  
+    
  
- 
-    <div className="card-body">
+   <div className="col-8">
+   <div className="card-body">
       <a href={blog.link} target="_blank" rel="noreferrer">
         <h3 className="card-title title">{blog.title}</h3>
       </a>
@@ -123,9 +144,10 @@ const ArticleContainer = ({ blog }) => (
       </p>
       {/* <cite title="Author Name">&nbsp;&nbsp;Thread * 10 Min Read</cite> */}
     </div>
-  
-</div>
-
    </div>
- </div>
+  
+    </div>
+  </div>
+
+   
 );

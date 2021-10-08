@@ -59,7 +59,12 @@ a {
     font-size: 1.5rem;
   }
 }
-
+.github-card{
+  min-height: 18rem;
+}
+.article-card{
+  height: 15rem;
+}
 .sociall-icons {
   position: absolute;
   margin-top: 500px;

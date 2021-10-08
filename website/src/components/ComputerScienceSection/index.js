@@ -69,8 +69,11 @@ export default function ComputerScienceSection() {
           style={{ marginTop: "20px" }}
         >
           <div className="col">
+            
             <CarouselCards cards={cards} name="cs-carousel" />
-          </div>
+         
+           
+           </div>
         </div>
       </div>
     </div>
