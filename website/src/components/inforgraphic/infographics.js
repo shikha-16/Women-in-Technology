@@ -75,8 +75,14 @@ export default function infographics() {
        {infos1.map((a, i) => (
       
          <div className="col-md-3">
-        
-         <Card className="mycard m-3 p-3 border border-dark" href={a.linkk}>
+        <a
+                  href={a.linkk}
+                  style={{ color: "blue" }}
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  download
+                >
+         <Card className="mycard m-3 p-3 border border-dark">
           <CardContent className="align-items-center mycard-inner">
             <div className="teams-name">
               <img src={a.image} alt="" style={{ width: "70%" }} />
@@ -99,7 +105,7 @@ export default function infographics() {
             </div>
           </CardContent>
         </Card>
-        
+        </a>
          </div>
          ))}
         {/* {infos2.map((a,i)=>(

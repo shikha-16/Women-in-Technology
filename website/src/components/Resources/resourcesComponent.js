@@ -90,8 +90,9 @@ export default function ResourcesComponent() {
 
 const GithubRepoStar = ({ repo }) => (
   
-   
+  <a href={repo.link} target="_blank" rel="noreferrer">
     <div className="card align-items-center text-align-center github-card border border-dark  p-3 my-3">
+      
        <div className="card img-box">
           <img
             src={image}
@@ -103,16 +104,16 @@ const GithubRepoStar = ({ repo }) => (
      
      
         <div className="card-body">
-          <a href={repo.link} target="_blank" rel="noreferrer">
+         
             <h3 className="card-title title">{repo.name}</h3>
-          </a>
+         
           <p className="card-text" style={{ color: "black" }}>
             {repo.excerpt}
           </p>
         </div>
-      
+       
     </div>
-   
+    </a>
     
   
  
@@ -120,13 +121,14 @@ const GithubRepoStar = ({ repo }) => (
 
 const ArticleContainer = ({ blog }) => (
   
-   <div className="card align-items-center text-align-center article-card border border-dark p-3 m-3">
+<div className="card align-items-center justify-content-center p-4 m-3 article-card border border-dark" herf={blog.link}>
+<a href={blog.link} target="_blank" rel="noreferrer">
   <div className="row">  
-   <div className="col-4">
-   <div className="card img-box">
+  <div className="col">
+  <div className="card img-box">
       <img
         src={blog.image}
-        className="d-block w-100 card-img-top my-3 mx-3"
+        className="d-block w-100 text-center card-img-top"
         alt={blog.title}
         
       />
@@ -134,20 +136,20 @@ const ArticleContainer = ({ blog }) => (
     </div>  
     
  
-   <div className="col-8">
+   
    <div className="card-body">
-      <a href={blog.link} target="_blank" rel="noreferrer">
+      
         <h3 className="card-title title">{blog.title}</h3>
-      </a>
+     
       <p className="card-text" style={{ color: "black" }}>
         {blog.author}
       </p>
       {/* <cite title="Author Name">&nbsp;&nbsp;Thread * 10 Min Read</cite> */}
     </div>
    </div>
-  
+   </a>
     </div>
-  </div>
+ 
 
    
 );
