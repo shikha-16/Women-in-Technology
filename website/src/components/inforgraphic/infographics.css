@@ -7,13 +7,13 @@
     height: 18rem;
 }
 
-.mycard-inner {
+/* .mycard-inner {
     display: flex;
     flex-direction: row;
     justify-self: center;
     justify-content: space-around;
     align-items: center;
-}
+} */
 
 .teams-name{
     text-align: center;

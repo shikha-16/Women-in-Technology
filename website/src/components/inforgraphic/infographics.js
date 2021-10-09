@@ -28,6 +28,21 @@ const infos1 = [
     linkk: pdf2,
     desc: "Cyber Security",
   },
+  {
+    image: image3,
+    linkk: pdf3,
+    desc: "FRONTEND Development",
+  },
+  {
+    image: image4,
+    linkk: pdf4,
+    desc: "Open Source Projects",
+  },
+  // {
+  //   image: image5,
+  //   linkk: pdf5,
+  //   desc: "Software Engineering",
+  // },
   
 ];
 const infos2 = [
@@ -59,9 +74,10 @@ export default function infographics() {
        <div className="row">
        {infos1.map((a, i) => (
       
-         <div className="col-md-6">
-         <Card className="mycard m-3 p-3 border border-dark">
-          <CardContent className="mycard-inner">
+         <div className="col-md-3">
+        
+         <Card className="mycard m-3 p-3 border border-dark" href={a.linkk}>
+          <CardContent className="align-items-center mycard-inner">
             <div className="teams-name">
               <img src={a.image} alt="" style={{ width: "70%" }} />
             </div>
@@ -69,7 +85,7 @@ export default function infographics() {
             <div className="main-time-div">
               <div>
                 <h4 className="has">{a.desc}</h4>
-                <a
+                {/* <a
                   href={a.linkk}
                   style={{ color: "blue" }}
                   target="_blank"
@@ -78,14 +94,15 @@ export default function infographics() {
                 >
                   {" "}
                   Download Pdf
-                </a>
+                </a> */}
               </div>
             </div>
           </CardContent>
         </Card>
+        
          </div>
          ))}
-        {infos2.map((a,i)=>(
+        {/* {infos2.map((a,i)=>(
           <div className="col-md-6 ">
           <Card className="mycard m-3 p-3 border border-dark">
            <CardContent className="mycard-inner">
@@ -113,7 +130,7 @@ export default function infographics() {
           </div>
         ))}
         
-        
+         */}
       
     
        </div>

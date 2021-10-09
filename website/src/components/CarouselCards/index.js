@@ -88,6 +88,8 @@ export default function CarouselCards({ cards, name }) {
                         link={link}
                         alt={alt}
                         idx={`${i}-${j}`}
+                        className="card border border-dark"
+                        
                       />
                     </div>
                   )

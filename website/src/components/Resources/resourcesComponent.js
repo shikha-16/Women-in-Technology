@@ -91,7 +91,7 @@ export default function ResourcesComponent() {
 const GithubRepoStar = ({ repo }) => (
   
    
-    <div className="card text-align-center github-card border border-dark  p-3 my-3">
+    <div className="card align-items-center text-align-center github-card border border-dark  p-3 my-3">
        <div className="card img-box">
           <img
             src={image}
@@ -120,7 +120,7 @@ const GithubRepoStar = ({ repo }) => (
 
 const ArticleContainer = ({ blog }) => (
   
-   <div className="card text-align-center article-card border border-dark p-3 m-3">
+   <div className="card align-items-center text-align-center article-card border border-dark p-3 m-3">
   <div className="row">  
    <div className="col-4">
    <div className="card img-box">
