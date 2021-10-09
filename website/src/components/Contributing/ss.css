@@ -81,17 +81,21 @@
   }
   .grace-hopper-text {
     display: block;
-    font-size: 1rem;
-    padding-left: 2px;
+    font-size: 15px;
+    line-height: 1.1rem;
     margin: auto;
     float: none;
-    text-align: center;
+    text-align: justify;
+    padding: 2px;
   }
   .anita-borg-text {
     display: block;
     float: none;
-    font-size: 1rem;
+    font-size: 15px;
+    line-height: 1.1rem;
+    text-align: justify;
     margin: auto;
+    padding: 2px;
   }
   .women-img {
     padding: 1.5rem;
@@ -99,5 +103,8 @@
     width: 12rem;
     display: block;
     margin: auto;
+  }
+  h3 {
+    text-align: center;
   }
 }
