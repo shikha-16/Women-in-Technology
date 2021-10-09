@@ -57,9 +57,9 @@ export default function Footer() {
       </div>
       <div className="container">
         <div className="row">
-          <div className="col-md-8 col-sm-6 col-xs-12">
+          <div className="col-md-10 col-sm-6 col-xs-12">
             <p className="copyright-text">
-              Copyright &copy; 2021 All Rights Reserved by
+              Copyright &copy; 2021 All Rights Reserved by 
               <a href="https://women-in-technology-wit.web.app/">
                 Women in Technology
               </a>
@@ -67,7 +67,7 @@ export default function Footer() {
             </p>
           </div>
 
-          <div className="col-md-4 col-sm-6 col-xs-12">
+          <div className="col-md-2 col-sm-6 col-xs-12">
             <ul className="social-icons">
               <li>
                 <a>
