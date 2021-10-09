@@ -74,7 +74,6 @@
 }
 
 .grey-block__heading {
-    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: '35px';
@@ -84,7 +83,6 @@
 }
 
 .grey-block__text {
-    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: '25px';
