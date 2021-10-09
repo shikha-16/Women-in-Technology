@@ -1,16 +1,16 @@
-import React from 'react';
-import './infocard.css';
-import '../../node_modules/bootstrap/dist/css/bootstrap-grid.min.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import React from 'react'
+import './infocard.css'
+import '../../node_modules/bootstrap/dist/css/bootstrap-grid.min.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faAngleDoubleUp,
   faBookOpen,
   faIdBadge,
-} from '@fortawesome/free-solid-svg-icons';
-import Layout from '../components/Layout';
-import './index.css';
-import CarouselComponent from '../components/CarouselComponent/CarouselComponent';
-import Divider from '../components/Divider';
+} from '@fortawesome/free-solid-svg-icons'
+import Layout from '../components/Layout'
+import './index.css'
+import CarouselComponent from '../components/CarouselComponent/CarouselComponent'
+import Divider from '../components/Divider'
 // import ComputerScienceSection from '../components/ComputerScienceSection';
 
 export default function IndexPage() {
@@ -88,5 +88,5 @@ export default function IndexPage() {
         </div>
       </div>
     </Layout>
-  );
+  )
 }

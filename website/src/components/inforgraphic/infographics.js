@@ -45,24 +45,7 @@ const infos1 = [
   // },
   
 ];
-const infos2 = [
-  
-  {
-    image: image3,
-    linkk: pdf3,
-    desc: "FRONTEND Development",
-  },
-  {
-    image: image4,
-    linkk: pdf4,
-    desc: "Open Source Projects",
-  },
-  // {
-  //   image: image5,
-  //   linkk: pdf5,
-  //   desc: "Software Engineering",
-  // },
-];
+
 
 export default function infographics() {
   return (
