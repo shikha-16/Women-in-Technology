@@ -72,115 +72,185 @@ const content = [
 
 export default function Inspirational() {
   return (
-    <div className="container">
-      <h2 style={{ marginBottom: "25px" }}>Women in Technology Role Models</h2>
-      <h5>
-        <p>
-          "Strong role models are leading the charge and the change :
-          raised-hands: As you grow in your career, it’s important that you have
-          access to people you can identify with. Here are some studies to get
-          you started!"
+    //   <div className="container">
+    //     <h2 style={{ marginBottom: "25px" }}>Women in Technology Role Models</h2>
+    //     <h5>
+    //       <p>
+    //         "Strong role models are leading the charge and the change :
+    //         raised-hands: As you grow in your career, it’s important that you have
+    //         access to people you can identify with. Here are some studies to get
+    //         you started!"
+    //       </p>
+    //     </h5>
+    //     <div>
+    //       {/*changed p to div to solve validateDomNesting error since
+    //       a cannot appear as descendant of p according to react
+    //       */}
+    //       <div className="containerss">
+    //         1.
+    //         <a
+    //           href="https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf"
+    //           target="_blank"
+    //           rel="noreferrer "
+    //           style={{ color: "blue" }}
+    //         >
+    //           A STUDY:Women in tech careers yearn for female role models and
+    //           flexibility in the workplace
+    //         </a>
+    //       </div>
+    //       <div className="containerss">
+    //         2.
+    //         <a
+    //           href="https://obamawhitehouse.archives.gov/women-in-stem"
+    //           target="_blank"
+    //           rel="noreferrer noopener"
+    //           style={{ color: "blue" }}
+    //         >
+    //           The Untold History of Women in Science and Technology
+    //         </a>
+    //         : Listen to women from across the Administration tell the stories of
+    //         their personal heroes across the fields of science, technology,
+    //         engineering, and math (STEM). Share them yourself. Add your own. And
+    //         honor their legacy by committing to encourage a young woman to pursue
+    //         a career in science.n
+    //       </div>
+    //       <div className="containerss">
+    //         3.
+    //         <a
+    //           href="https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world"
+    //           target="_blank"
+    //           rel="noreferrer "
+    //           style={{ color: "blue" }}
+    //         >
+    //           The Women Who Changed The Tech World
+    //         </a>
+    //       </div>
+    //     </div>
+
+    //     {content.map((a, i) => (
+    //       <div
+    //         className="card1"
+    //         key={i}
+    //         style={{
+    //           marginBottom: "30px",
+    //           width: "100%",
+    //           height: "70%",
+    //           // border: 'ridge',
+    //           boxShadow: "5px 5px 5px 5px #888888",
+    //         }}
+    //       >
+    //         <div className="rows">
+    //           <img
+    //             src={a.image}
+    //             style={{
+    //               height: "240px",
+    //               width: "240px",
+    //               marginTop: "10px",
+    //               // marginBottom: '5px',
+    //               marginLeft: "15px",
+    //               marginRight: "15px",
+    //             }}
+    //           />
+    //           <div>
+    //             <h3 style={{ marginLeft: "45px" }}>{a.h3}</h3>
+    //           </div>
+    //         </div>
+    //         <h5
+    //           style={{ fontStyle: "italic", marginLeft: "15px", marginTop: "2%" }}
+    //         >
+    //           {a.h31}
+    //         </h5>
+    //         <p style={{ border: "20px", color: "black", marginLeft: "15px" }}>
+    //           {a.p1}
+    //         </p>
+    //         <p>
+    //           <a
+    //             target="_blank"
+    //             rel="noreferrer "
+    //             style={{ color: "blue", marginLeft: "15px" }}
+    //             href={a.li}
+    //           >
+    //             Read More
+    //           </a>
+    //         </p>
+    //         {/* <Divider /> */}
+    //       </div>
+    //     ))}
+    //   </div>
+    // );
+
+    //new
+    <div id="women-section ">
+      <div className="grace-hopper col-sm-12 ">
+        <img className="women-img " src={ image1} alt="" />
+        <div className ="grace-hopper-text ">
+        <h3>Grace Hopper</h3>
+        <p>She was a Central role in developing the first commercial computer,the UNIVAC I,which change the course of computer in society.
+        Rear Admiral Grace Hopper helped to develop an early computer, invented the compiler making possible higher level computer languages.
+      
         </p>
-      </h5>
-      <div>
-        {/*changed p to div to solve validateDomNesting error since
-        a cannot appear as descendant of p according to react
-        */}
-        <div className="containerss">
-          1.
-          <a
-            href="https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf"
-            target="_blank"
-            rel="noreferrer "
-            style={{ color: "inherit", fontWeight: "bold" }}
-          >
-            A STUDY:Women in tech careers yearn for female role models and
-            flexibility in the workplace
-          </a>
         </div>
-        <div className="containerss">
-          2.
-          <a
-            href="https://obamawhitehouse.archives.gov/women-in-stem"
-            target="_blank"
-            rel="noreferrer noopener"
-            style={{ color: "inherit", fontWeight: "bold" }}
-          >
-            The Untold History of Women in Science and Technology
-          </a>
-          : Listen to women from across the Administration tell the stories of
-          their personal heroes across the fields of science, technology,
-          engineering, and math (STEM). Share them yourself. Add your own. And
-          honor their legacy by committing to encourage a young woman to pursue
-          a career in science.
+      </div>
+      <div className="anita-borg col-sm-12" >
+        <img className="women-img " src={image2} alt="" />
+        <div className ="anita-borg-text col-sm-12">
+        <h3>Anita Borg</h3>
+        <p>Anita Borg was an american computer scientist.She founded the institute for women in technology and the Grace Hopper women in Computuing.
+        In 1987, Anita Borg and 12 other women technologists cofounded the Systers community, an email list for women working in the “systems” field.
+        </p>
         </div>
-        <div className="containerss">
-          3.
-          <a
-            href="https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world"
-            target="_blank"
-            rel="noreferrer "
-            style={{ color: "inherit", fontWeight: "bold" }}
-          >
-            The Women Who Changed The Tech World
-          </a>
+      </div>
+      <div className="grace-hopper col-sm-12">
+        <img className="women-img" src={image3} alt="" />
+        <div className ="grace-hopper-text col-sm-12">
+        <h3> Reshma Saujani</h3>
+        <p> Saujani was featured at opening session of the 2017 American Library Association Conference,speaking in support of women targeting girls entering computer science profession.She is the founder of Girl Who Code.
+              
+        </p>
+        </div>
+       
+      </div>
+      <div className="anita-borg col-sm-12" >
+        <img className="women-img" src={image4} alt="" />
+        <div className ="anita-borg-text col-sm-12">
+        <h3> Debjani Ghosh</h3>
+        <p> Debjani Ghosh is the fifth President of The National Association of Software and Services Companies(NASSCOM).
+        Debjani Ghosh is the President of the National Association of Software & Services Companies (NASSCOM) since April 2018.  she is the fifth president of NASSCOM and the first women at the helm in three-decade history.
+
+
+        </p>
+        </div>
+      </div>
+      <div className="grace-hopper col-sm-12">
+        <img className="women-img" src={image5} alt="" />
+        <div className ="grace-hopper-text col-sm-12">
+        <h3> Geetha Kannan</h3>
+        <p> Geetha Kannan is versatile entrepreneurial leader and a pioneer for the women in IT movement in India,with over 30 years of global experience spanning buisness,technology and people.</p>
+        </div>
+      </div>
+      <div className="anita-borg col-sm-12">
+        <img className="women-img" src={image6} alt="" />
+        <div className ="anita-borg-text col-sm-12">
+        <h3> Ashni Dwarkdas</h3>
+        <p> Ashni is an enterpreneur and a mom to 2 kids under age of 5. She is the cofounder for koffeplace.com,an online portal for women professionals looking to return to their carrers after a break.Sheloves to read,write,travel, and spend time with her family.</p>
+        </div>
+      </div>
+      <div className="grace-hopper col-sm-12" >
+        <img className="women-img" src={image7} alt="" />
+        <div className ="grace-hopper-text col-sm-12">
+        <h3> Ashwini Asokan</h3>
+        <p> Ashwini Asokan is CEO and cofounder of Mad Street Den, a computer vision based Artificial Inteligience startup.The Startup's cloud based platform,powers customer across the globe with it's AI products across eCommerce,Omni Channel retail,Robotics and many more.</p>
+        </div>
+      </div>
+      <div className="anita-borg col-sm-12">
+        <img className="women-img" src={image8} alt="" />
+        <div className ="anita-borg-text col-sm-12">
+        <h3> Roshni Nadar Malhotra</h3>
+        <p>Roshni Nadar Malhotra is Indian buisnesswoman, the chairperson of HCL technologies and the first women to lead a listed IT company in India.</p>
         </div>
       </div>
 
-      {content.map((a, i) => (
-        <div
-          className="card1"
-          key={i}
-          style={{
-            marginBottom: "30px",
-            width: "100%",
-            height: "70%",
-            // border: 'ridge',
-            boxShadow: "5px 5px 5px 5px #888888",
-          }}
-        >
-          <div className="rows">
-            <img
-              src={a.image}
-              style={{
-                height: "240px",
-                width: "240px",
-                marginTop: "10px",
-                // marginBottom: '5px',
-                marginLeft: "15px",
-                marginRight: "15px",
-              }}
-              alt=""
-            />
-            <div>
-              <h3 style={{ marginLeft: "45px" }}>{a.h3}</h3>
-            </div>
-          </div>
-          <h5
-            style={{ fontStyle: "italic", marginLeft: "15px", marginTop: "2%" }}
-          >
-            {a.h31}
-          </h5>
-          <p style={{ border: "20px", color: "inherit", marginLeft: "15px" }}>
-            {a.p1}
-          </p>
-          <p>
-            <a
-              target="_blank"
-              rel="noreferrer "
-              style={{
-                color: "inherit",
-                fontWeight: "bold",
-                marginLeft: "15px",
-              }}
-              href={a.li}
-            >
-              Read More
-            </a>
-          </p>
-          {/* <Divider /> */}
-        </div>
-      ))}
+         
     </div>
-  );
+  )
 }
