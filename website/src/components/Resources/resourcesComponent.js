@@ -65,6 +65,7 @@ export default function ResourcesComponent() {
 
 const GithubRepoStar = ({ repo }) => (
   <div className="card mb-5">
+    <hr />
     <div className="row no-gutters">
       <div className="col-md-4">
         <div className="card img-box">
@@ -72,7 +73,7 @@ const GithubRepoStar = ({ repo }) => (
             src={image}
             className="card-img-top"
             alt="title"
-            style={{ width: "60%", height: "30%" }}
+            style={{ width: "150px"}}
           />
         </div>
       </div>
@@ -92,6 +93,7 @@ const GithubRepoStar = ({ repo }) => (
 
 const ArticleContainer = ({ blog }) => (
   <div className="card mb-5">
+    <hr />
     <div className="row no-gutters">
       <div className="col-md-4">
         <div className="card img-box">
@@ -99,7 +101,7 @@ const ArticleContainer = ({ blog }) => (
             src={blog.image}
             className="card-img-top"
             alt={blog.title}
-            style={{ width: "60%", height: "30%" }}
+            style={{width:blog.width1, height:blog.height1}}
           />
         </div>
       </div>
