@@ -8,9 +8,103 @@
   /*Added margin-bottom to add spacing*/
   margin-bottom: 15px;
 }
-
-@media only screen and (max-width: 934px){
-.content{
-  padding: 40px;
+/* women-in-tech */
+#women-section {
+  padding: 5% 8% 10% 8%;
 }
+.women-img {
+  height: 16rem;
+  width: 16rem;
+
+  border-radius: 100%;
+}
+.grace-hopper {
+  padding: 5% 7% 3% 7%;
+}
+.grace-hopper-text {
+  text-align: center;
+  line-height: 2rem;
+  padding: 5%;
+  font-family: serif;
+  font-size: 1.2rem;
+  display: inline-block;
+  width: 64%;
+  float: right;
+}
+.anita-borg {
+  padding: 5% 7% 3% 7%;
+}
+.anita-borg-text {
+  text-align: center;
+  line-height: 2rem;
+  padding: 5%;
+  font-family: serif;
+  font-size: 1.2rem;
+  display: inline-block;
+  width: 64%;
+  float: left;
+}
+.second-div {
+  padding: 3% 5% 3% 5%;
+}
+/* .women-img-left {
+  align-content: left;
+}
+.women-img-right {
+  align-content: right;
+} */
+
+.img-text-right {
+  float: right;
+  clear: left;
+  font-family: serif;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  width: 40%;
+  text-align: center;
+  padding: 3% 1% 3% 1%;
+}
+.img-text-left {
+  float: left;
+  clear: right;
+  font-family: serif;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  width: 40%;
+  text-align: center;
+  padding: 3% 5% 7% 5%;
+}
+
+@media only screen and (max-width: 934px) {
+  .content {
+    padding: 40px;
+  }
+  .grace-hopper-text {
+    display: block;
+    font-size: 15px;
+    line-height: 1.1rem;
+    margin: auto;
+    float: none;
+    text-align: justify;
+    padding: 2px;
+  }
+  .anita-borg-text {
+    display: block;
+    float: none;
+    font-size: 15px;
+    line-height: 1.1rem;
+    text-align: justify;
+    margin: auto;
+    padding: 2px;
+  }
+  .women-img {
+    padding: 1.5rem;
+    height: 12rem;
+    width: 12rem;
+    display: block;
+    margin: auto;
+  }
+  h3 {
+    text-align: center;
+  }
 }
