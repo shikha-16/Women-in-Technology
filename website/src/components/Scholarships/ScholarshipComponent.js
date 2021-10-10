@@ -23,7 +23,6 @@ export default function ScholarshipComponent() {
           <div className="row">
             <div
               className="col text-center page-title"
-              style={{ marginTop: "13%" }}
             >
               <h1>Scholarships for Women in Technology</h1>
             </div>
@@ -64,24 +63,17 @@ export default function ScholarshipComponent() {
                 historically excluded from the technology industry, including
                 Women, Black/African American, Hispanic/Latinx, American Indian,
                 Native Hawaiian/Pacific Islander. Read previous scholars
-                experience
-                <br />
-                <a
-                  href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052"
-                  style={{ color: "inherit" }}
-                >
-                  here
-                </a>{" "}
+                experience <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052"style={{ color: "inherit" }}>here</a>{" "}
                 .
               </p>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "300px"}}
                 />
                 <div className="card-body ">
                   <h6 className="card-title" style={{ color: "black" }}>
@@ -100,13 +92,14 @@ export default function ScholarshipComponent() {
             </div>
           </div>
           <div className="row content-box">
+            <hr />
             <div className="col-md-4">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image2}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "200px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title" style={{ color: "black" }}>
@@ -155,7 +148,9 @@ export default function ScholarshipComponent() {
               </p>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-8">
               <h4
                 onMouseOver={() => setHovered([{ ...hovered, hovered3: true }])}
@@ -187,10 +182,10 @@ export default function ScholarshipComponent() {
             <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image3}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "300px", height: "100px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title " style={{ color: "black" }}>
@@ -208,16 +203,18 @@ export default function ScholarshipComponent() {
               </div>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-4">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image4}
                   alt="card"
                   style={{ width: "350px", height: "200px" }}
                 />
-                <div className="card-body ">
+                <div className="card-body">
                   <h6 className="card-title " style={{ color: "black" }}>
                     Adobe India Women-in-Technology Scholarship
                   </h6>
@@ -259,7 +256,9 @@ export default function ScholarshipComponent() {
               </p>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-8">
               <h4
                 onMouseOver={() => setHovered([{ ...hovered, hovered5: true }])}
@@ -293,10 +292,10 @@ export default function ScholarshipComponent() {
             <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image5}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "200px", height: "200px" }}
                 />
                 <div className="card-body ">
                   <h6 className="card-title " style={{ color: "black" }}>
@@ -315,16 +314,18 @@ export default function ScholarshipComponent() {
               </div>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-4">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image6}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "300px", height: "100px" }}
                 />
-                <div className="card-body ">
+                <div className="card-body">
                   <h6 className="card-title" style={{ color: "black" }}>
                     Nutanix .heart Women in Technology Scholarship
                   </h6>
@@ -371,7 +372,9 @@ export default function ScholarshipComponent() {
               </p>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-8">
               <h4
                 onMouseOver={() => setHovered([{ ...hovered, hovered7: true }])}
@@ -403,12 +406,12 @@ export default function ScholarshipComponent() {
             <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image7}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "350px"}}
                 />
-                <div className="card-body ">
+                <div className="card-body">
                   <h6 className="card-title" style={{ color: "black" }}>
                     Grace Hopper Celebration Scholarships
                   </h6>
