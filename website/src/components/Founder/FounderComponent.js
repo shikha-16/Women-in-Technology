@@ -38,7 +38,8 @@ const useStyles = makeStyles((theme) => ({
     width: "50%", // 16:9
     justifyContent: "center",
     alignContent: "center",
-    marginLeft: "20%",
+    margin: "auto",
+    marginTop: "15px"
   },
   cardContent: {
     flexGrow: 1,

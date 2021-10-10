@@ -25,7 +25,6 @@
   text-align: center;
   line-height: 2rem;
   padding: 5%;
-  font-family: serif;
   font-size: 1.2rem;
   display: inline-block;
   width: 64%;
@@ -38,7 +37,6 @@
   text-align: center;
   line-height: 2rem;
   padding: 5%;
-  font-family: serif;
   font-size: 1.2rem;
   display: inline-block;
   width: 64%;
@@ -57,7 +55,6 @@
 .img-text-right {
   float: right;
   clear: left;
-  font-family: serif;
   font-size: 1.2rem;
   line-height: 2rem;
   width: 40%;
@@ -67,7 +64,6 @@
 .img-text-left {
   float: left;
   clear: right;
-  font-family: serif;
   font-size: 1.2rem;
   line-height: 2rem;
   width: 40%;

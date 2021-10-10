@@ -63,14 +63,7 @@ export default function ScholarshipComponent() {
                 historically excluded from the technology industry, including
                 Women, Black/African American, Hispanic/Latinx, American Indian,
                 Native Hawaiian/Pacific Islander. Read previous scholars
-                experience
-                <br />
-                <a
-                  href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052"
-                  style={{ color: "inherit" }}
-                >
-                  here
-                </a>{" "}
+                experience <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052"style={{ color: "inherit" }}>here</a>{" "}
                 .
               </p>
             </div>
