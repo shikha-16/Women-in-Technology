@@ -30,6 +30,10 @@
     margin-right: 5px;
 } */
 
+.block{
+    margin: auto;
+}
+
 @media screen and (max-width: 758px) {
     .cardevent{
         flex-direction: column;

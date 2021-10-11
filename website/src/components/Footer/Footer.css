@@ -75,6 +75,7 @@ margin-right: 4px;
 }
 .copyright-text {
   margin: 0;
+  text-align: left;
 }
 @media (max-width: 991px) {
   .site-footer [class^="col-"] {
