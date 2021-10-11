@@ -3,11 +3,9 @@ import "./resourcesStyles.css";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import { GithubRepos } from "../../data/githubRepo";
 import { blogs } from "../../data/blogs";
-import Infographic from "../../components/inforgraphic/infographics"
 import Divider from "../Divider";
 // image
 import image from "../../images/social/github.png";
-
 
 export default function ResourcesComponent() {
   return (
@@ -23,29 +21,17 @@ export default function ResourcesComponent() {
           <h1>World of CS Page &gt; </h1>
         </Link>
       </div> */}
-      <Divider />
+
       <div className="articles">
         <h1>Articles & Blogs</h1>
 
-        <div className="row">
-          <div className="col-md-6  justify-content-center">
+        <div>
           {blogs.map((blog, index) => {
-            if (index < 2) {
+            if (index < 9) {
               return <ArticleContainer blog={blog} key={index} />;
             }
             return null;
           })}
-          </div>
-          <div className="col-md-6 justify-content-center">
-          {blogs.map((blog, index) => {
-            if ((index>=3)&(index<5)) {
-              return <ArticleContainer blog={blog} key={index} />;
-            }
-            return null;
-          })}
-          </div>
-
-         
         </div>
 
         <div className="see-more">
@@ -60,19 +46,11 @@ export default function ResourcesComponent() {
       <div className="articles">
         <h1>GITHUB Repositories to Star</h1>
 
-        <div className="row">
-          <div className="col-md-6 justify-content-center">
+        <div>
           {GithubRepos.map((repo, index) => {
-            if (index < 2) return <GithubRepoStar key={index} repo={repo} />;
+            if (index < 9) return <GithubRepoStar key={index} repo={repo} />;
             return null;
           })}
-          </div>
-          <div className="col-md-6 justify-content-center">
-          {GithubRepos.map((repo, index) => {
-            if ((index>=3)&(index<5)) return <GithubRepoStar key={index} repo={repo} />;
-            return null;
-          })}
-          </div>
         </div>
 
         <div className="see-more">
@@ -81,76 +59,63 @@ export default function ResourcesComponent() {
           </a>
         </div>
       </div>
-      <Divider />
-      <Infographic />
     </div>
-    
   );
 }
 
 const GithubRepoStar = ({ repo }) => (
-  
-  <a href={repo.link} target="_blank" rel="noreferrer">
-    <div className="card align-items-center text-align-center github-card border border-dark  p-3 my-3">
-      
-       <div className="card img-box">
-       <hr />
+  <div className="card mb-5">
+    <hr />
+    <div className="row no-gutters">
+      <div className="col-md-4">
+        <div className="card img-box">
           <img
             src={image}
             className="card-img-top"
             alt="title"
-            style={{ width: "60%", height: "30%" }}
+            style={{ width: "150px"}}
           />
         </div>
-     
-     
+      </div>
+      <div className="col-md-8 article-details">
         <div className="card-body">
-         
+          <a href={repo.link} target="_blank" rel="noreferrer">
             <h3 className="card-title title">{repo.name}</h3>
-         
+          </a>
           <p className="card-text" style={{ color: "black" }}>
             {repo.excerpt}
           </p>
         </div>
-       
+      </div>
     </div>
-    </a>
-    
-  
- 
+  </div>
 );
 
 const ArticleContainer = ({ blog }) => (
-  
-<div className="card align-items-center justify-content-center p-4 m-3 article-card border border-dark">
-<a href={blog.link} target="_blank" rel="noreferrer">
-  <div className="row">  
-  <div className="col">
-  <div className="card img-box">
-      <img
-        src={blog.image}
-        className="d-block w-100 text-center card-img-top"
-        alt={blog.title}
-        style={{ width: "60%", height: "30%" }}
-      />
+  <div className="card mb-5">
+    <hr />
+    <div className="row no-gutters">
+      <div className="col-md-4">
+        <div className="card img-box">
+          <img
+            src={blog.image}
+            className="card-img-top"
+            alt={blog.title}
+            style={{width:blog.width1, height:blog.height1}}
+          />
+        </div>
+      </div>
+      <div className="col-md-8 article-details">
+        <div className="card-body">
+          <a href={blog.link} target="_blank" rel="noreferrer">
+            <h3 className="card-title title">{blog.title}</h3>
+          </a>
+          <p className="card-text" style={{ color: "black" }}>
+            {blog.author}
+          </p>
+          {/* <cite title="Author Name">&nbsp;&nbsp;Thread * 10 Min Read</cite> */}
+        </div>
+      </div>
     </div>
-    </div>  
-    
- 
-   
-   <div className="card-body">
-      
-        <h3 className="card-title title">{blog.title}</h3>
-     
-      <p className="card-text" style={{ color: "black" }}>
-        {blog.author}
-      </p>
-      {/* <cite title="Author Name">&nbsp;&nbsp;Thread * 10 Min Read</cite> */}
-    </div>
-   </div>
-   </a>
-    </div>
- 
-
-   
+  </div>
 );
