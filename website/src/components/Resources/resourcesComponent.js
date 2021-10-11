@@ -28,7 +28,7 @@ export default function ResourcesComponent() {
         <h1>Articles & Blogs</h1>
 
         <div className="row">
-          <div className="col-md-6 justify-content-center">
+          <div className="col-md-6  justify-content-center">
           {blogs.map((blog, index) => {
             if (index < 2) {
               return <ArticleContainer blog={blog} key={index} />;
@@ -98,7 +98,7 @@ const GithubRepoStar = ({ repo }) => (
             src={image}
             className="card-img-top"
             alt="title"
-            // style={{ width: "60%", height: "30%" }}
+            style={{ width: "60%", height: "30%" }}
           />
         </div>
      
@@ -121,7 +121,7 @@ const GithubRepoStar = ({ repo }) => (
 
 const ArticleContainer = ({ blog }) => (
   
-<div className="card align-items-center justify-content-center p-4 m-3 article-card border border-dark" herf={blog.link}>
+<div className="card align-items-center justify-content-center p-4 m-3 article-card border border-dark">
 <a href={blog.link} target="_blank" rel="noreferrer">
   <div className="row">  
   <div className="col">
@@ -130,7 +130,7 @@ const ArticleContainer = ({ blog }) => (
         src={blog.image}
         className="d-block w-100 text-center card-img-top"
         alt={blog.title}
-        
+        style={{ width: "60%", height: "30%" }}
       />
     </div>
     </div>  
