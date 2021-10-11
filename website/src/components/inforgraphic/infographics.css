@@ -1,9 +1,8 @@
 .mycard {
-    /* max-width: 800px;
-    margin-top: 30px;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-bottom: 2%; */
+    max-width: 800px;
+    margin:auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
     height: 18rem;
 }
 
@@ -19,30 +18,28 @@
     text-align: center;
 }
 
-
-@media screen and (max-width:400px) {
-    .teams-name img{
-       
-        width: 50px;
-    }
-    .main-time-div{
-        font-size: 10px;
-    }
-    .has{
-        font-size: 10px !important;
-    }
+.teams-name img{
+    width: 10rem;
+    height: 10rem;
 }
+
 
 @media screen and (max-width:800px) {
     .teams-name img{
-       
-        width: 50px;
+        height:6rem;
+        width: 6rem;
     }
     .main-time-div{
         font-size: 15px !important;
     }
     .has{
         font-size: 15px !important;
+    }
+    .mycard {
+        max-width: 90%;
+        margin:auto;
+        margin-top: 25px;
+        margin-bottom: 25px;
     }
 }
 

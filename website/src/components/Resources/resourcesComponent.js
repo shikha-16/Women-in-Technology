@@ -94,6 +94,7 @@ const GithubRepoStar = ({ repo }) => (
     <div className="card align-items-center text-align-center github-card border border-dark  p-3 my-3">
       
        <div className="card img-box">
+       <hr />
           <img
             src={image}
             className="card-img-top"
