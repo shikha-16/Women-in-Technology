@@ -3,21 +3,19 @@
     margin:auto;
     margin-top: 25px;
     margin-bottom: 25px;
-    height: 18rem;
 }
 
-/* .mycard-inner {
+.mycard-inner {
     display: flex;
     flex-direction: row;
     justify-self: center;
     justify-content: space-around;
     align-items: center;
-} */
+}
 
 .teams-name{
     text-align: center;
 }
-
 .teams-name img{
     width: 10rem;
     height: 10rem;
@@ -59,4 +57,3 @@
     border-radius: 25px;
     padding: 2px;
 }
-
