@@ -1,0 +1,58 @@
+.sub-title {
+  padding-top: 2%;
+  padding-right: 25%;
+}
+
+.sub-container {
+    display: flex;
+}
+
+.sub-child-left {
+  flex: 1;
+  padding-top: 2.8%;
+  padding-right: 3%;
+  padding-left: 10%;
+}
+
+.sub-button {
+  background-color: rgb(233, 190, 110);
+  color: black;
+  font-size: 100%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 20px;
+  margin: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.sub-button:hover {
+  background-color: rgb(199, 138, 26);
+  color: azure;
+}
+
+.sub-b:hover {
+  color: firebrick;
+  cursor: pointer;
+}
+
+.sub-child-right {
+    flex: 0.3;
+    padding-right: 10%;
+    padding-left: 3%;
+    padding-bottom: 2%;
+    width: 20%;
+    height: 50%;
+}
+
+.sub-child-right:hover {
+  cursor: pointer;
+}
+
+.sub-href {
+  color: grey;
+  font-size: 9px;
+}
+
