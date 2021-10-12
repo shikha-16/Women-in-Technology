@@ -23,8 +23,8 @@ export default function ResourcesComponent() {
         </Link>
       </div> */}
  <Divider />
-      <div className="articles">
-        <h1>Articles & Blogs</h1>
+      <div className="articles pt-lg-4 pt-lg-1">
+        <h1 className="pb-lg-4 pb-md-1">Articles & Blogs</h1>
 
         <div className="row">
           <div className="col-md-6  justify-content-center">
@@ -55,7 +55,7 @@ export default function ResourcesComponent() {
       <Divider />
 
       <div className="articles">
-        <h1>GITHUB Repositories to Star</h1>
+        <h1 className="pt-4 pb-4">GITHUB Repositories to Star</h1>
 
         <div className="row">
           <div className="col-md-6 justify-content-center">
@@ -81,7 +81,10 @@ export default function ResourcesComponent() {
         </div>
       </div>
       <Divider />
+      <div className="pt-lg-4 pt-md-1 pb-lg-4 pb-md-1">
       <Infographics />
+      </div>
+      
     </div>
   
     
@@ -122,7 +125,7 @@ const ArticleContainer = ({ blog }) => (
   
  
 
-   <div className="article-card text-decoration-none align-items-center justify-content-center  border border-dark rounded m-3 p-3">
+   <div className="article-card text-decoration-none align-items-center justify-content-center  border border-dark rounded mb-3 p-3">
 
 <a href={blog.link} target="_blank" rel="noreferrer">
 {/* <hr /> */}

@@ -12,7 +12,7 @@ export default function ResourcesPage() {
       <div className="pt-5 mt-5">
         <ComputerScienceSection />
       </div>
-
+      
       <ResourcesComponent />
       
     </div>

@@ -62,6 +62,7 @@ a {
 }
 .article-card{
   height: 27rem;
+  /* width: 35rem; */
 }
 .sociall-icons {
   position: absolute;
