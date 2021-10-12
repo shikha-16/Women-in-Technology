@@ -1,5 +1,5 @@
 .mycard {
-    max-width: 800px;
+    /* max-width: 800px; */
     /* margin:auto;
     margin-top: 25px;
     margin-bottom: 25px; */
@@ -34,12 +34,12 @@
     .has{
         font-size: 15px !important;
     }
-    .mycard {
+    /* .mycard {
         max-width: 90%;
         margin:auto;
         margin-top: 25px;
         margin-bottom: 25px;
-    }
+    } */
 }
 
 .main-time-div {

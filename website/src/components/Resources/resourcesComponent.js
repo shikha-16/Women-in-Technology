@@ -89,7 +89,7 @@ export default function ResourcesComponent() {
 }
 
 const GithubRepoStar = ({ repo }) => (
-  <a href={repo.link} target="_blank" rel="noreferrer">
+  <a href={repo.link} className="" target="_blank" rel="noreferrer">
   
   <div className="align-items-center text-align-center github-card border border-dark rounded p-4  my-3">
       
@@ -122,7 +122,7 @@ const ArticleContainer = ({ blog }) => (
   
  
 
-   <div className="article-card align-items-center justify-content-center  border border-dark rounded m-3 p-3">
+   <div className="article-card text-decoration-none align-items-center justify-content-center  border border-dark rounded m-3 p-3">
 
 <a href={blog.link} target="_blank" rel="noreferrer">
 {/* <hr /> */}
@@ -130,15 +130,15 @@ const ArticleContainer = ({ blog }) => (
     <div className="card img-box">
       <img
         src={blog.image}
-        className="card-img-top"
+        className="card-img-top d-block w-100 m-2"
         alt={blog.title}
-        style={{ width: "60%", height: "30%" }}
+        style={{ width: "45%", height: "45%" }}
       />
     </div>
  
     <div className="card-body">
      
-        <h3 className="card-title title">{blog.title}</h3>
+        <h3 className="card-title title"><u>{blog.title}</u></h3>
      
       <p className="card-text" style={{ color: "black" }}>
         {blog.author}
