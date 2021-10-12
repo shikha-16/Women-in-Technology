@@ -56,12 +56,19 @@ a {
   .links > a > h1 {
     font-size: 1.5rem;
   }
+  .github-card{
+    height: 22rem;
+ }
+ .article-card{
+  height: 27rem;
+  /* width: 35rem; */
+}
 }
 .github-card{
-   height: 22rem;
+   height: 18rem;
 }
 .article-card{
-  height: 27rem;
+  height: 25rem;
   /* width: 35rem; */
 }
 .sociall-icons {
