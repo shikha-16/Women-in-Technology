@@ -14,6 +14,7 @@ export default function ResourcesPage() {
       </div>
 
       <ResourcesComponent />
+      
     </div>
   )
 }

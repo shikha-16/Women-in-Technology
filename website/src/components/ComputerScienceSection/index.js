@@ -63,10 +63,10 @@ export default function ComputerScienceSection() {
   return (
     <div className="container">
       <div>
-        <h1 className="mb-3 mt-3">Explore Yourself in the World Of CS</h1>
+        <h1 className="mt-3">Explore Yourself in the World Of CS</h1>
         <div
           className="row mb-3 justify-content-center"
-          style={{ marginTop: "20px" }}
+          // style={{ marginTop: "20px" }}
         >
           <div className="col">
             

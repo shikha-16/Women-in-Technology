@@ -12,7 +12,7 @@ export default function Card({
   isBig,
 }) {
   return (
-    <div className=" card border border-dark p-lg-3 p-sm-1">
+    <div className=" p-lg-3 p-sm-1">
       <div className={`card-block ${isBig && 'card-block--big'}`}>
         <a href={link}>
           <img

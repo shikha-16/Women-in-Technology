@@ -80,7 +80,7 @@ export default function CarouselCards({ cards, name }) {
               >
                 {cardsSlide.map(
                   ({ image, title, description, link, alt }, j) => (
-                    <div key={`${title}-${j}`} className="col">
+                    <div key={`${title}-${j}`} className="col rounded border border-dark m-3 py-4">
                       <Card
                         image={image}
                         title={title}
@@ -88,7 +88,7 @@ export default function CarouselCards({ cards, name }) {
                         link={link}
                         alt={alt}
                         idx={`${i}-${j}`}
-                        className="card border border-dark"
+                        className=""
                         
                       />
                     </div>
