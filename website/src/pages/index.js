@@ -32,9 +32,9 @@ export default function IndexPage() {
         </div>
       </div>
 
-      <Divider />
+      {/* <Divider />
 
-      <ComputerScienceSection />
+      <ComputerScienceSection /> */}
 
       <Divider />
 

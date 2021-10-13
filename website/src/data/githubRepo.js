@@ -3,8 +3,8 @@ export const GithubRepos = [
     name: 'Complete DSA Study Plan',
     link: 'https://github.com/jwasham/coding-interview-university/',
     excerpt:
-      'A complete computer science study plan to become a software engineer.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
+      'A complete computer science study plan to become a software engineer.'
+     },
   {
     name: 'Awesome Lists',
     link: 'https://github.com/sindresorhus/awesome',

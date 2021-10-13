@@ -1,17 +1,18 @@
 .mycard {
-    max-width: 800px;
-    margin:auto;
+    /* max-width: 800px; */
+    /* margin:auto;
     margin-top: 25px;
-    margin-bottom: 25px;
+    margin-bottom: 25px; */
+    height:18rem;
 }
 
-.mycard-inner {
+/* .mycard-inner {
     display: flex;
     flex-direction: row;
     justify-self: center;
     justify-content: space-around;
     align-items: center;
-}
+} */
 
 .teams-name{
     text-align: center;
@@ -33,12 +34,12 @@
     .has{
         font-size: 15px !important;
     }
-    .mycard {
+    /* .mycard {
         max-width: 90%;
         margin:auto;
         margin-top: 25px;
         margin-bottom: 25px;
-    }
+    } */
 }
 
 .main-time-div {

@@ -21,8 +21,8 @@ export const blogs = [
     text:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
     link: 'https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech',
-    width1: '220px',
-    height1: 'initial'
+    // width1: '220px',
+    // height1: 'initial'
   },
   {
     image: image2,
@@ -33,8 +33,8 @@ export const blogs = [
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
     link:
       'https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/',
-      width1: '250px',
-      height1: 'initial'  
+      // width1: '250px',
+      // height1: 'initial'  
   },
   {
     image: image3,
@@ -45,8 +45,8 @@ export const blogs = [
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
     link:
       'https://www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html',
-      width1: '220px',
-    height1: '100px'
+    //   width1: '220px',
+    // height1: '100px'
   },
   {
     image: image4,
