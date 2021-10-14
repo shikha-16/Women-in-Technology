@@ -273,6 +273,18 @@ _Founder and CEO, Mad Street Den_
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
 ---
+## <div align="center">Good Resources to learn&Earn Benefits </div>
+
+---
+1. ####  GitHub Education
+https://education.github.com/pack
+
+2. ####  Hacktoberfest
+https://hacktoberfest.digitalocean.com/resources
+
+
+
+---
 ## <div align="center">Good Reads</div>
 
 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
