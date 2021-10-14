@@ -277,7 +277,7 @@ _Founder and CEO, Mad Street Den_
 
 ---
 
-1. [GitHub Education](https://education.github.com/pack) 🔰  
+1. [GitHub Education](https://education.github.com/pack) 🔰
    [Readmore](https://medium.com/@Aqsaumar48/learn-with-github-education-an-ultimate-guide-to-githubs-student-developer-pack-10c46e71f842)
 3. [ Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) ℹ️
    [Readmore](https://github.com/msaaddev/Hacktoberfest)
