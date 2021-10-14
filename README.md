@@ -276,14 +276,8 @@ _Founder and CEO, Mad Street Den_
 ## <div align="center">Good Resources to learn&Earn Benefits </div>
 
 ---
-1. ####  GitHub Education
-https://education.github.com/pack
-
-2. ####  Hacktoberfest
-https://hacktoberfest.digitalocean.com/resources
-
-
-
+1. [GitHub Education](https://education.github.com/pack) 🔰:
+2. [ Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) ℹ️:
 ---
 ## <div align="center">Good Reads</div>
 
