@@ -269,10 +269,14 @@ _Founder and CEO, Mad Street Den_
 15. [EbookFoundation/free-programming-books ](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md):books:
 16. [Project Based Tutorials](https://github.com/practical-tutorials/project-based-learning) :computer: 
 17. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ::busts_in_silhouette::
+18. [GitHub Education](https://education.github.com/pack) :beginner:
+19. [ Hacktoberfest](https://hacktoberfest.digitalocean.com/resources)  :information_source:
 
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
 ---
+
+
 ## <div align="center">Good Reads</div>
 
 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
