@@ -202,7 +202,8 @@ This is an opportunity for all women coders from engineering colleges across the
 11. [Society of Women Engineers India](https://india.swe.org/)
 Be part of a global network of thousands of women engineers and partners who want to help you excel as an engineer and leader.
 
-12. Twitter DevelopHER
+12. [Twitter DevelopHER]
+A virtual two-day program for second year and third year Indian students who identify as women.
 13. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
 Hackathon for Women.
 14. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
@@ -212,6 +213,7 @@ International Women’s Day Hackathon.
 Visa Code UR Way to solve algorithm coding challenges, win exciting prizes and stand a chance to win an all-expenses-paid trip to meet to Visa team in Bangalore! Visa is recruiting students for internship and new graduate engineering opportunities. 
 
 16. Microsoft Engage (previously Codess)
+Codess is a community for female coders initiated by Microsoft. Codess was established to explore ways to promote gender diversity in the engineering field.
 
 17. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
 To promote the advancement of women at Uber through our network, access to leadership, professional development, and peer mentoring.

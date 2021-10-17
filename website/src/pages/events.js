@@ -39,7 +39,10 @@ export default function EventsPage() {
           <Typography gutterBottom variant="h5" component="h2">
            {a.topic}
           </Typography>
-           </a>
+        </a>
+          <Typography variant="body2" color="text.secondary">
+           {a.description}
+          </Typography>
           
         </CardContent>
       </CardActionArea>
