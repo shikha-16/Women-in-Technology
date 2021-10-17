@@ -54,7 +54,7 @@ export default function infographics() {
         <Card className="mycard">
           <CardContent className="mycard-inner">
             <div className="teams-name">
-              <img src={a.image} style={{ width: "50%" }} />
+              <img src={a.image} alt="" />
             </div>
             <Divider orientation="vertical" flexItem />
             <div className="main-time-div">

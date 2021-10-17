@@ -30,6 +30,8 @@ export default function OrganisationComponent() {
                   text={org.text}
                   link={org.link}
                   href={org.href}
+                  width1={org.width1}
+                  height1={org.height1}
                 />
               ) : (
                 <RightImageBox
@@ -38,6 +40,8 @@ export default function OrganisationComponent() {
                   text={org.text}
                   link={org.link}
                   href={org.href}
+                  width1={org.width1}
+                  height1={org.height1}
                 />
               )}
             </React.Fragment>
@@ -48,8 +52,9 @@ export default function OrganisationComponent() {
   );
 }
 
-const LeftImageBox = ({ image, title, text, link, href }) => (
-  <div className="card mb-5 box-wrapper">
+const LeftImageBox = ({ image, title, text, link, href, width1, height1 }) => (
+  <div className="card mb-3 box-wrapper">
+    <hr />
     <div className="row no-gutters">
       <div className="col-md-4">
         <div className="card">
@@ -57,7 +62,7 @@ const LeftImageBox = ({ image, title, text, link, href }) => (
             src={image}
             className="card-img-top"
             alt={title}
-            style={{ width: "350px", height: "200px" }}
+            style={{ width: width1, height: height1 }}
           />
           <div className="card-body org-details">
             <h6 className="card-title" style={{ color: "black" }}>
@@ -90,8 +95,9 @@ const LeftImageBox = ({ image, title, text, link, href }) => (
   </div>
 );
 
-const RightImageBox = ({ image, title, text, link, href }) => (
-  <div className="card mb-5 box-wrapper">
+const RightImageBox = ({ image, title, text, link, href, width1, height1 }) => (
+  <div className="card mb-3 box-wrapper">
+    <hr />
     <div className="row no-gutters">
       <div className="col-md-8 org-info">
         <div className="card-body">
@@ -111,7 +117,7 @@ const RightImageBox = ({ image, title, text, link, href }) => (
             src={image}
             className="card-img-top"
             alt={title}
-            style={{ width: "300px", height: "200px" }}
+            style={{ width: width1, height: height1 }}
           />
           <div className="card-body org-details">
             <a href={link} target="_blank" rel="noreferrer">

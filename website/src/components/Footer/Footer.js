@@ -10,7 +10,7 @@ import DarkMode from "../DarkMode";
 import logo from "../../images/logos/WITfivicon.png";
 
 
-export default function Footer() {
+export default function Footer() {    
   return (
     <footer className="site-footer">
       <div className="container">
@@ -57,17 +57,13 @@ export default function Footer() {
       </div>
       <div className="container">
         <div className="row">
-          <div className="col-md-8 col-sm-6 col-xs-12">
+          <div className="col-md-9 col-sm-6 col-xs-12">
             <p className="copyright-text">
-              Copyright &copy; 2021 All Rights Reserved by
-              <a href="https://women-in-technology-wit.web.app/">
-                Women in Technology
-              </a>
-              .
+              Copyright &copy; 2021 All Rights Reserved by <a href="https://women-in-technology-wit.web.app/">Women in Technology</a>.
             </p>
           </div>
 
-          <div className="col-md-4 col-sm-6 col-xs-12">
+          <div className="col-md-3 col-sm-6 col-xs-12">
             <ul className="social-icons">
               <li>
                 <a>

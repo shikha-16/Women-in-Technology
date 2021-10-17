@@ -1,8 +1,9 @@
 .card-block {
   width: 200px;
-  height: 270px;
+  height: 250px;
   position: relative;
   margin: 0 auto;
+ 
 }
 
 .card-block--big {
@@ -11,13 +12,15 @@
 }
 
 .card-block__img {
-  width: 280px;
+  height: 200px;
+  width: initial !important; 
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
 }
+
 
 .card-block__img--big {
   width: 600px;
@@ -36,7 +39,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
 }
@@ -53,6 +55,9 @@
 
   .card-block__img {
     width: 190px;
+    height: 160px;
+    margin:auto;
+    margin-bottom:50px;
   }
 
   .card-block__body {

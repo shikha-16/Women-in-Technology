@@ -12,6 +12,7 @@ import './index.css';
 import CarouselComponent from '../components/CarouselComponent/CarouselComponent';
 import Divider from '../components/Divider';
 import ComputerScienceSection from '../components/ComputerScienceSection';
+import SubscribeSection from '../components/Subscribe';
 
 export default function IndexPage() {
   return (
@@ -30,14 +31,17 @@ export default function IndexPage() {
           given below. ✨
         </div>
       </div>
+
+      {/* <Divider />
+
+      <ComputerScienceSection /> */}
+
       <Divider />
-      <ComputerScienceSection />
-      <Divider />
+
       <div style={{ marginTop: '60px' }}>
         <h3 style={{ textAlign: 'center' }} className="h33">
           Why Women In Technology?
         </h3>
-
         <div className="roww">
           <div className="columnn">
             <div className="wrapper1">
@@ -87,6 +91,11 @@ export default function IndexPage() {
           </div>
         </div>
       </div>
+
+      <Divider />
+
+      <SubscribeSection />
+
     </Layout>
   );
 }

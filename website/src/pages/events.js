@@ -9,10 +9,12 @@ import {eventList} from "../data/eventList.js"
 
 const useStyles = makeStyles({
     root: {
-        maxWidth: 345,
+        width: 345,
+        margin:'auto',
         marginBottom:'8px',
         marginTop:"8px",
-        justifyContent:"center",
+        display: 'grid',
+        placeItems:'center',
         textAlign:"center",
     },
     media: {
@@ -25,9 +27,10 @@ export default function EventsPage() {
 
   return (
      <div>
-      <h1 className="eventHeading" style={{ paddingTop: 60 }}>
+      <h1 className="eventHeading" style={{ marginTop:'4rem' }}>
       Events/Programs
     </h1>
+    <div className="cardevent">
 {eventList.map((a, i) => (
     <Card className={classes.root}>
       <CardActionArea>
@@ -42,10 +45,9 @@ export default function EventsPage() {
       </CardActionArea>
     </Card>
 ))}
+</div>
 
 </div>
  
   )
 }
-
-

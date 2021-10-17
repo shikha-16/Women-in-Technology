@@ -1,12 +1,15 @@
 
 .org-info{
-    /* margin: auto 0; */
+     margin: auto 0; 
     /* text-align: center; */
-    margin-top: "0";
 }
 
 .org-details{
-    text-align: left;
+    text-align: center;
+}
+
+.card{
+    display:initial;
 }
 
 .org-details > p{

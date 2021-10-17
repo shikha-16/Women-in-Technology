@@ -1,5 +1,5 @@
 .page-title{
-    margin-top: 50px;
+    margin-top: 8rem;
     margin-bottom: 30px;
 }
 
@@ -15,6 +15,10 @@
 .card-img-overlay{
     background-color: rgba(255, 192, 203, 0.8);
     height: auto;
+}
+
+.content-box .col-md-8{
+    margin: auto;
 }
 /*
 .card {

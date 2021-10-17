@@ -1,5 +1,5 @@
 /* eslint-disable react/jsx-no-target-blank */
-import React from "react";
+import React, { useState } from "react";
 import "./ScholarshipComponent.css";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
@@ -12,8 +12,10 @@ import image4 from "../../images/scholarship/adobe_india.png";
 import image5 from "../../images/scholarship/palantir.png";
 import image6 from "../../images/scholarship/nutanix.png";
 import image7 from "../../images/scholarship/ghc.png";
+import "../../DarkMode.css";
 
 export default function ScholarshipComponent() {
+  const [hovered, setHovered] = useState([{ hovered1: false }]);
   return (
     <div>
       <div>
@@ -21,21 +23,33 @@ export default function ScholarshipComponent() {
           <div className="row">
             <div
               className="col text-center page-title"
-              style={{ marginTop: "13%" }}
             >
               <h1>Scholarships for Women in Technology</h1>
             </div>
           </div>
           <div className="row content-box">
             <div className="col-md-8">
-              <a
-                href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
-                target="_blank"
-                rel="noreferrer noopener"
+              {/*changed link's color to theme color as per requirements*/}
+              <h4
+                onMouseOver={() => setHovered([{ ...hovered, hovered1: true }])}
+                onMouseLeave={() =>
+                  setHovered([{ ...hovered, hovered1: false }])
+                }
               >
-                <h4>Generation Google Scholarship</h4>
-              </a>
-              <p>
+                <a
+                  href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  style={{
+                    color: hovered[0].hovered1 ? "#0da4fd" : "inherit",
+                    fontWeight: "bold",
+                  }}
+                >
+                  Generation Google scholarship
+                </a>
+              </h4>
+              {/*added className information to p tag in order to justify it*/}
+              <p className="information">
                 Generation Google Scholarship: for women in computer science
                 (formerly known as Women Techmakers Scholarship) was established
                 to help aspiring students pursuing computer science degrees
@@ -49,22 +63,22 @@ export default function ScholarshipComponent() {
                 historically excluded from the technology industry, including
                 Women, Black/African American, Hispanic/Latinx, American Indian,
                 Native Hawaiian/Pacific Islander. Read previous scholars
-                experience{" "}
-                <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052">
-                  here.{" "}
-                </a>
+                experience <a href="https://medium.com/@sudeepa.kolli/google-wtm-apac-scholarship-2020-9dabe5ddf052"style={{ color: "inherit" }}>here</a>{" "}
+                .
               </p>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "300px"}}
                 />
                 <div className="card-body ">
-                  <h6 className="card-title ">Generation Google Scholarship</h6>
+                  <h6 className="card-title" style={{ color: "black" }}>
+                    Generation Google Scholarship
+                  </h6>
                   <a
                     href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/"
                     // eslint-disable-next-line react/jsx-no-target-blank
@@ -78,16 +92,17 @@ export default function ScholarshipComponent() {
             </div>
           </div>
           <div className="row content-box">
+            <hr />
             <div className="col-md-4">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image2}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "200px", height: "200px" }}
                 />
                 <div className="card-body ">
-                  <h6 className="card-title ">
+                  <h6 className="card-title" style={{ color: "black" }}>
                     Google Conference and Travel Scholarships
                   </h6>
 
@@ -102,13 +117,24 @@ export default function ScholarshipComponent() {
               </div>
             </div>
             <div className="col-md-8">
-              <a
-                href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/"
-                target="_blank"
-                rel="noreferrer noopener"
+              <h4
+                onMouseOver={() => setHovered([{ ...hovered, hovered2: true }])}
+                onMouseLeave={() =>
+                  setHovered([{ ...hovered, hovered2: false }])
+                }
               >
-                <h4>Google Conference and Travel Scholarships</h4>
-              </a>
+                <a
+                  href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/"
+                  target="_blank"
+                  style={{
+                    color: hovered[0].hovered2 ? "#0da4fd" : "inherit",
+                    fontWeight: "bold",
+                  }}
+                  rel="noreferrer noopener"
+                >
+                  Google Conference and Travel Scholarships
+                </a>
+              </h4>
               <p>
                 At Google, we believe a diversity of attributes, experiences,
                 and perspectives are needed to build tools that can change the
@@ -122,15 +148,28 @@ export default function ScholarshipComponent() {
               </p>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-8">
-              <a
-                href="https://research.adobe.com/scholarship/"
-                target="_blank"
-                rel="noreferrer noopener"
+              <h4
+                onMouseOver={() => setHovered([{ ...hovered, hovered3: true }])}
+                onMouseLeave={() =>
+                  setHovered([{ ...hovered, hovered3: false }])
+                }
               >
-                <h4>Adobe Research Women-in-Technology Scholarship</h4>
-              </a>
+                <a
+                  href="https://research.adobe.com/scholarship/"
+                  target="_blank"
+                  style={{
+                    color: hovered[0].hovered3 ? "#0da4fd" : "inherit",
+                    fontWeight: "bold",
+                  }}
+                  rel="noreferrer noopener"
+                >
+                  Adobe Research Women-in-Technology Scholarship
+                </a>
+              </h4>
               <p>
                 To bring more gender diversity to the technology industry, we
                 are pleased to invite applications to the Adobe Research
@@ -143,13 +182,13 @@ export default function ScholarshipComponent() {
             <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image3}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "300px", height: "100px" }}
                 />
                 <div className="card-body ">
-                  <h6 className="card-title ">
+                  <h6 className="card-title " style={{ color: "black" }}>
                     Adobe Research Women-in-Technology Scholarship
                   </h6>
 
@@ -164,20 +203,21 @@ export default function ScholarshipComponent() {
               </div>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-4">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image4}
                   alt="card"
                   style={{ width: "350px", height: "200px" }}
                 />
-                <div className="card-body ">
-                  <h6 className="card-title ">
+                <div className="card-body">
+                  <h6 className="card-title " style={{ color: "black" }}>
                     Adobe India Women-in-Technology Scholarship
                   </h6>
-
                   <a
                     href="https://research.adobe.com/adobe-india-women-in-technology-scholarship/"
                     target="_blank"
@@ -189,13 +229,24 @@ export default function ScholarshipComponent() {
               </div>
             </div>
             <div className="col-md-8">
-              <a
-                href="https://research.adobe.com/adobe-india-women-in-technology-scholarship/"
-                target="_blank"
-                rel="noreferrer noopener"
+              <h4
+                onMouseOver={() => setHovered([{ ...hovered, hovered4: true }])}
+                onMouseLeave={() =>
+                  setHovered([{ ...hovered, hovered4: false }])
+                }
               >
-                <h4>Adobe India Women-in-Technology Scholarship</h4>
-              </a>
+                <a
+                  href="https://research.adobe.com/adobe-india-women-in-technology-scholarship/"
+                  target="_blank"
+                  style={{
+                    color: hovered[0].hovered4 ? "#0da4fd" : "inherit",
+                    fontWeight: "bold",
+                  }}
+                  rel="noreferrer noopener"
+                >
+                  Adobe India Women-in-Technology Scholarship
+                </a>
+              </h4>
               <p>
                 Through the Adobe India Women-in-Technology Scholarship, we are
                 striving towards creating gender equality in science, technology
@@ -205,15 +256,28 @@ export default function ScholarshipComponent() {
               </p>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-8">
-              <a
-                href="https://www.palantir.com/students/scholarship/global-impact/"
-                target="_blank"
-                rel="noreferrer noopener"
+              <h4
+                onMouseOver={() => setHovered([{ ...hovered, hovered5: true }])}
+                onMouseLeave={() =>
+                  setHovered([{ ...hovered, hovered5: false }])
+                }
               >
-                <h4>Palantir Global Impact Scholarship</h4>
-              </a>
+                <a
+                  href="https://www.palantir.com/students/scholarship/global-impact/"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  style={{
+                    color: hovered[0].hovered5 ? "#0da4fd" : "inherit",
+                    fontWeight: "bold",
+                  }}
+                >
+                  Palantir Global Impact Scholarship
+                </a>
+              </h4>
               <p>
                 Palantir has launched the Global Impact Scholarship to celebrate
                 and support students from across the globe who are beginning
@@ -224,18 +288,17 @@ export default function ScholarshipComponent() {
                 historically underrepresented in the field of technology to
                 apply.
               </p>
-             
             </div>
             <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image5}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "200px", height: "200px" }}
                 />
                 <div className="card-body ">
-                  <h6 className="card-title ">
+                  <h6 className="card-title " style={{ color: "black" }}>
                     Palantir Global Impact Scholarship
                   </h6>
 
@@ -251,17 +314,19 @@ export default function ScholarshipComponent() {
               </div>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-4">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image6}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "300px", height: "100px" }}
                 />
-                <div className="card-body ">
-                  <h6 className="card-title ">
+                <div className="card-body">
+                  <h6 className="card-title" style={{ color: "black" }}>
                     Nutanix .heart Women in Technology Scholarship
                   </h6>
 
@@ -277,13 +342,24 @@ export default function ScholarshipComponent() {
               </div>
             </div>
             <div className="col-md-8">
-              <a
-                href="https://www.nutanix.com/scholarships"
-                target="_blank"
-                rel="noreferrer noopener"
+              <h4
+                onMouseOver={() => setHovered([{ ...hovered, hovered6: true }])}
+                onMouseLeave={() =>
+                  setHovered([{ ...hovered, hovered6: false }])
+                }
               >
-                <h4>Nutanix .heart Women in Technology Scholarship</h4>
-              </a>
+                <a
+                  href="https://www.nutanix.com/scholarships"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  style={{
+                    color: hovered[0].hovered6 ? "#0da4fd" : "inherit",
+                    fontWeight: "bold",
+                  }}
+                >
+                  Nutanix Heart Women in Technology Scholarship
+                </a>
+              </h4>
               <p>
                 Nutanix strongly believes in the power of diversity and we want
                 to increase the ratio of women on our engineering teams. So,
@@ -296,15 +372,29 @@ export default function ScholarshipComponent() {
               </p>
             </div>
           </div>
+          <hr />
           <div className="row content-box">
+            
             <div className="col-md-8">
-              <a
-                href="https://ghc.anitab.org/scholarships-2/"
-                target="_blank"
-                rel="noreferrer noopener"
+              <h4
+                onMouseOver={() => setHovered([{ ...hovered, hovered7: true }])}
+                onMouseLeave={() =>
+                  setHovered([{ ...hovered, hovered7: false }])
+                }
               >
-                <h4>Grace Hopper Celebration Scholarships</h4>
-              </a>
+                <a
+                  href="https://ghc.anitab.org/scholarships-2/"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  style={{
+                    color: hovered[0].hovered7 ? "#0da4fd" : "inherit",
+                    fontWeight: "bold",
+                  }}
+                >
+                  Grace Hopper Celebration Scholarships
+                </a>
+              </h4>
+
               <p>
                 The GHC Scholars Program provides funds for women who are either
                 undergraduate students, graduate students, or faculty to attend
@@ -316,13 +406,13 @@ export default function ScholarshipComponent() {
             <div className="col-md-4 order-first order-md-last">
               <div className="card">
                 <img
-                  className="card-img-top w-100"
+                  className="card-img-top"
                   src={image7}
                   alt="card"
-                  style={{ width: "350px", height: "200px" }}
+                  style={{ width: "350px"}}
                 />
-                <div className="card-body ">
-                  <h6 className="card-title ">
+                <div className="card-body">
+                  <h6 className="card-title" style={{ color: "black" }}>
                     Grace Hopper Celebration Scholarships
                   </h6>
 
