@@ -202,17 +202,19 @@ This is an opportunity for all women coders from engineering colleges across the
 11. [Society of Women Engineers India](https://india.swe.org/)
 Be part of a global network of thousands of women engineers and partners who want to help you excel as an engineer and leader.
 
-12. [Twitter DevelopHER]
+12. Twitter DevelopHER
 A virtual two-day program for second year and third year Indian students who identify as women.
+
 13. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
 Hackathon for Women.
+
 14. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
 International Women’s Day Hackathon.
 
 15. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
 Visa Code UR Way to solve algorithm coding challenges, win exciting prizes and stand a chance to win an all-expenses-paid trip to meet to Visa team in Bangalore! Visa is recruiting students for internship and new graduate engineering opportunities. 
 
-16. Microsoft Engage (previously Codess)
+16. [Microsoft Engage (previously Codess)](https://careers.microsoft.com/students/us/en/ind-programs)
 Codess is a community for female coders initiated by Microsoft. Codess was established to explore ways to promote gender diversity in the engineering field.
 
 17. [Uber She++](https://www.uber.com/in/en/about/diversity/women-at-uber/)
@@ -235,6 +237,7 @@ Google Developer Student Clubs (GDSC) are community groups for college and unive
 
 23. [Microsoft Student Learn Ambassadors Program](https://studentambassadors.microsoft.com/)
 Student Ambassadors get access to unique resources like our global student network on Microsoft Teams and a Microsoft 365 account, and can earn badges for activities and contributions to unlock additional benefits such as cloud credits.
+
 24. [MLH Fellowship](https://fellowship.mlh.io/)
 The MLH Fellowship is a remote internship alternative for aspiring technologists. Spend 12 weeks building your skills by collaborating on real-world projects.
 
