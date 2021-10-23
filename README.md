@@ -113,6 +113,12 @@ Through community-based programs and philanthropy, Google works to connect stude
 ### 📌 Harvard WECode
 [Harvard WECode](https://www.harvardwecode.com/) runs the largest student-run women in tech conference in the world. Their mission is to cultivate the next generation of technical leaders, foster a network and community among collegiate engineers, and promote more female representation in the technical industry.
 
+### 📌 Rails Girls
+[Rails Girls](http://railsgirls.com/) aims to give tools and a community for women to understand technology and to build their ideas. They provide self-hosted events to help women get introduced to the world of technology and learn about sketching, prototyping, basic programming, etc. with an emphasis on the Ruby language and Rails framework.
+
+### 📌 Ada's List
+[Ada's List](https://www.adaslist.co/) is an email based group that is open to all women (trans, intersex and cis) and all nonbinary people who are committed to changing the tech industry. It provides a space for women and nonbinary people around the world to connect with each other and feel open to talk about professional topics, share job opportunities, find mentors, etc. in order to encourage a more inclusive and diverse environment in the tech industry.
+
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
