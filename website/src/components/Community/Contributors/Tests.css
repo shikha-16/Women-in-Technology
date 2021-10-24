@@ -6,8 +6,8 @@
 }
 
 .carousel .slide {
-  background: #fff !important;
-  color: black;
+  background: var(--background-color);
+  color: var(--text-color);
   height: 100%;
 }
 
@@ -19,8 +19,7 @@
 }
 
 .myCarousel {
-  background: #fafafa;
-  margin-top: -6%;
+
   width: 54%;
   margin-left: auto;
   margin-right: auto;
@@ -52,7 +51,7 @@
 }
 
 .myCarousel h3 {
-  color: #222;
+  color: var(--text-color);
   font-weight: 100;
   letter-spacing: 0.2px;
   margin-bottom: 4px;
@@ -66,14 +65,14 @@
   margin-top: 0;
   padding-top: 0;
   font-weight: 500;
-  color: #787878;
+  color: var(--text-color);
   font-size: 14px;
 }
 
 .myCarousel p {
   font-weight: 100 !important;
   line-height: 27px;
-  color: #222;
+  color: var(--text-color);
   font-size: 15px;
   font-family: 'Roboto';
   max-height: 67px;
@@ -81,7 +80,7 @@
 
 .myCarousel p:before {
   content: "“";
-  color: #aaa;
+  color: var(--text-color);
   font-size: 26px;
   font-family: 'Roboto';
   font-weight: 100;
@@ -89,7 +88,7 @@
 
 .myCarousel p:after {
   content: "”";
-  color: #aaa;
+  color: var(--text-color);
   font-size: 26px;
   font-family: 'Roboto';
   font-weight: 100;
@@ -130,8 +129,6 @@
     display: none !important;
   }
   .myCarousel {
-    background: #fafafa;
-    margin-top: -9%;
     width: 88%;
     margin-left: auto;
     margin-right: auto;

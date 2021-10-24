@@ -18,7 +18,6 @@ const useStyles = makeStyles((theme) => ({
     // fontSize:'1px',
   },
   heroContent: {
-    backgroundColor: theme.palette.background.paper,
     padding: theme.spacing(4, 0, 4),
   },
   heroButtons: {
@@ -27,11 +26,6 @@ const useStyles = makeStyles((theme) => ({
   cardGrid: {
     paddingTop: theme.spacing(4),
     paddingBottom: theme.spacing(4),
-  },
-  card: {
-    height: "100%",
-    display: "flex",
-    flexDirection: "column",
   },
   cardMedia: {
     paddingTop: '80.25%', // 16:9
@@ -57,7 +51,6 @@ export default function MemberComponent() {
               component="h1"
               variant="h2"
               align="center"
-              color="textPrimary"
               gutterBottom
             >
               Meet the contributors
@@ -68,7 +61,7 @@ export default function MemberComponent() {
           <Grid container spacing={4}>
           {members.map((a, i) => (
             <Grid item xs={12} sm={6} md={6}>
-              <Card className={classes.card}>
+              <Card className="card-member">
                 <CardMedia
                   className={classes.cardMedia}
                   image={a.image}
