@@ -40,7 +40,9 @@ export default function EventsPage() {
            {a.topic}
           </Typography>
            </a>
-          
+          <Typography gutterBottom>
+           {a.description}
+          </Typography>
         </CardContent>
       </CardActionArea>
     </Card>
