@@ -119,6 +119,8 @@ Through community-based programs and philanthropy, Google works to connect stude
 ### 📌 Ada's List
 [Ada's List](https://www.adaslist.co/) is an email based group that is open to all women (trans, intersex and cis) and all nonbinary people who are committed to changing the tech industry. It provides a space for women and nonbinary people around the world to connect with each other and feel open to talk about professional topics, share job opportunities, find mentors, etc. in order to encourage a more inclusive and diverse environment in the tech industry.
 
+### 📌 WIDS (Women in Data Science)
+[Women in Data Science](https://www.widsconference.org/) The Women in Data Science initiative aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. Since 2015, WiDS is a global movement that includes a number of worldwide initiatives, as conferences, datathons, podcasts, an education outreach program and a workshop series.
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
@@ -176,10 +178,20 @@ The Carolyn Leighton Scholarship is offered to students in the APAC region to at
 
 ## Tech Events and Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
+Code Jam to I/O for Women consists of a single online round competition in which you write code to solve algorithmic problems that have multiple layers of difficulty.
+
 2. [Google STEP Internship](https://buildyourfuture.withgoogle.com/programs/step/)
+STEP (Student Training in Engineering Program), formerly known as Engineering Practicum, is a 12-week internship for first and second-year undergraduate students with a passion for computer science.
+
 3. [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
+GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity.
+
 4. [Google Summer of Code](https://summerofcode.withgoogle.com/)
+Google Summer of Code is a global program focused on bringing more student developers into open source software development. 
+
 5. [She Codes by Indeed](https://xathon.mettl.com/event/shecodesindeed)
+Indeed invites women developers to join the coding sprint. SheCodes, Indeed event gives women an opportunity to showcase their skills by solving real-world problems and win some cool prizes. The coding sprint is an online event and includes several open-ended problem statements related to Indeed business.
+
 6. [Outreachy](https://www.outreachy.org/)
 7. [DE Shaw Ascend](https://www.deshawindia.com/desis-ascend-educare/about.pdf)
 8. [Tech Women at Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
