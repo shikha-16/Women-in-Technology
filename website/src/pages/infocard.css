@@ -33,7 +33,7 @@
   }
   
   .cardd1 {
-    background-color: #fff;
+    background: var(--background-color);
     height: 350px;
     width: 270px;
     padding: 3rem 1rem;

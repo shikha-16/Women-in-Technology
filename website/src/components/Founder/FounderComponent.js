@@ -18,20 +18,13 @@ const useStyles = makeStyles((theme) => ({
     marginRight: theme.spacing(2),
   },
   heroContent: {
-    backgroundColor: theme.palette.background.paper,
     padding: theme.spacing(8, 0, 6),
   },
   heroButtons: {
     marginTop: theme.spacing(4),
   },
   cardGrid: {
-    // paddingTop: theme.spacing(2),
     paddingBottom: theme.spacing(8),
-  },
-  card: {
-    height: "100%",
-    display: "flex",
-    flexDirection: "column",
   },
   cardMedia: {
     paddingTop: "50%",
@@ -40,10 +33,6 @@ const useStyles = makeStyles((theme) => ({
     alignContent: "center",
     margin: "auto",
     marginTop: "15px"
-  },
-  cardContent: {
-    flexGrow: 1,
-    // marginTop: '3%',
   },
   footer: {
     backgroundColor: theme.palette.background.paper,
@@ -63,7 +52,6 @@ export default function MemberComponent() {
               component="h1"
               variant="h2"
               align="center"
-              color="textPrimary"
               gutterBottom
             >
               Meet the Founder
@@ -73,7 +61,7 @@ export default function MemberComponent() {
         <Container className={classes.cardGrid} maxWidth="md">
           <Grid container spacing={2}>
             <Grid item xs={12} sm={12} md={12}>
-              <Card className={classes.card}>
+              <Card className="card">
                 <CardMedia
                   className={classes.cardMedia}
                   image={image}
@@ -114,7 +102,7 @@ export default function MemberComponent() {
                   </a>
                 </ul>
 
-                <CardContent className={classes.cardContent}>
+                <CardContent className="card-content">
                   Hi, I'm Shikha Bhat! I'm a third-year student pursuing
                   Computer Science at BITS Pilani, Goa Campus. I'm keen to work
                   at the intersection of computing and social sciences; to be
