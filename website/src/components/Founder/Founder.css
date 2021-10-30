@@ -7,6 +7,7 @@
     display: "flex";
     flex-direction: "column";
     color: var(--text-color) !important;
+    border: none !important;
 }
 
 .card-content {
