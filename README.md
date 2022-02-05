@@ -124,6 +124,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 
 ### 📌 Muses Code JS
 [Muses Code JS](https://musescodejs.org/) Community to programming for the first time or, if you already code, to learn something new about JavaScript and/or Node.js. The half day coding bootcamps are a great opportunity to grow your network and meet new people with similar interests.
+
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
