@@ -124,6 +124,7 @@ Through community-based programs and philanthropy, Google works to connect stude
 
 ### 📌 Muses Code JS
 [Muses Code JS](https://musescodejs.org/) Community to programming for the first time or, if you already code, to learn something new about JavaScript and/or Node.js. The half day coding bootcamps are a great opportunity to grow your network and meet new people with similar interests.
+
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
@@ -222,9 +223,9 @@ _Keep a lookout for these events every year! These links may be unavailable beca
 
 ## <div align="center">Women in Technology Role Models</div>
 
-Strong role models are leading the charge and the change. :raised-hands: As you grow in your career, it’s important that you have access to people you can identify with. Here are some studies to get you started!
+Strong role models are leading the charge and the change. 🙌 As you grow in your career, it’s important that you have access to people you can identify with. Here are some studies to get you started!
 1. [A STUDY:Women in tech careers yearn for female role models and flexibility in the workplace](https://www.pluralsight.com/content/dam/pluralsight/pdfs/landing-pages/b2c/Women_In_Tech.pdf)
-2. [The Untold History of Women in Science and Technology](https://obamawhitehouse.archives.gov/women-in-stem):Listen to women from across the Administration tell the stories of their personal heroes across the fields of science, technology, engineering, and math (STEM). Share them yourself. Add your own. And honor their legacy by committing to encourage a young woman to pursue a career in science.
+2. [The Untold History of Women in Science and Technology](https://obamawhitehouse.archives.gov/women-in-stem): Listen to women from across the Administration tell the stories of their personal heroes across the fields of science, technology, engineering, and math (STEM). Share them yourself. Add your own. And honor their legacy by committing to encourage a young woman to pursue a career in science.
 3. [The Women Who Changed The Tech World](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 4. [Indian Women in Tech](https://www.vogue.in/magazine-story/6-indian-women-in-tech-whose-stories-will-inspire-young-girls-everywhere/)
 
