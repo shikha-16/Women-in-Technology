@@ -16,6 +16,7 @@
     ##### *List of Resources*
     1. [GitHub repository](https://github.com/jwasham/coding-interview-university)
     2. [Codechef DSA](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+    3. [Learn Data Structures](https://www.scaler.com/topics/data-structures/)
     
   * **Theory of Computation** : Deals with how to compute things on a computer
     
