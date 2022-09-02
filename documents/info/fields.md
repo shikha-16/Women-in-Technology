@@ -104,7 +104,9 @@
     ##### *List of Resources*
     1. [Basics](https://www.geeksforgeeks.org/basics-computer-networking/)
     2. [Web Resources](https://www.cs.vu.nl/~ast/CN5/)
-
+    3. [Types of Computer Networks](https://www.interviewbit.com/blog/types-of-computer-networks/)
+    4. [Components of Computer Network](https://www.interviewbit.com/blog/components-of-computer-network/)
+    
   * **Computer Security**: Study of principles behind giving various securities to computer users and their information.
     [Description](https://www.edureka.co/blog/what-is-computer-security/)
   
