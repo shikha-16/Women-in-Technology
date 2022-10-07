@@ -169,6 +169,7 @@
     3. [Google AI](https://ai.google/education/)
     4. [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
     5. [Curated List of Resources](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+    6. [Top Applications of Artificial Intelligence](https://www.interviewbit.com/blog/applications-of-artificial-intelligence/)
     
  ### 4. Software Engineering
  
