@@ -120,6 +120,7 @@
   
     ##### *List of Resources*
     1. [Introduction](https://www.bmc.com/blogs/dbms-database-management-systems/)
+    2. [DBMS Tutorial](https://www.scaler.com/topics/dbms/)
   
 ### 3. Computer Applications
 
