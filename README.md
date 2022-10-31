@@ -177,8 +177,9 @@ The Carolyn Leighton Scholarship is offered to students in the APAC region to at
 * A certificate of participation in WITI’s 27th Annual Global Summit
 * 1 year WITI membership
 
-
-
+#### 9. [Science Ambassador Scholarship](https://www.scienceambassadorscholarship.org/) 
+A full–tuition scholarship for a woman in science, technology, engineering, or math.
+Funded by Cards Against Humanity. 
 
 ## Tech Events and Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
@@ -215,6 +216,7 @@ Indeed invites women developers to join the coding sprint. SheCodes, Indeed even
 22. [Microsoft Student Learn Ambassadors Program](https://studentambassadors.microsoft.com/)
 23. [MLH Fellowship](https://fellowship.mlh.io/)
 24. [Github Campus Expert](https://education.github.com/experts)
+25. [Technovation Girls Challenge](https://technovationchallenge.org/)
 
 
 _Keep a lookout for these events every year! These links may be unavailable because the events keep getting updated every year or may have new names/websites. If so, a simple google search will yield updated results.  I request you to kindly update it here as well, if you find a new link. I am not completely removing any event however, since it may be renewed the next year, so it'll help if you give it a search. Let's all help the community grow!_
