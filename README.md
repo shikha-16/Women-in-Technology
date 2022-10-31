@@ -177,8 +177,9 @@ The Carolyn Leighton Scholarship is offered to students in the APAC region to at
 * A certificate of participation in WITI’s 27th Annual Global Summit
 * 1 year WITI membership
 
-
-
+#### 9. [Science Ambassador Scholarship](https://www.scienceambassadorscholarship.org/) 
+A full–tuition scholarship for a woman in science, technology, engineering, or math.
+Funded by Cards Against Humanity. 
 
 ## Tech Events and Programs
 1. [Google Codejam io for Women](https://codingcompetitions.withgoogle.com/codejamio)
