@@ -45,6 +45,7 @@ Once you know basic coding, get started! Dive into any one of these, and learn m
 7. [IoT](https://builtin.com/internet-things); [guide](https://github.com/shikha-16/private/blob/master/documents/info/pdf/IoT-a-beginners-guide-v1-sept27-1.pdf)
 8. [Cybersecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
 9. [Hackathons](https://github.com/nishapant/Women-in-Tech-Resources#all-women-hackathons)
+10. [Scaler Blogs](https://www.scaler.com/blog/)
 
 ---
 
