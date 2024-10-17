@@ -125,6 +125,17 @@ Through community-based programs and philanthropy, Google works to connect stude
 ### 📌 Muses Code JS
 [Muses Code JS](https://musescodejs.org/) Community to programming for the first time or, if you already code, to learn something new about JavaScript and/or Node.js. The half day coding bootcamps are a great opportunity to grow your network and meet new people with similar interests.
 
+### 📌 Kode with Klossy
+[Kode with Klossy](https://www.kodewithklossy.com) creates learning experiences and opportunities for young women and gender expansive youth. Its programs ignite a spark that fuels our scholars' agency to pursue their passions in a tech-driven world.
+
+### 📌 Laboratória
+[Laboratória](https://www.laboratoria.la/) 
+was created with the mission of transforming the lives of thousands of Latin American women through a career in technology. Today, thanks to the fact that the bootcamp is completely remote, it has been possible to reach more countries in Latin America and the world.
+
+### 📌 WoMakersCode
+[WoMakersCode](https://womakerscode.org/en/) 
+is a community that promotes the training of women in the technology area through workshops, courses and events. WoMakersCode also partners with companies to connect women to job opportunities in Brazil.
+
 ---
 
 ## <div align="center">Scholarships and Programs for Women</div>
