@@ -367,4 +367,4 @@ _No copyright infringement intended._
 
 _This is NOT an exhaustive list._
 
-## Curated and maintained by [Shikha Bhat](https://github.com/shikha-16)
+## Curated and maintained by [Nitya Gosain](https://github.com/Nitya-003)
