@@ -293,6 +293,7 @@ _Founder and CEO, Mad Street Den_
 17. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ::busts_in_silhouette::
 18. [GitHub Education](https://education.github.com/pack) :beginner:
 19. [ Hacktoberfest](https://hacktoberfest.digitalocean.com/resources)  :information_source:
+20. [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Daily-updated Canadian student and recent-grad internships, co-ops, junior, and entry-level jobs across tech, finance, engineering, business, and sciences.
 
 **Also check out the [GitHub README Project](https://github.com/readme) for some amazing and inspiring stories!**
 
